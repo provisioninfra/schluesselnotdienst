@@ -6,9 +6,9 @@
 |---|---|---|
 | URL / Slug | `barendorf` | |
 | Seitentitel (Page Title) | Schlüsseldienst Barendorf – 24h Notdienst zum Festpreis | 55 |
-| Beschreibung (Description) | Schlüsseldienst Barendorf: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 25 Min. bei Dir. Jetzt anrufen: 05821 4049049 | 153 |
+| Beschreibung (Description) | Schlüsseldienst Barendorf: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 25 Min. bei Dir. ☎ 05821 4049049 | 149 |
 | Keywords | Schlüsseldienst Barendorf, Schlüsselnotdienst Barendorf, Türöffnung Barendorf, Schlüsseldienst Barendorf 24h, Aufsperrdienst Barendorf, Schlüsseldienst Barendorf Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „Schlüsselnotdienst Baumann – Schlüsseldienst in Barendorf“ | |
+| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Barendorf“ | |
 | Indexierung | **erlaubt** (an) | |
 
 > Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
@@ -23,9 +23,9 @@ Schlüsseldienst Barendorf – Schlüsselnotdienst 24/7 zum Festpreis
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Ausgesperrt in Barendorf? Schlüssel abgebrochen, verloren oder innen stecken geblieben? Der Schlüsselnotdienst Baumann aus Bad Bevensen ist Dein Schlüsseldienst für Barendorf (Gemeinde, Landkreis Lüneburg, Samtgemeinde Ostheide). Wir sind rund um die Uhr erreichbar und in der Regel in etwa 25 Minuten bei Dir vor Ort. Der Preis für die Türöffnung steht vorher fest – Du erfährst ihn am Telefon, bevor wir losfahren.
+Ausgesperrt in Barendorf? Schlüssel abgebrochen, verloren oder innen stecken geblieben? Der ProVision Infra Schlüsselnotdienst aus Bad Bevensen ist Dein Schlüsseldienst für Barendorf (Gemeinde, Landkreis Lüneburg, Samtgemeinde Ostheide). Wir sind rund um die Uhr erreichbar und in der Regel in etwa 25 Minuten bei Dir vor Ort. Der Preis für die Türöffnung steht vorher fest – Du erfährst ihn am Telefon, bevor wir losfahren.
 
-### H2: Schlüsselnotdienst Baumann für Barendorf – aus der Region, für die Region
+### H2: ProVision Infra Schlüsselnotdienst für Barendorf – aus der Region, für die Region
 Barendorf und die Samtgemeinde Ostheide östlich von Lüneburg an der B216 erreichen wir in rund 25 Minuten – auch Vastorf, Wendisch Evern, Reinstorf und Thomasburg. Unser Einsatzfahrzeug ist so ausgestattet, dass wir in Barendorf nicht nur Türen öffnen, sondern bei Bedarf sofort einen neuen Schließzylinder einbauen können.
 
 ### H2: Unsere Leistungen in Barendorf
@@ -38,7 +38,7 @@ Barendorf und die Samtgemeinde Ostheide östlich von Lüneburg an der B216 errei
 - **H3: Einbruchschutz & Sicherheitsberatung** – Kostenlose Beratung vor Ort in Barendorf: Beschläge, Zusatzschlösser, Panzerriegel und Tipps, wie Du Dein Zuhause sicherer machst.
 
 ### H2: Was kostet der Schlüsseldienst in Barendorf?
-Die Verbraucherzentrale hält für eine Türöffnung tagsüber Gesamtpreise im unteren dreistelligen Bereich für angemessen – genau in diesem Rahmen bewegen wir uns in Barendorf. Den konkreten Festpreis erfährst Du vor der Auftragserteilung am Telefon. Es gibt keine getrennten Anfahrtskosten, keinen Aufschlag für „schwierige“ Öffnungen und keine Barzahlungspflicht: Karte und PayPal sind genauso möglich.
+Die Verbraucherzentrale hält für eine Türöffnung tagsüber Gesamtpreise im unteren dreistelligen Bereich für angemessen – genau in diesem Rahmen bewegen wir uns in Barendorf. Den konkreten Festpreis erfährst Du vor der Auftragserteilung am Telefon. Es gibt keine getrennten Anfahrtskosten, keinen Aufschlag für „schwierige“ Öffnungen und keine Barzahlungspflicht: Karte und PayPal sind genauso möglich. Konkret: Die Türöffnung in Barendorf kostet montags bis freitags von 8 bis 18 Uhr 135 € Festpreis inklusive Anfahrt und Mehrwertsteuer; nachts, am Wochenende und an Feiertagen kommen 54 € Zuschlag dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, der Austausch eines Profilzylinders beginnt bei 60 € zzgl. Material.
 
 ### H2: So läuft Deine Türöffnung in Barendorf ab
 
@@ -63,7 +63,7 @@ Die Verbraucherzentrale hält für eine Türöffnung tagsüber Gesamtpreise im u
 Von unserem Standort in Bad Bevensen brauchen wir nach Barendorf in der Regel etwa 25 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
 **H3: Was kostet eine Türöffnung in Barendorf?**  
-Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten.
+Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten.
 
 **H3: Muss ich mich ausweisen?**  
 Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung rechtsverbindlich versichern. Details stehen in unseren AGB.
@@ -91,13 +91,13 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 
 ### Kontaktblock (Footer-Bereich der Seite)
 
-Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
+ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
 
 ## 3. Bilder (Alt-Texte)
 
-- Hero-Bild: „Schlüsseldienst Baumann öffnet eine Haustür in Barendorf“
-- Logo: „Schlüsselnotdienst Baumann – Logo“
-- Fahrzeug/Team: „Mobiler Schlüsselnotdienst Baumann im Einsatz in Barendorf“
+- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Barendorf“
+- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
+- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Barendorf“
 
 ## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
 
@@ -110,7 +110,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
   "name": "Schlüsseldienst Barendorf – Türöffnung & Schlüsselnotdienst",
   "serviceType": "Schlüsselnotdienst / Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/barendorf",
-  "description": "Schlüsseldienst Barendorf: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 25 Min. bei Dir. Jetzt anrufen: 05821 4049049",
+  "description": "Schlüsseldienst Barendorf: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 25 Min. bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -147,6 +147,15 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
     ],
     "opens": "00:00",
     "closes": "23:59"
+  },
+  "offers": {
+    "@type": "Offer",
+    "name": "Türöffnung Barendorf zum Festpreis",
+    "price": "135",
+    "priceCurrency": "EUR",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "availability": "https://schema.org/InStock",
+    "areaServed": "Barendorf"
   }
 }
 </script>
@@ -188,7 +197,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
       "name": "Was kostet eine Türöffnung in Barendorf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten."
+        "text": "Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten."
       }
     },
     {

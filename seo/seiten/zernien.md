@@ -6,9 +6,9 @@
 |---|---|---|
 | URL / Slug | `zernien` | |
 | Seitentitel (Page Title) | Schlüsseldienst Zernien – 24h Notdienst zum Festpreis | 53 |
-| Beschreibung (Description) | Schlüsseldienst Zernien: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 30 Min. bei Dir. Jetzt anrufen: 05821 4049049 | 151 |
+| Beschreibung (Description) | Schlüsseldienst Zernien: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 30 Min. bei Dir. ☎ 05821 4049049 | 147 |
 | Keywords | Schlüsseldienst Zernien, Schlüsselnotdienst Zernien, Türöffnung Zernien, Schlüsseldienst Zernien 24h, Aufsperrdienst Zernien, Schlüsseldienst Zernien Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „Schlüsselnotdienst Baumann – Schlüsseldienst in Zernien“ | |
+| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Zernien“ | |
 | Indexierung | **erlaubt** (an) | |
 
 > Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
@@ -23,9 +23,9 @@ Schlüsseldienst Zernien – Schlüsselnotdienst 24/7 zum Festpreis
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Der Schlüsseldienst für Zernien (Gemeinde, Landkreis Lüchow-Dannenberg, Samtgemeinde Elbtalaue): Wenn die Tür zugefallen ist oder das Schloss klemmt, hilft der Schlüsselnotdienst Baumann – 24 Stunden am Tag, auch nachts, am Wochenende und an Feiertagen. Von unserem Standort in Bad Bevensen sind wir in rund 30 Minuten in Zernien. Wir öffnen zerstörungsfrei, zum Festpreis und ohne versteckte Anfahrtskosten.
+Der Schlüsseldienst für Zernien (Gemeinde, Landkreis Lüchow-Dannenberg, Samtgemeinde Elbtalaue): Wenn die Tür zugefallen ist oder das Schloss klemmt, hilft der ProVision Infra Schlüsselnotdienst – 24 Stunden am Tag, auch nachts, am Wochenende und an Feiertagen. Von unserem Standort in Bad Bevensen sind wir in rund 30 Minuten in Zernien. Wir öffnen zerstörungsfrei, zum Festpreis und ohne versteckte Anfahrtskosten.
 
-### H2: Schlüsselnotdienst Baumann für Zernien – aus der Region, für die Region
+### H2: ProVision Infra Schlüsselnotdienst für Zernien – aus der Region, für die Region
 Zernien an der B216 zwischen Dahlenburg und Dannenberg, am Rand der Göhrde, erreichen wir in rund einer halben Stunde. Unser Einsatzfahrzeug ist so ausgestattet, dass wir in Zernien nicht nur Türen öffnen, sondern bei Bedarf sofort einen neuen Schließzylinder einbauen können.
 
 ### H2: Unsere Leistungen in Zernien
@@ -38,7 +38,7 @@ Zernien an der B216 zwischen Dahlenburg und Dannenberg, am Rand der Göhrde, err
 - **H3: Einbruchschutz & Sicherheitsberatung** – Kostenlose Beratung vor Ort in Zernien: Beschläge, Zusatzschlösser, Panzerriegel und Tipps, wie Du Dein Zuhause sicherer machst.
 
 ### H2: Was kostet der Schlüsseldienst in Zernien?
-Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Zernien inklusive, Zuschlag für Nacht/Wochenende/Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit – bar, mit Karte oder per PayPal, für Geschäftskunden auch auf Rechnung.
+Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Zernien inklusive, Zuschlag für Nacht/Wochenende/Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit – bar, mit Karte oder per PayPal, für Geschäftskunden auch auf Rechnung. Konkret: Die Türöffnung in Zernien kostet montags bis freitags von 8 bis 18 Uhr 135 € Festpreis inklusive Anfahrt und Mehrwertsteuer; nachts, am Wochenende und an Feiertagen kommen 54 € Zuschlag dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, der Austausch eines Profilzylinders beginnt bei 60 € zzgl. Material.
 
 ### H2: So läuft Deine Türöffnung in Zernien ab
 
@@ -63,7 +63,7 @@ Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Zernien ink
 Von unserem Standort in Bad Bevensen brauchen wir nach Zernien in der Regel etwa 30 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
 **H3: Was kostet eine Türöffnung in Zernien?**  
-Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten.
+Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten.
 
 **H3: Wird meine Tür beim Öffnen beschädigt?**  
 In über 90 % der Fälle öffnen wir zerstörungsfrei. Bei zugefallenen Türen ist das fast immer möglich; bei abgeschlossenen Türen informieren wir Dich vorher, falls ein Zylinder getauscht werden muss.
@@ -91,13 +91,13 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 
 ### Kontaktblock (Footer-Bereich der Seite)
 
-Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
+ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
 
 ## 3. Bilder (Alt-Texte)
 
-- Hero-Bild: „Schlüsseldienst Baumann öffnet eine Haustür in Zernien“
-- Logo: „Schlüsselnotdienst Baumann – Logo“
-- Fahrzeug/Team: „Mobiler Schlüsselnotdienst Baumann im Einsatz in Zernien“
+- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Zernien“
+- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
+- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Zernien“
 
 ## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
 
@@ -110,7 +110,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
   "name": "Schlüsseldienst Zernien – Türöffnung & Schlüsselnotdienst",
   "serviceType": "Schlüsselnotdienst / Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/zernien",
-  "description": "Schlüsseldienst Zernien: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 30 Min. bei Dir. Jetzt anrufen: 05821 4049049",
+  "description": "Schlüsseldienst Zernien: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 30 Min. bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -147,6 +147,15 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
     ],
     "opens": "00:00",
     "closes": "23:59"
+  },
+  "offers": {
+    "@type": "Offer",
+    "name": "Türöffnung Zernien zum Festpreis",
+    "price": "135",
+    "priceCurrency": "EUR",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "availability": "https://schema.org/InStock",
+    "areaServed": "Zernien"
   }
 }
 </script>
@@ -188,7 +197,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
       "name": "Was kostet eine Türöffnung in Zernien?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten."
+        "text": "Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten."
       }
     },
     {

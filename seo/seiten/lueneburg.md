@@ -6,9 +6,9 @@
 |---|---|---|
 | URL / Slug | `lueneburg` | |
 | Seitentitel (Page Title) | Schlüsseldienst Lüneburg – 24h Notdienst zum Festpreis | 54 |
-| Beschreibung (Description) | Schlüsseldienst Lüneburg: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 30 Min. bei Dir. Jetzt anrufen: 05821 4049049 | 152 |
+| Beschreibung (Description) | Schlüsseldienst Lüneburg: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 30 Min. bei Dir. ☎ 05821 4049049 | 148 |
 | Keywords | Schlüsseldienst Lüneburg, Schlüsselnotdienst Lüneburg, Türöffnung Lüneburg, Schlüsseldienst Lüneburg 24h, Aufsperrdienst Lüneburg, Schlüsseldienst Lüneburg Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „Schlüsselnotdienst Baumann – Schlüsseldienst in Lüneburg“ | |
+| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Lüneburg“ | |
 | Indexierung | **erlaubt** (an) | |
 
 > Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
@@ -23,9 +23,9 @@ Schlüsseldienst Lüneburg – Schlüsselnotdienst 24/7 zum Festpreis
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Der Schlüsseldienst für Lüneburg (Hansestadt, Landkreis Lüneburg): Wenn die Tür zugefallen ist oder das Schloss klemmt, hilft der Schlüsselnotdienst Baumann – 24 Stunden am Tag, auch nachts, am Wochenende und an Feiertagen. Von unserem Standort in Bad Bevensen sind wir in rund 30 Minuten in Lüneburg. Wir öffnen zerstörungsfrei, zum Festpreis und ohne versteckte Anfahrtskosten.
+Der Schlüsseldienst für Lüneburg (Hansestadt, Landkreis Lüneburg): Wenn die Tür zugefallen ist oder das Schloss klemmt, hilft der ProVision Infra Schlüsselnotdienst – 24 Stunden am Tag, auch nachts, am Wochenende und an Feiertagen. Von unserem Standort in Bad Bevensen sind wir in rund 30 Minuten in Lüneburg. Wir öffnen zerstörungsfrei, zum Festpreis und ohne versteckte Anfahrtskosten.
 
-### H2: Schlüsselnotdienst Baumann für Lüneburg – aus der Region, für die Region
+### H2: ProVision Infra Schlüsselnotdienst für Lüneburg – aus der Region, für die Region
 Von der historischen Altstadt mit ihren Backsteinhäusern über Kaltenmoor und Kreideberg bis Oedeme und Rettmer: In Lüneburg sind wir regelmäßig unterwegs – auch bei alten Haustüren und Kastenschlössern. Wir kommen in alle Stadt- und Ortsteile – darunter Altstadt, Kaltenmoor, Kreideberg, Goseburg-Zeltberg, Oedeme, Ochtmissen, Rettmer, Häcklingen, Rotes Feld, Bockelsberg, Moorfeld und Wilschenbruch. Als mobiler Schlüsseldienst haben wir das komplette Werkzeug und gängige Profilzylinder im Fahrzeug dabei, sodass wir die meisten Aufträge in Lüneburg direkt vor Ort abschließen können.
 
 ### H2: Unsere Leistungen in Lüneburg
@@ -38,7 +38,7 @@ Von der historischen Altstadt mit ihren Backsteinhäusern über Kaltenmoor und K
 - **H3: Einbruchschutz & Sicherheitsberatung** – Kostenlose Beratung vor Ort in Lüneburg: Beschläge, Zusatzschlösser, Panzerriegel und Tipps, wie Du Dein Zuhause sicherer machst.
 
 ### H2: Was kostet der Schlüsseldienst in Lüneburg?
-Bei uns gibt es keine Überraschungen auf der Rechnung. Du bekommst den Festpreis für Deine Türöffnung in Lüneburg am Telefon genannt – inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den wir Dir ebenfalls vorher sagen. Nur wenn Material nötig ist (z. B. ein neuer Zylinder), kommen Materialkosten dazu – auch das besprechen wir vor dem Einbau. Zahlen kannst Du bar, mit EC- oder Kreditkarte oder per PayPal.
+Bei uns gibt es keine Überraschungen auf der Rechnung. Du bekommst den Festpreis für Deine Türöffnung in Lüneburg am Telefon genannt – inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den wir Dir ebenfalls vorher sagen. Nur wenn Material nötig ist (z. B. ein neuer Zylinder), kommen Materialkosten dazu – auch das besprechen wir vor dem Einbau. Zahlen kannst Du bar, mit EC- oder Kreditkarte oder per PayPal. Konkret: Die Türöffnung in Lüneburg kostet montags bis freitags von 8 bis 18 Uhr 135 € Festpreis inklusive Anfahrt und Mehrwertsteuer; nachts, am Wochenende und an Feiertagen kommen 54 € Zuschlag dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, der Austausch eines Profilzylinders beginnt bei 60 € zzgl. Material.
 
 ### H2: So läuft Deine Türöffnung in Lüneburg ab
 
@@ -63,7 +63,7 @@ Bei uns gibt es keine Überraschungen auf der Rechnung. Du bekommst den Festprei
 Von unserem Standort in Bad Bevensen brauchen wir nach Lüneburg in der Regel etwa 30 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
 **H3: Was kostet eine Türöffnung in Lüneburg?**  
-Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten.
+Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten.
 
 **H3: Wird meine Tür beim Öffnen beschädigt?**  
 In über 90 % der Fälle öffnen wir zerstörungsfrei. Bei zugefallenen Türen ist das fast immer möglich; bei abgeschlossenen Türen informieren wir Dich vorher, falls ein Zylinder getauscht werden muss.
@@ -88,13 +88,13 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 
 ### Kontaktblock (Footer-Bereich der Seite)
 
-Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
+ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
 
 ## 3. Bilder (Alt-Texte)
 
-- Hero-Bild: „Schlüsseldienst Baumann öffnet eine Haustür in Lüneburg“
-- Logo: „Schlüsselnotdienst Baumann – Logo“
-- Fahrzeug/Team: „Mobiler Schlüsselnotdienst Baumann im Einsatz in Lüneburg“
+- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Lüneburg“
+- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
+- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Lüneburg“
 
 ## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
 
@@ -107,7 +107,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
   "name": "Schlüsseldienst Lüneburg – Türöffnung & Schlüsselnotdienst",
   "serviceType": "Schlüsselnotdienst / Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/lueneburg",
-  "description": "Schlüsseldienst Lüneburg: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 30 Min. bei Dir. Jetzt anrufen: 05821 4049049",
+  "description": "Schlüsseldienst Lüneburg: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 30 Min. bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -144,6 +144,15 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
     ],
     "opens": "00:00",
     "closes": "23:59"
+  },
+  "offers": {
+    "@type": "Offer",
+    "name": "Türöffnung Lüneburg zum Festpreis",
+    "price": "135",
+    "priceCurrency": "EUR",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "availability": "https://schema.org/InStock",
+    "areaServed": "Lüneburg"
   }
 }
 </script>
@@ -185,7 +194,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
       "name": "Was kostet eine Türöffnung in Lüneburg?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten."
+        "text": "Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten."
       }
     },
     {

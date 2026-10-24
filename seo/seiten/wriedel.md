@@ -6,9 +6,9 @@
 |---|---|---|
 | URL / Slug | `wriedel` | |
 | Seitentitel (Page Title) | Schlüsseldienst Wriedel – 24h Notdienst zum Festpreis | 53 |
-| Beschreibung (Description) | Schlüsseldienst Wriedel: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 22 Min. bei Dir. Jetzt anrufen: 05821 4049049 | 151 |
+| Beschreibung (Description) | Schlüsseldienst Wriedel: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 22 Min. bei Dir. ☎ 05821 4049049 | 147 |
 | Keywords | Schlüsseldienst Wriedel, Schlüsselnotdienst Wriedel, Türöffnung Wriedel, Schlüsseldienst Wriedel 24h, Aufsperrdienst Wriedel, Schlüsseldienst Wriedel Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „Schlüsselnotdienst Baumann – Schlüsseldienst in Wriedel“ | |
+| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Wriedel“ | |
 | Indexierung | **erlaubt** (an) | |
 
 > Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
@@ -23,9 +23,9 @@ Schlüsseldienst Wriedel – Schlüsselnotdienst 24/7 zum Festpreis
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Tür zu, Schlüssel drinnen – und das ausgerechnet in Wriedel? Kein Problem. Der Schlüsselnotdienst Baumann ist der Schlüsseldienst für Wriedel (Gemeinde, Landkreis Uelzen, Samtgemeinde Bevensen-Ebstorf) und erreicht Dich von Bad Bevensen aus in rund 22 Minuten. Wir arbeiten zerstörungsfrei, transparent und zum vorher vereinbarten Festpreis – ohne Aufschläge für die Anfahrt.
+Tür zu, Schlüssel drinnen – und das ausgerechnet in Wriedel? Kein Problem. Der ProVision Infra Schlüsselnotdienst ist der Schlüsseldienst für Wriedel (Gemeinde, Landkreis Uelzen, Samtgemeinde Bevensen-Ebstorf) und erreicht Dich von Bad Bevensen aus in rund 22 Minuten. Wir arbeiten zerstörungsfrei, transparent und zum vorher vereinbarten Festpreis – ohne Aufschläge für die Anfahrt.
 
-### H2: Schlüsselnotdienst Baumann für Wriedel – aus der Region, für die Region
+### H2: ProVision Infra Schlüsselnotdienst für Wriedel – aus der Region, für die Region
 Wriedel mit Brambostel, Schatensen und Wettenbostel liegt westlich von Ebstorf – wir sind in gut 20 Minuten bei Dir. Wir kommen in alle Stadt- und Ortsteile – darunter Brambostel, Schatensen und Wettenbostel. Weil wir aus der Region kommen, kennen wir die Wege in und um Wriedel – das spart Zeit, wenn es wirklich eilt.
 
 ### H2: Unsere Leistungen in Wriedel
@@ -38,7 +38,7 @@ Wriedel mit Brambostel, Schatensen und Wettenbostel liegt westlich von Ebstorf �
 - **H3: Einbruchschutz & Sicherheitsberatung** – Kostenlose Beratung vor Ort in Wriedel: Beschläge, Zusatzschlösser, Panzerriegel und Tipps, wie Du Dein Zuhause sicherer machst.
 
 ### H2: Was kostet der Schlüsseldienst in Wriedel?
-Die Verbraucherzentrale hält für eine Türöffnung tagsüber Gesamtpreise im unteren dreistelligen Bereich für angemessen – genau in diesem Rahmen bewegen wir uns in Wriedel. Den konkreten Festpreis erfährst Du vor der Auftragserteilung am Telefon. Es gibt keine getrennten Anfahrtskosten, keinen Aufschlag für „schwierige“ Öffnungen und keine Barzahlungspflicht: Karte und PayPal sind genauso möglich.
+Die Verbraucherzentrale hält für eine Türöffnung tagsüber Gesamtpreise im unteren dreistelligen Bereich für angemessen – genau in diesem Rahmen bewegen wir uns in Wriedel. Den konkreten Festpreis erfährst Du vor der Auftragserteilung am Telefon. Es gibt keine getrennten Anfahrtskosten, keinen Aufschlag für „schwierige“ Öffnungen und keine Barzahlungspflicht: Karte und PayPal sind genauso möglich. Konkret: Die Türöffnung in Wriedel kostet montags bis freitags von 8 bis 18 Uhr 135 € Festpreis inklusive Anfahrt und Mehrwertsteuer; nachts, am Wochenende und an Feiertagen kommen 54 € Zuschlag dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, der Austausch eines Profilzylinders beginnt bei 60 € zzgl. Material.
 
 ### H2: So läuft Deine Türöffnung in Wriedel ab
 
@@ -63,7 +63,7 @@ Die Verbraucherzentrale hält für eine Türöffnung tagsüber Gesamtpreise im u
 Von unserem Standort in Bad Bevensen brauchen wir nach Wriedel in der Regel etwa 22 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
 **H3: Was kostet eine Türöffnung in Wriedel?**  
-Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten.
+Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten.
 
 **H3: Woran erkenne ich einen seriösen Schlüsseldienst in Wriedel?**  
 An einem festen Preis vor Auftragserteilung, einer regionalen Adresse im Impressum, einer Festnetznummer und daran, dass keine Barzahlung erzwungen wird. All das findest Du bei uns – wir sitzen in Bad Bevensen und sind seit Jahren in der Region tätig.
@@ -88,13 +88,13 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 
 ### Kontaktblock (Footer-Bereich der Seite)
 
-Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
+ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
 
 ## 3. Bilder (Alt-Texte)
 
-- Hero-Bild: „Schlüsseldienst Baumann öffnet eine Haustür in Wriedel“
-- Logo: „Schlüsselnotdienst Baumann – Logo“
-- Fahrzeug/Team: „Mobiler Schlüsselnotdienst Baumann im Einsatz in Wriedel“
+- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Wriedel“
+- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
+- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Wriedel“
 
 ## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
 
@@ -107,7 +107,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
   "name": "Schlüsseldienst Wriedel – Türöffnung & Schlüsselnotdienst",
   "serviceType": "Schlüsselnotdienst / Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/wriedel",
-  "description": "Schlüsseldienst Wriedel: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 22 Min. bei Dir. Jetzt anrufen: 05821 4049049",
+  "description": "Schlüsseldienst Wriedel: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 22 Min. bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -144,6 +144,15 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
     ],
     "opens": "00:00",
     "closes": "23:59"
+  },
+  "offers": {
+    "@type": "Offer",
+    "name": "Türöffnung Wriedel zum Festpreis",
+    "price": "135",
+    "priceCurrency": "EUR",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "availability": "https://schema.org/InStock",
+    "areaServed": "Wriedel"
   }
 }
 </script>
@@ -185,7 +194,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
       "name": "Was kostet eine Türöffnung in Wriedel?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten."
+        "text": "Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten."
       }
     },
     {

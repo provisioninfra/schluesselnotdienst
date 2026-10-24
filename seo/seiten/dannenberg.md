@@ -6,9 +6,9 @@
 |---|---|---|
 | URL / Slug | `dannenberg` | |
 | Seitentitel (Page Title) | Schlüsseldienst Dannenberg – 24h Notdienst zum Festpreis | 56 |
-| Beschreibung (Description) | Schlüsseldienst Dannenberg: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 40 Min. bei Dir. Jetzt anrufen: 05821 4049049 | 154 |
+| Beschreibung (Description) | Schlüsseldienst Dannenberg: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 40 Min. bei Dir. ☎ 05821 4049049 | 150 |
 | Keywords | Schlüsseldienst Dannenberg, Schlüsselnotdienst Dannenberg, Türöffnung Dannenberg, Schlüsseldienst Dannenberg 24h, Aufsperrdienst Dannenberg, Schlüsseldienst Dannenberg Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „Schlüsselnotdienst Baumann – Schlüsseldienst in Dannenberg“ | |
+| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Dannenberg“ | |
 | Indexierung | **erlaubt** (an) | |
 
 > Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
@@ -23,9 +23,9 @@ Schlüsseldienst Dannenberg – Schlüsselnotdienst 24/7 zum Festpreis
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Schnelle Hilfe statt Abzocke: In Dannenberg und Umgebung ist der Schlüsselnotdienst Baumann Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Als regionaler Betrieb aus Bad Bevensen (Landkreis Lüchow-Dannenberg) nennen wir Dir den Festpreis vorab am Telefon und sind in etwa 40 Minuten bei Dir – Tag und Nacht.
+Schnelle Hilfe statt Abzocke: In Dannenberg und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Als regionaler Betrieb aus Bad Bevensen (Landkreis Lüchow-Dannenberg) nennen wir Dir den Festpreis vorab am Telefon und sind in etwa 40 Minuten bei Dir – Tag und Nacht.
 
-### H2: Schlüsselnotdienst Baumann für Dannenberg – aus der Region, für die Region
+### H2: ProVision Infra Schlüsselnotdienst für Dannenberg – aus der Region, für die Region
 Dannenberg ist das Zentrum der Samtgemeinde Elbtalaue – über die B216 sind wir in rund 40 Minuten bei Dir, auch in den umliegenden Dörfern. Unser Einsatzfahrzeug ist so ausgestattet, dass wir in Dannenberg nicht nur Türen öffnen, sondern bei Bedarf sofort einen neuen Schließzylinder einbauen können.
 
 ### H2: Unsere Leistungen in Dannenberg
@@ -38,7 +38,7 @@ Dannenberg ist das Zentrum der Samtgemeinde Elbtalaue – über die B216 sind wi
 - **H3: Einbruchschutz & Sicherheitsberatung** – Kostenlose Beratung vor Ort in Dannenberg: Beschläge, Zusatzschlösser, Panzerriegel und Tipps, wie Du Dein Zuhause sicherer machst.
 
 ### H2: Was kostet der Schlüsseldienst in Dannenberg?
-Die Verbraucherzentrale hält für eine Türöffnung tagsüber Gesamtpreise im unteren dreistelligen Bereich für angemessen – genau in diesem Rahmen bewegen wir uns in Dannenberg. Den konkreten Festpreis erfährst Du vor der Auftragserteilung am Telefon. Es gibt keine getrennten Anfahrtskosten, keinen Aufschlag für „schwierige“ Öffnungen und keine Barzahlungspflicht: Karte und PayPal sind genauso möglich.
+Die Verbraucherzentrale hält für eine Türöffnung tagsüber Gesamtpreise im unteren dreistelligen Bereich für angemessen – genau in diesem Rahmen bewegen wir uns in Dannenberg. Den konkreten Festpreis erfährst Du vor der Auftragserteilung am Telefon. Es gibt keine getrennten Anfahrtskosten, keinen Aufschlag für „schwierige“ Öffnungen und keine Barzahlungspflicht: Karte und PayPal sind genauso möglich. Konkret: Die Türöffnung in Dannenberg kostet montags bis freitags von 8 bis 18 Uhr 135 € Festpreis inklusive Anfahrt und Mehrwertsteuer; nachts, am Wochenende und an Feiertagen kommen 54 € Zuschlag dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, der Austausch eines Profilzylinders beginnt bei 60 € zzgl. Material.
 
 ### H2: So läuft Deine Türöffnung in Dannenberg ab
 
@@ -63,7 +63,7 @@ Die Verbraucherzentrale hält für eine Türöffnung tagsüber Gesamtpreise im u
 Von unserem Standort in Bad Bevensen brauchen wir nach Dannenberg in der Regel etwa 40 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
 **H3: Was kostet eine Türöffnung in Dannenberg?**  
-Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten.
+Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten.
 
 **H3: Wird meine Tür beim Öffnen beschädigt?**  
 In über 90 % der Fälle öffnen wir zerstörungsfrei. Bei zugefallenen Türen ist das fast immer möglich; bei abgeschlossenen Türen informieren wir Dich vorher, falls ein Zylinder getauscht werden muss.
@@ -88,13 +88,13 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 
 ### Kontaktblock (Footer-Bereich der Seite)
 
-Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
+ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
 
 ## 3. Bilder (Alt-Texte)
 
-- Hero-Bild: „Schlüsseldienst Baumann öffnet eine Haustür in Dannenberg“
-- Logo: „Schlüsselnotdienst Baumann – Logo“
-- Fahrzeug/Team: „Mobiler Schlüsselnotdienst Baumann im Einsatz in Dannenberg“
+- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Dannenberg“
+- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
+- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Dannenberg“
 
 ## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
 
@@ -107,7 +107,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
   "name": "Schlüsseldienst Dannenberg – Türöffnung & Schlüsselnotdienst",
   "serviceType": "Schlüsselnotdienst / Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/dannenberg",
-  "description": "Schlüsseldienst Dannenberg: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 40 Min. bei Dir. Jetzt anrufen: 05821 4049049",
+  "description": "Schlüsseldienst Dannenberg: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 40 Min. bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -144,6 +144,15 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
     ],
     "opens": "00:00",
     "closes": "23:59"
+  },
+  "offers": {
+    "@type": "Offer",
+    "name": "Türöffnung Dannenberg zum Festpreis",
+    "price": "135",
+    "priceCurrency": "EUR",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "availability": "https://schema.org/InStock",
+    "areaServed": "Dannenberg"
   }
 }
 </script>
@@ -185,7 +194,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
       "name": "Was kostet eine Türöffnung in Dannenberg?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten."
+        "text": "Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten."
       }
     },
     {

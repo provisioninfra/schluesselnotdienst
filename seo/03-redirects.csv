@@ -1,0 +1,21 @@
+from;to;type;grund
+/impressum-1;/impressum;301;alte URL noch im Google-Index
+/geschäftskunden;/;301;alte URL im Index, Seite existiert nicht mehr (Empfehlung: Geschäftskunden-Seite neu anlegen und hierhin leiten)
+/geschaeftskunden;/;301;Schreibvariante
+/geschaftskunden;/;301;wird aus AGB/Impressum/Datenschutz/Türöffnung heraus verlinkt (404)
+/simonsvosstechnologies;/;301;toter Footer-Link (404)
+/badbodenteich;/bad-bodenteich;301;alte URL im Index
+/lüneburg;/lueneburg;301;alte Umlaut-URL im Index
+/luneburg;/lueneburg;301;Schreibvariante
+/türöffnung;/turoffnung;301;alte Umlaut-URL im Index
+/tueroeffnung;/turoffnung;301;Schreibvariante
+/lüchow;/luechow;301;Umlaut-Variante
+/luchow;/luechow;301;Schreibvariante
+/bienenbüttel;/bienenbuettel;301;Umlaut-Variante
+/faßberg;/fassberg;301;ß-Variante
+/dannenberg-elbe;/dannenberg;301;Schreibvariante
+/hitzacker-elbe;/hitzacker;301;Schreibvariante
+/badbevensen;/bad-bevensen;301;Schreibvariante (neue Seite)
+/index.html;/;301;klassische Alt-URL
+/home;/;301;klassische Alt-URL
+/start;/;301;klassische Alt-URL

@@ -27,11 +27,11 @@ def kurz(o):
 def title_for(o):
     k = kurz(o)
     cands = [
-        f"Schlüsseldienst {k} – 24h Notdienst zum Festpreis | Baumann",
-        f"Schlüsseldienst {k} – Notdienst 24/7, Festpreis | Baumann",
+        f"Schlüsseldienst {k} – 24h Notdienst zum Festpreis | ProVision Infra",
+        f"Schlüsseldienst {k} – Notdienst 24/7, Festpreis | ProVision Infra",
         f"Schlüsseldienst {k} – 24h Notdienst zum Festpreis",
-        f"Schlüsseldienst {k} – Türöffnung 24/7 | Baumann",
-        f"Schlüsseldienst {k} 24h – Baumann",
+        f"Schlüsseldienst {k} – Türöffnung 24/7 | ProVision Infra",
+        f"Schlüsseldienst {k} 24h – ProVision Infra",
     ]
     for c in cands:
         if len(c) <= 60:
@@ -44,8 +44,8 @@ def desc_for(o):
     eta = o["eta"]
     v = pick(o["slug"], "desc", 3)
     cands = {
-        0: f"Ausgesperrt in {k}? Schlüsselnotdienst Baumann öffnet Deine Tür zerstörungsfrei – Festpreis vorab am Telefon, keine Anfahrtskosten, 24/7, in ca. {eta} Min. vor Ort. ☎ {TEL}",
-        1: f"Schlüsseldienst {k}: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. {eta} Min. bei Dir. Jetzt anrufen: {TEL}",
+        0: f"Ausgesperrt in {k}? ProVision Infra Schlüsselnotdienst öffnet Deine Tür zerstörungsfrei – Festpreis vorab am Telefon, keine Anfahrtskosten, 24/7, in ca. {eta} Min. vor Ort. ☎ {TEL}",
+        1: f"Schlüsseldienst {k}: Türöffnung {o['preis_tueroeffnung']} € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. {eta} Min. bei Dir. ☎ {TEL}",
         2: f"Schlüsselnotdienst für {k} & Umgebung: zerstörungsfreie Türöffnung, Festpreis am Telefon, Bar/Karte/PayPal, 24/7 erreichbar. Ca. {eta} Min. Anfahrt. ☎ {TEL}",
     }
     d = cands[v]
@@ -62,19 +62,19 @@ def intro(o):
     lage = f"{k} ({o['art']}, {kreis}" + (f", {sg})" if sg else ")")
     if o["slug"] == "bad-bevensen":
         return (
-            f"Du stehst in Bad Bevensen vor verschlossener Tür? Dann ist Hilfe besonders nah: Der Schlüsselnotdienst Baumann hat seinen Sitz in der {B['strasse']} in Bad Bevensen. "
-            f"Wir sind der Schlüsseldienst vor Ort – kein Callcenter, keine Vermittlung, sondern Jannes Heino Baumann und sein Team aus der Kurstadt selbst. "
+            f"Du stehst in Bad Bevensen vor verschlossener Tür? Dann ist Hilfe besonders nah: Der ProVision Infra Schlüsselnotdienst hat seinen Sitz in der {B['strasse']} in Bad Bevensen. "
+            f"Wir sind der Schlüsseldienst vor Ort – kein Callcenter, keine Vermittlung, sondern Jannes Heino Baumann und sein Team von ProVision Infra aus der Kurstadt selbst. "
             f"In der Regel sind wir innerhalb von {eta} Minuten bei Dir: in der Innenstadt, im Kurviertel, in Medingen, Groß und Klein Hesebeck, Jastorf, Seedorf, Gollern, Röbbel oder Sasendorf. "
             f"Die Türöffnung erfolgt in über 90 % der Fälle zerstörungsfrei – zum Festpreis, den Du vorab am Telefon erfährst."
         )
     texte = [
-        f"Ausgesperrt in {k}? Schlüssel abgebrochen, verloren oder innen stecken geblieben? Der Schlüsselnotdienst Baumann aus Bad Bevensen ist Dein Schlüsseldienst für {lage}. "
+        f"Ausgesperrt in {k}? Schlüssel abgebrochen, verloren oder innen stecken geblieben? Der ProVision Infra Schlüsselnotdienst aus Bad Bevensen ist Dein Schlüsseldienst für {lage}. "
         f"Wir sind rund um die Uhr erreichbar und in der Regel in etwa {eta} Minuten bei Dir vor Ort. Der Preis für die Türöffnung steht vorher fest – Du erfährst ihn am Telefon, bevor wir losfahren.",
-        f"Der Schlüsseldienst für {lage}: Wenn die Tür zugefallen ist oder das Schloss klemmt, hilft der Schlüsselnotdienst Baumann – 24 Stunden am Tag, auch nachts, am Wochenende und an Feiertagen. "
+        f"Der Schlüsseldienst für {lage}: Wenn die Tür zugefallen ist oder das Schloss klemmt, hilft der ProVision Infra Schlüsselnotdienst – 24 Stunden am Tag, auch nachts, am Wochenende und an Feiertagen. "
         f"Von unserem Standort in Bad Bevensen sind wir in rund {eta} Minuten in {k}. Wir öffnen zerstörungsfrei, zum Festpreis und ohne versteckte Anfahrtskosten.",
-        f"Schnelle Hilfe statt Abzocke: In {k} und Umgebung ist der Schlüsselnotdienst Baumann Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. "
+        f"Schnelle Hilfe statt Abzocke: In {k} und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. "
         f"Als regionaler Betrieb aus Bad Bevensen ({kreis}) nennen wir Dir den Festpreis vorab am Telefon und sind in etwa {eta} Minuten bei Dir – Tag und Nacht.",
-        f"Tür zu, Schlüssel drinnen – und das ausgerechnet in {k}? Kein Problem. Der Schlüsselnotdienst Baumann ist der Schlüsseldienst für {lage} und erreicht Dich von Bad Bevensen aus in rund {eta} Minuten. "
+        f"Tür zu, Schlüssel drinnen – und das ausgerechnet in {k}? Kein Problem. Der ProVision Infra Schlüsselnotdienst ist der Schlüsseldienst für {lage} und erreicht Dich von Bad Bevensen aus in rund {eta} Minuten. "
         f"Wir arbeiten zerstörungsfrei, transparent und zum vorher vereinbarten Festpreis – ohne Aufschläge für die Anfahrt.",
     ]
     return texte[v]
@@ -111,7 +111,10 @@ def leistungen(o):
 def preise(o):
     k = kurz(o)
     v = pick(o["slug"], "preis", 3)
-    return [
+    p = o["preis_tueroeffnung"]
+    konkret = (f" Konkret: Die Türöffnung in {k} kostet montags bis freitags von 8 bis 18 Uhr {p} € Festpreis inklusive Anfahrt und Mehrwertsteuer; "
+               f"nachts, am Wochenende und an Feiertagen kommen 54 € Zuschlag dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, der Austausch eines Profilzylinders beginnt bei 60 € zzgl. Material.")
+    return [x + konkret for x in [
         f"Bei uns gibt es keine Überraschungen auf der Rechnung. Du bekommst den Festpreis für Deine Türöffnung in {k} am Telefon genannt – inklusive Anfahrt und Mehrwertsteuer. "
         "Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den wir Dir ebenfalls vorher sagen. Nur wenn Material nötig ist (z. B. ein neuer Zylinder), kommen Materialkosten dazu – auch das besprechen wir vor dem Einbau. "
         "Zahlen kannst Du bar, mit EC- oder Kreditkarte oder per PayPal.",
@@ -119,7 +122,7 @@ def preise(o):
         "Den konkreten Festpreis erfährst Du vor der Auftragserteilung am Telefon. Es gibt keine getrennten Anfahrtskosten, keinen Aufschlag für „schwierige“ Öffnungen und keine Barzahlungspflicht: Karte und PayPal sind genauso möglich.",
         f"Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach {k} inklusive, Zuschlag für Nacht/Wochenende/Feiertag vorher benannt. "
         "Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit – bar, mit Karte oder per PayPal, für Geschäftskunden auch auf Rechnung.",
-    ][v]
+    ]][v]
 
 
 def ablauf(o):
@@ -139,7 +142,7 @@ def faq(o):
         (f"Wie schnell ist der Schlüsseldienst in {k} vor Ort?",
          f"Von unserem Standort in Bad Bevensen brauchen wir nach {k} in der Regel etwa {eta} Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."),
         (f"Was kostet eine Türöffnung in {k}?",
-         "Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten."),
+         f"Tagsüber (Mo–Fr 8–18 Uhr) {o['preis_tueroeffnung']} € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten."),
         ("Wird meine Tür beim Öffnen beschädigt?",
          "In über 90 % der Fälle öffnen wir zerstörungsfrei. Bei zugefallenen Türen ist das fast immer möglich; bei abgeschlossenen Türen informieren wir Dich vorher, falls ein Zylinder getauscht werden muss."),
         (f"Ist der Schlüsselnotdienst in {k} auch nachts und am Wochenende erreichbar?",
@@ -181,6 +184,7 @@ def jsonld(o):
             "areaServed": {"@type": "City", "name": k, "address": {"@type": "PostalAddress", "addressLocality": k, "postalCode": o.get("plz", ""), "addressRegion": "Niedersachsen", "addressCountry": "DE"}},
             "availableChannel": {"@type": "ServiceChannel", "servicePhone": {"@type": "ContactPoint", "telephone": B["telefon_e164"], "contactType": "customer service", "availableLanguage": "de"}},
             "hoursAvailable": {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"], "opens": "00:00", "closes": "23:59"},
+            "offers": {"@type": "Offer", "name": f"Türöffnung {k} zum Festpreis", "price": o["preis_tueroeffnung"], "priceCurrency": "EUR", "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €", "availability": "https://schema.org/InStock", "areaServed": k},
         },
         {
             "@context": "https://schema.org",
@@ -215,7 +219,7 @@ def render(o):
     L.append(f"| Seitentitel (Page Title) | {t} | {len(t)} |")
     L.append(f"| Beschreibung (Description) | {d} | {len(d)} |")
     L.append(f"| Keywords | Schlüsseldienst {k}, Schlüsselnotdienst {k}, Türöffnung {k}, Schlüsseldienst {k} 24h, Aufsperrdienst {k}, Schlüsseldienst {k} Kosten | |")
-    L.append(f"| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „Schlüsselnotdienst Baumann – Schlüsseldienst in {k}“ | |")
+    L.append(f"| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in {k}“ | |")
     L.append("| Indexierung | **erlaubt** (an) | |\n")
     L.append("> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.\n")
 
@@ -224,7 +228,7 @@ def render(o):
     L.append(f"**Unterzeile (kein Heading, normaler Text):** Türöffnung in {k} & Umgebung · fair · transparent · in ca. {o['eta']} Min. vor Ort · ☎ {TEL}\n")
     L.append(f"**Button:** „Jetzt anrufen – {TEL}“ (Link `tel:{B['telefon_e164']}`)\n")
     L.append("### Einleitung (direkt unter der H1)\n" + intro(o) + "\n")
-    L.append(f"### H2: Schlüsselnotdienst Baumann für {k} – aus der Region, für die Region\n" + lokal_abschnitt(o) + "\n")
+    L.append(f"### H2: ProVision Infra Schlüsselnotdienst für {k} – aus der Region, für die Region\n" + lokal_abschnitt(o) + "\n")
     L.append(f"### H2: Unsere Leistungen in {k}\n")
     for name, txt in leistungen(o):
         L.append(f"- **H3: {name}** – {txt}")
@@ -249,7 +253,7 @@ def render(o):
     L.append(f"{B['firma_lang']} · {B['strasse']}, {B['plz']} {B['ort']} · ☎ {TEL} · 24 Stunden erreichbar, 7 Tage die Woche\n")
 
     L.append("## 3. Bilder (Alt-Texte)\n")
-    L.append(f"- Hero-Bild: „Schlüsseldienst Baumann öffnet eine Haustür in {k}“\n- Logo: „Schlüsselnotdienst Baumann – Logo“\n- Fahrzeug/Team: „Mobiler Schlüsselnotdienst Baumann im Einsatz in {k}“\n")
+    L.append(f"- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in {k}“\n- Logo: „ProVision Infra Schlüsselnotdienst – Logo“\n- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in {k}“\n")
 
     L.append("## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)\n")
     L.append("```html\n" + jsonld(o) + "\n```\n")
@@ -268,8 +272,8 @@ for o in D["orte"]:
 with open(os.path.join(HERE, "..", "05-keyword-map.csv"), "w", encoding="utf-8", newline="") as f:
     w = csv.writer(f, delimiter=";")
     w.writerow(["slug", "url", "haupt_keyword", "neben_keywords", "title", "title_len", "description", "desc_len", "status"])
-    w.writerow(["(home)", DOMAIN + "/", "Schlüsselnotdienst Bad Bevensen / Uelzen / Lüneburg", "Schlüsseldienst Bad Bevensen; Schlüsseldienst Uelzen Lüneburg; Türöffnung Festpreis; Schlüsselnotdienst 24h Landkreis Uelzen", "Schlüsselnotdienst Baumann – Bad Bevensen, Uelzen, Lüneburg 24/7", 59, "Schlüsseldienst für Bad Bevensen, Uelzen, Lüneburg & Umgebung: Türöffnung zum Festpreis, zerstörungsfrei, 24/7, keine Anfahrtskosten. ☎ 05821 4049049", 150, "bestehend"])
-    w.writerow(["turoffnung", DOMAIN + "/turoffnung", "Türöffnung Kosten", "Was kostet eine Türöffnung; Türöffnung Festpreis; Schlüsseldienst Preise; seriöser Schlüsseldienst erkennen", "Was kostet eine Türöffnung? Festpreis & Ablauf | Baumann", 56, "Was darf eine Türöffnung kosten? Faire Preise zwischen 80 und 200 €, Festpreisgarantie am Telefon, zerstörungsfreie Öffnung. So arbeitet der Schlüsselnotdienst Baumann.", 155, "bestehend"])
+    w.writerow(["(home)", DOMAIN + "/", "Schlüsselnotdienst Bad Bevensen / Uelzen / Lüneburg", "Schlüsseldienst Bad Bevensen; Schlüsseldienst Uelzen Lüneburg; Türöffnung Festpreis; Schlüsselnotdienst 24h Landkreis Uelzen", "ProVision Infra Schlüsselnotdienst – Bad Bevensen, Uelzen, Lüneburg 24/7", 59, "Schlüsseldienst für Bad Bevensen, Uelzen, Lüneburg & Umgebung: Türöffnung zum Festpreis, zerstörungsfrei, 24/7, keine Anfahrtskosten. ☎ 05821 4049049", 150, "bestehend"])
+    w.writerow(["turoffnung", DOMAIN + "/turoffnung", "Türöffnung Kosten", "Was kostet eine Türöffnung; Türöffnung Festpreis; Schlüsseldienst Preise; seriöser Schlüsseldienst erkennen", "Was kostet eine Türöffnung? Festpreis & Ablauf | ProVision Infra", 56, "Was darf eine Türöffnung kosten? Faire Preise zwischen 80 und 200 €, Festpreisgarantie am Telefon, zerstörungsfreie Öffnung. So arbeitet der ProVision Infra Schlüsselnotdienst.", 155, "bestehend"])
     w.writerows(rows)
 
 # interne Verlinkung

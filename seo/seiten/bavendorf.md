@@ -1,16 +1,14 @@
 # Bavendorf – SEO-Inhalte für `/bavendorf`
 
-> ⚠️ **Bitte prüfen:** Bavendorf konnte keiner Gemeinde eindeutig zugeordnet werden. Bitte Ortsname/Slug prüfen (Tippfehler?). Falls gemeint ist ein anderer Ort: Seite umbenennen und Redirect /bavendorf → neue URL anlegen.
-
 ## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
 
 | Feld | Wert | Länge |
 |---|---|---|
 | URL / Slug | `bavendorf` | |
 | Seitentitel (Page Title) | Schlüsseldienst Bavendorf – 24h Notdienst zum Festpreis | 55 |
-| Beschreibung (Description) | Schlüsseldienst Bavendorf: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 25 Min. bei Dir. Jetzt anrufen: 05821 4049049 | 153 |
+| Beschreibung (Description) | Schlüsseldienst Bavendorf: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 25 Min. bei Dir. ☎ 05821 4049049 | 149 |
 | Keywords | Schlüsseldienst Bavendorf, Schlüsselnotdienst Bavendorf, Türöffnung Bavendorf, Schlüsseldienst Bavendorf 24h, Aufsperrdienst Bavendorf, Schlüsseldienst Bavendorf Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „Schlüsselnotdienst Baumann – Schlüsseldienst in Bavendorf“ | |
+| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Bavendorf“ | |
 | Indexierung | **erlaubt** (an) | |
 
 > Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
@@ -25,9 +23,9 @@ Schlüsseldienst Bavendorf – Schlüsselnotdienst 24/7 zum Festpreis
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Tür zu, Schlüssel drinnen – und das ausgerechnet in Bavendorf? Kein Problem. Der Schlüsselnotdienst Baumann ist der Schlüsseldienst für Bavendorf (Ort, Landkreis Uelzen / Lüneburg) und erreicht Dich von Bad Bevensen aus in rund 25 Minuten. Wir arbeiten zerstörungsfrei, transparent und zum vorher vereinbarten Festpreis – ohne Aufschläge für die Anfahrt.
+Tür zu, Schlüssel drinnen – und das ausgerechnet in Bavendorf? Kein Problem. Der ProVision Infra Schlüsselnotdienst ist der Schlüsseldienst für Bavendorf (Ort, Landkreis Uelzen / Lüneburg) und erreicht Dich von Bad Bevensen aus in rund 25 Minuten. Wir arbeiten zerstörungsfrei, transparent und zum vorher vereinbarten Festpreis – ohne Aufschläge für die Anfahrt.
 
-### H2: Schlüsselnotdienst Baumann für Bavendorf – aus der Region, für die Region
+### H2: ProVision Infra Schlüsselnotdienst für Bavendorf – aus der Region, für die Region
 Auch in Bavendorf und den umliegenden Dörfern sind wir als mobiler Schlüsselnotdienst schnell für Dich da. Weil wir aus der Region kommen, kennen wir die Wege in und um Bavendorf – das spart Zeit, wenn es wirklich eilt.
 
 ### H2: Unsere Leistungen in Bavendorf
@@ -40,7 +38,7 @@ Auch in Bavendorf und den umliegenden Dörfern sind wir als mobiler Schlüsselno
 - **H3: Einbruchschutz & Sicherheitsberatung** – Kostenlose Beratung vor Ort in Bavendorf: Beschläge, Zusatzschlösser, Panzerriegel und Tipps, wie Du Dein Zuhause sicherer machst.
 
 ### H2: Was kostet der Schlüsseldienst in Bavendorf?
-Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Bavendorf inklusive, Zuschlag für Nacht/Wochenende/Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit – bar, mit Karte oder per PayPal, für Geschäftskunden auch auf Rechnung.
+Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Bavendorf inklusive, Zuschlag für Nacht/Wochenende/Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit – bar, mit Karte oder per PayPal, für Geschäftskunden auch auf Rechnung. Konkret: Die Türöffnung in Bavendorf kostet montags bis freitags von 8 bis 18 Uhr 135 € Festpreis inklusive Anfahrt und Mehrwertsteuer; nachts, am Wochenende und an Feiertagen kommen 54 € Zuschlag dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, der Austausch eines Profilzylinders beginnt bei 60 € zzgl. Material.
 
 ### H2: So läuft Deine Türöffnung in Bavendorf ab
 
@@ -65,7 +63,7 @@ Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Bavendorf i
 Von unserem Standort in Bad Bevensen brauchen wir nach Bavendorf in der Regel etwa 25 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
 **H3: Was kostet eine Türöffnung in Bavendorf?**  
-Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten.
+Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten.
 
 **H3: Muss ich mich ausweisen?**  
 Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung rechtsverbindlich versichern. Details stehen in unseren AGB.
@@ -93,13 +91,13 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 
 ### Kontaktblock (Footer-Bereich der Seite)
 
-Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
+ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
 
 ## 3. Bilder (Alt-Texte)
 
-- Hero-Bild: „Schlüsseldienst Baumann öffnet eine Haustür in Bavendorf“
-- Logo: „Schlüsselnotdienst Baumann – Logo“
-- Fahrzeug/Team: „Mobiler Schlüsselnotdienst Baumann im Einsatz in Bavendorf“
+- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Bavendorf“
+- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
+- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Bavendorf“
 
 ## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
 
@@ -112,7 +110,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
   "name": "Schlüsseldienst Bavendorf – Türöffnung & Schlüsselnotdienst",
   "serviceType": "Schlüsselnotdienst / Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/bavendorf",
-  "description": "Schlüsseldienst Bavendorf: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 25 Min. bei Dir. Jetzt anrufen: 05821 4049049",
+  "description": "Schlüsseldienst Bavendorf: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 25 Min. bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -149,6 +147,15 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
     ],
     "opens": "00:00",
     "closes": "23:59"
+  },
+  "offers": {
+    "@type": "Offer",
+    "name": "Türöffnung Bavendorf zum Festpreis",
+    "price": "135",
+    "priceCurrency": "EUR",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "availability": "https://schema.org/InStock",
+    "areaServed": "Bavendorf"
   }
 }
 </script>
@@ -190,7 +197,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
       "name": "Was kostet eine Türöffnung in Bavendorf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten."
+        "text": "Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten."
       }
     },
     {

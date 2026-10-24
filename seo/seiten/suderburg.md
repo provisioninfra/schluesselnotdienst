@@ -8,9 +8,9 @@
 |---|---|---|
 | URL / Slug | `suderburg` | |
 | Seitentitel (Page Title) | Schlüsseldienst Suderburg – 24h Notdienst zum Festpreis | 55 |
-| Beschreibung (Description) | Schlüsseldienst Suderburg: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 25 Min. bei Dir. Jetzt anrufen: 05821 4049049 | 153 |
+| Beschreibung (Description) | Schlüsseldienst Suderburg: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 25 Min. bei Dir. ☎ 05821 4049049 | 149 |
 | Keywords | Schlüsseldienst Suderburg, Schlüsselnotdienst Suderburg, Türöffnung Suderburg, Schlüsseldienst Suderburg 24h, Aufsperrdienst Suderburg, Schlüsseldienst Suderburg Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „Schlüsselnotdienst Baumann – Schlüsseldienst in Suderburg“ | |
+| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Suderburg“ | |
 | Indexierung | **erlaubt** (an) | |
 
 > Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
@@ -25,9 +25,9 @@ Schlüsseldienst Suderburg – Schlüsselnotdienst 24/7 zum Festpreis
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Ausgesperrt in Suderburg? Schlüssel abgebrochen, verloren oder innen stecken geblieben? Der Schlüsselnotdienst Baumann aus Bad Bevensen ist Dein Schlüsseldienst für Suderburg (Gemeinde, Landkreis Uelzen, Samtgemeinde Suderburg). Wir sind rund um die Uhr erreichbar und in der Regel in etwa 25 Minuten bei Dir vor Ort. Der Preis für die Türöffnung steht vorher fest – Du erfährst ihn am Telefon, bevor wir losfahren.
+Ausgesperrt in Suderburg? Schlüssel abgebrochen, verloren oder innen stecken geblieben? Der ProVision Infra Schlüsselnotdienst aus Bad Bevensen ist Dein Schlüsseldienst für Suderburg (Gemeinde, Landkreis Uelzen, Samtgemeinde Suderburg). Wir sind rund um die Uhr erreichbar und in der Regel in etwa 25 Minuten bei Dir vor Ort. Der Preis für die Türöffnung steht vorher fest – Du erfährst ihn am Telefon, bevor wir losfahren.
 
-### H2: Schlüsselnotdienst Baumann für Suderburg – aus der Region, für die Region
+### H2: ProVision Infra Schlüsselnotdienst für Suderburg – aus der Region, für die Region
 Suderburg mit dem Hochschulcampus und dem Museumsdorf Hösseringen erreichen wir in rund 25 Minuten – auch für Studierende, die sich ausgesperrt haben, sind wir schnell da. Wir kommen in alle Stadt- und Ortsteile – darunter Hösseringen, Bahnsen, Böddenstedt, Holxen und Räber. Als mobiler Schlüsseldienst haben wir das komplette Werkzeug und gängige Profilzylinder im Fahrzeug dabei, sodass wir die meisten Aufträge in Suderburg direkt vor Ort abschließen können.
 
 ### H2: Unsere Leistungen in Suderburg
@@ -40,7 +40,7 @@ Suderburg mit dem Hochschulcampus und dem Museumsdorf Hösseringen erreichen wir
 - **H3: Einbruchschutz & Sicherheitsberatung** – Kostenlose Beratung vor Ort in Suderburg: Beschläge, Zusatzschlösser, Panzerriegel und Tipps, wie Du Dein Zuhause sicherer machst.
 
 ### H2: Was kostet der Schlüsseldienst in Suderburg?
-Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Suderburg inklusive, Zuschlag für Nacht/Wochenende/Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit – bar, mit Karte oder per PayPal, für Geschäftskunden auch auf Rechnung.
+Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Suderburg inklusive, Zuschlag für Nacht/Wochenende/Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit – bar, mit Karte oder per PayPal, für Geschäftskunden auch auf Rechnung. Konkret: Die Türöffnung in Suderburg kostet montags bis freitags von 8 bis 18 Uhr 135 € Festpreis inklusive Anfahrt und Mehrwertsteuer; nachts, am Wochenende und an Feiertagen kommen 54 € Zuschlag dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, der Austausch eines Profilzylinders beginnt bei 60 € zzgl. Material.
 
 ### H2: So läuft Deine Türöffnung in Suderburg ab
 
@@ -65,7 +65,7 @@ Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Suderburg i
 Von unserem Standort in Bad Bevensen brauchen wir nach Suderburg in der Regel etwa 25 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
 **H3: Was kostet eine Türöffnung in Suderburg?**  
-Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten.
+Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten.
 
 **H3: Muss ich mich ausweisen?**  
 Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung rechtsverbindlich versichern. Details stehen in unseren AGB.
@@ -93,13 +93,13 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 
 ### Kontaktblock (Footer-Bereich der Seite)
 
-Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
+ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
 
 ## 3. Bilder (Alt-Texte)
 
-- Hero-Bild: „Schlüsseldienst Baumann öffnet eine Haustür in Suderburg“
-- Logo: „Schlüsselnotdienst Baumann – Logo“
-- Fahrzeug/Team: „Mobiler Schlüsselnotdienst Baumann im Einsatz in Suderburg“
+- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Suderburg“
+- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
+- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Suderburg“
 
 ## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
 
@@ -112,7 +112,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
   "name": "Schlüsseldienst Suderburg – Türöffnung & Schlüsselnotdienst",
   "serviceType": "Schlüsselnotdienst / Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/suderburg",
-  "description": "Schlüsseldienst Suderburg: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 25 Min. bei Dir. Jetzt anrufen: 05821 4049049",
+  "description": "Schlüsseldienst Suderburg: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 25 Min. bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -149,6 +149,15 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
     ],
     "opens": "00:00",
     "closes": "23:59"
+  },
+  "offers": {
+    "@type": "Offer",
+    "name": "Türöffnung Suderburg zum Festpreis",
+    "price": "135",
+    "priceCurrency": "EUR",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "availability": "https://schema.org/InStock",
+    "areaServed": "Suderburg"
   }
 }
 </script>
@@ -190,7 +199,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
       "name": "Was kostet eine Türöffnung in Suderburg?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten."
+        "text": "Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten."
       }
     },
     {

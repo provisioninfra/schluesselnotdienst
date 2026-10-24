@@ -5,10 +5,10 @@
 | Feld | Wert | Länge |
 |---|---|---|
 | URL / Slug | `uelzen` | |
-| Seitentitel (Page Title) | Schlüsseldienst Uelzen – Notdienst 24/7, Festpreis | Baumann | 60 |
-| Beschreibung (Description) | Schlüsseldienst Uelzen: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 20 Min. bei Dir. Jetzt anrufen: 05821 4049049 | 150 |
+| Seitentitel (Page Title) | Schlüsseldienst Uelzen – 24h Notdienst zum Festpreis | 52 |
+| Beschreibung (Description) | Schlüsseldienst Uelzen: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 20 Min. bei Dir. ☎ 05821 4049049 | 146 |
 | Keywords | Schlüsseldienst Uelzen, Schlüsselnotdienst Uelzen, Türöffnung Uelzen, Schlüsseldienst Uelzen 24h, Aufsperrdienst Uelzen, Schlüsseldienst Uelzen Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „Schlüsselnotdienst Baumann – Schlüsseldienst in Uelzen“ | |
+| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Uelzen“ | |
 | Indexierung | **erlaubt** (an) | |
 
 > Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
@@ -23,9 +23,9 @@ Schlüsseldienst Uelzen – Schlüsselnotdienst 24/7 zum Festpreis
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Der Schlüsseldienst für Uelzen (Hansestadt und Kreisstadt, Landkreis Uelzen): Wenn die Tür zugefallen ist oder das Schloss klemmt, hilft der Schlüsselnotdienst Baumann – 24 Stunden am Tag, auch nachts, am Wochenende und an Feiertagen. Von unserem Standort in Bad Bevensen sind wir in rund 20 Minuten in Uelzen. Wir öffnen zerstörungsfrei, zum Festpreis und ohne versteckte Anfahrtskosten.
+Der Schlüsseldienst für Uelzen (Hansestadt und Kreisstadt, Landkreis Uelzen): Wenn die Tür zugefallen ist oder das Schloss klemmt, hilft der ProVision Infra Schlüsselnotdienst – 24 Stunden am Tag, auch nachts, am Wochenende und an Feiertagen. Von unserem Standort in Bad Bevensen sind wir in rund 20 Minuten in Uelzen. Wir öffnen zerstörungsfrei, zum Festpreis und ohne versteckte Anfahrtskosten.
 
-### H2: Schlüsselnotdienst Baumann für Uelzen – aus der Region, für die Region
+### H2: ProVision Infra Schlüsselnotdienst für Uelzen – aus der Region, für die Region
 Ob Innenstadt rund um den Hundertwasser-Bahnhof, Wohngebiete in Veerßen und Oldenstadt oder die umliegenden Dörfer – Uelzen gehört zu unseren häufigsten Einsatzorten. Wir kommen in alle Stadt- und Ortsteile – darunter Veerßen, Oldenstadt, Holdenstedt, Molzen, Kirchweyhe, Hansen, Groß Liedern und Westerweyhe. Als mobiler Schlüsseldienst haben wir das komplette Werkzeug und gängige Profilzylinder im Fahrzeug dabei, sodass wir die meisten Aufträge in Uelzen direkt vor Ort abschließen können.
 
 ### H2: Unsere Leistungen in Uelzen
@@ -38,7 +38,7 @@ Ob Innenstadt rund um den Hundertwasser-Bahnhof, Wohngebiete in Veerßen und Old
 - **H3: Einbruchschutz & Sicherheitsberatung** – Kostenlose Beratung vor Ort in Uelzen: Beschläge, Zusatzschlösser, Panzerriegel und Tipps, wie Du Dein Zuhause sicherer machst.
 
 ### H2: Was kostet der Schlüsseldienst in Uelzen?
-Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Uelzen inklusive, Zuschlag für Nacht/Wochenende/Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit – bar, mit Karte oder per PayPal, für Geschäftskunden auch auf Rechnung.
+Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Uelzen inklusive, Zuschlag für Nacht/Wochenende/Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit – bar, mit Karte oder per PayPal, für Geschäftskunden auch auf Rechnung. Konkret: Die Türöffnung in Uelzen kostet montags bis freitags von 8 bis 18 Uhr 135 € Festpreis inklusive Anfahrt und Mehrwertsteuer; nachts, am Wochenende und an Feiertagen kommen 54 € Zuschlag dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, der Austausch eines Profilzylinders beginnt bei 60 € zzgl. Material.
 
 ### H2: So läuft Deine Türöffnung in Uelzen ab
 
@@ -63,7 +63,7 @@ Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Uelzen inkl
 Von unserem Standort in Bad Bevensen brauchen wir nach Uelzen in der Regel etwa 20 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
 **H3: Was kostet eine Türöffnung in Uelzen?**  
-Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten.
+Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten.
 
 **H3: Muss ich mich ausweisen?**  
 Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung rechtsverbindlich versichern. Details stehen in unseren AGB.
@@ -91,13 +91,13 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 
 ### Kontaktblock (Footer-Bereich der Seite)
 
-Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
+ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
 
 ## 3. Bilder (Alt-Texte)
 
-- Hero-Bild: „Schlüsseldienst Baumann öffnet eine Haustür in Uelzen“
-- Logo: „Schlüsselnotdienst Baumann – Logo“
-- Fahrzeug/Team: „Mobiler Schlüsselnotdienst Baumann im Einsatz in Uelzen“
+- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Uelzen“
+- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
+- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Uelzen“
 
 ## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
 
@@ -110,7 +110,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
   "name": "Schlüsseldienst Uelzen – Türöffnung & Schlüsselnotdienst",
   "serviceType": "Schlüsselnotdienst / Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/uelzen",
-  "description": "Schlüsseldienst Uelzen: Türöffnung zum Festpreis, 24 Stunden Notdienst, keine versteckten Kosten. In ca. 20 Min. bei Dir. Jetzt anrufen: 05821 4049049",
+  "description": "Schlüsseldienst Uelzen: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 20 Min. bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -147,6 +147,15 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
     ],
     "opens": "00:00",
     "closes": "23:59"
+  },
+  "offers": {
+    "@type": "Offer",
+    "name": "Türöffnung Uelzen zum Festpreis",
+    "price": "135",
+    "priceCurrency": "EUR",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "availability": "https://schema.org/InStock",
+    "areaServed": "Uelzen"
   }
 }
 </script>
@@ -188,7 +197,7 @@ Schlüsselnotdienst Jannes Heino Baumann (ProVision Infra GmbH) · Klein Hesebec
       "name": "Was kostet eine Türöffnung in Uelzen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Den Festpreis erfährst Du vor dem Auftrag am Telefon – inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen gilt ein fester, vorher genannter Zuschlag. Es gibt keine versteckten Kosten."
+        "text": "Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten."
       }
     },
     {
