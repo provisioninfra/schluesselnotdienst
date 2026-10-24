@@ -73,7 +73,7 @@ def intro(o):
         f"Der Schlüsseldienst für {lage}: Wenn die Tür zugefallen ist oder das Schloss klemmt, hilft der ProVision Infra Schlüsselnotdienst – 24 Stunden am Tag, auch nachts, am Wochenende und an Feiertagen. "
         f"Von unserem Standort in Bad Bevensen sind wir in rund {eta} Minuten in {k}. Wir öffnen zerstörungsfrei, zum Festpreis und ohne versteckte Anfahrtskosten.",
         f"Schnelle Hilfe statt Abzocke: In {k} und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. "
-        f"Als regionaler Betrieb aus Bad Bevensen ({kreis}) nennen wir Dir den Festpreis vorab am Telefon und sind in etwa {eta} Minuten bei Dir – Tag und Nacht.",
+        f"Als regionaler Betrieb aus Bad Bevensen im Landkreis Uelzen nennen wir Dir den Festpreis vorab am Telefon und sind in etwa {eta} Minuten bei Dir – Tag und Nacht.",
         f"Tür zu, Schlüssel drinnen – und das ausgerechnet in {k}? Kein Problem. Der ProVision Infra Schlüsselnotdienst ist der Schlüsseldienst für {lage} und erreicht Dich von Bad Bevensen aus in rund {eta} Minuten. "
         f"Wir arbeiten zerstörungsfrei, transparent und zum vorher vereinbarten Festpreis – ohne Aufschläge für die Anfahrt.",
     ]
@@ -262,33 +262,38 @@ def render(o):
     return "\n".join(L)
 
 
-rows = []
-for o in D["orte"]:
-    md = render(o)
-    open(os.path.join(OUT, f"{o['slug']}.md"), "w", encoding="utf-8").write(md)
-    k = kurz(o)
-    rows.append([o["slug"], f"{DOMAIN}/{o['slug']}", f"Schlüsseldienst {k}", f"Schlüsselnotdienst {k}; Türöffnung {k}; Schlüsseldienst {k} 24h; Aufsperrdienst {k}; Schlüsseldienst {k} Kosten; Autoöffnung {k}", title_for(o), len(title_for(o)), desc_for(o), len(desc_for(o)), "neu" if o.get("neu") else "bestehend"])
-
-with open(os.path.join(HERE, "..", "05-keyword-map.csv"), "w", encoding="utf-8", newline="") as f:
-    w = csv.writer(f, delimiter=";")
-    w.writerow(["slug", "url", "haupt_keyword", "neben_keywords", "title", "title_len", "description", "desc_len", "status"])
-    w.writerow(["(home)", DOMAIN + "/", "Schlüsselnotdienst Bad Bevensen / Uelzen / Lüneburg", "Schlüsseldienst Bad Bevensen; Schlüsseldienst Uelzen Lüneburg; Türöffnung Festpreis; Schlüsselnotdienst 24h Landkreis Uelzen", "ProVision Infra Schlüsselnotdienst – Bad Bevensen, Uelzen, Lüneburg 24/7", 59, "Schlüsseldienst für Bad Bevensen, Uelzen, Lüneburg & Umgebung: Türöffnung zum Festpreis, zerstörungsfrei, 24/7, keine Anfahrtskosten. ☎ 05821 4049049", 150, "bestehend"])
-    w.writerow(["turoffnung", DOMAIN + "/turoffnung", "Türöffnung Kosten", "Was kostet eine Türöffnung; Türöffnung Festpreis; Schlüsseldienst Preise; seriöser Schlüsseldienst erkennen", "Was kostet eine Türöffnung? Festpreis & Ablauf | ProVision Infra", 56, "Was darf eine Türöffnung kosten? Faire Preise zwischen 80 und 200 €, Festpreisgarantie am Telefon, zerstörungsfreie Öffnung. So arbeitet der ProVision Infra Schlüsselnotdienst.", 155, "bestehend"])
-    w.writerows(rows)
-
-# interne Verlinkung
-with open(os.path.join(HERE, "..", "06-interne-verlinkung.md"), "w", encoding="utf-8") as f:
-    f.write("# Interne Verlinkung – Linkplan\n\n")
-    f.write("Aktuell verweist **keine einzige interne Seite** auf die Ortsseiten (die Ortsliste auf der Startseite ist reiner Text). Google erreicht sie nur über die Sitemap – das ist der Hauptgrund für schwache/fehlende Indexierung.\n\n")
-    f.write("## A. Startseite – Abschnitt „Unser Einsatzgebiet“\n\nJede Kachel wird ein Link (in OnePage: Text markieren → Link → interne Seite wählen). Reihenfolge nach Nähe/Relevanz:\n\n")
-    order = ["bad-bevensen", "uelzen", "lueneburg", "bienenbuettel", "altenmedingen", "barum", "himbergen", "ebstorf", "wriedel", "melbeck", "adendorf", "barendorf", "dahlenburg", "amelinghausen", "bleckede", "rosche", "suderburg", "wieren", "bad-bodenteich", "zernien", "dannenberg", "hitzacker", "luechow", "munster", "fassberg", "eschede", "celle", "bavendorf"]
-    for s in order:
-        o = ORTE[s]
-        f.write(f"- Schlüsseldienst {o['name']} → `/{s}`\n")
-    f.write("\nDem Abschnitt die Anker-ID `einsatzgebiet` geben (Custom attributes → ID), damit `/#einsatzgebiet` funktioniert.\n\n")
-    f.write("## B. Jede Ortsseite – Abschnitt „Schlüsseldienst in der Nähe“\n\n| Seite | verlinkt auf |\n|---|---|\n")
+def main():
+    rows = []
     for o in D["orte"]:
-        f.write(f"| /{o['slug']} | " + ", ".join(f"/{n}" for n in o["nachbarn"]) + ", /turoffnung, / |\n")
-    f.write("\n## C. Footer (Site-weit)\n\n- Impressum → `/impressum` (aktuell extern auf provision-infra.de!)\n- Datenschutz → `/datenschutzerklarung` (aktuell extern)\n- AGB → `/agb` (aktuell extern)\n- Türöffnung & Preise → `/turoffnung`\n- Kurze Ortsliste: Bad Bevensen · Uelzen · Lüneburg · Bienenbüttel · Ebstorf · Dannenberg · Celle (je Link)\n\n## D. Navigation\n\n- „Einsatzgebiete“ → `/#einsatzgebiet` (Anker auf der Startseite)\n- „Türöffnung & Preise“ → `/turoffnung`\n- „Geschäftskunden“ nur anzeigen, wenn die Seite wieder existiert (aktuell 404)\n\n## E. Kaputte Links entfernen/ersetzen\n\n- `/geschaftskunden` (404) – auf AGB, Datenschutz, Impressum, Türöffnung verlinkt\n- `/simonsvosstechnologies` (404) – im Footer von Türöffnung/AGB\n")
+        md = render(o)
+        open(os.path.join(OUT, f"{o['slug']}.md"), "w", encoding="utf-8").write(md)
+        k = kurz(o)
+        rows.append([o["slug"], f"{DOMAIN}/{o['slug']}", f"Schlüsseldienst {k}", f"Schlüsselnotdienst {k}; Türöffnung {k}; Schlüsseldienst {k} 24h; Aufsperrdienst {k}; Schlüsseldienst {k} Kosten; Autoöffnung {k}", title_for(o), len(title_for(o)), desc_for(o), len(desc_for(o)), "neu" if o.get("neu") else "bestehend"])
 
-print(f"{len(D['orte'])} Seiten geschrieben nach {os.path.abspath(OUT)}")
+    with open(os.path.join(HERE, "..", "05-keyword-map.csv"), "w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f, delimiter=";")
+        w.writerow(["slug", "url", "haupt_keyword", "neben_keywords", "title", "title_len", "description", "desc_len", "status"])
+        w.writerow(["(home)", DOMAIN + "/", "Schlüsselnotdienst Bad Bevensen / Uelzen / Lüneburg", "Schlüsseldienst Bad Bevensen; Schlüsseldienst Uelzen Lüneburg; Türöffnung Festpreis; Schlüsselnotdienst 24h Landkreis Uelzen", "ProVision Infra Schlüsselnotdienst – Bad Bevensen, Uelzen, Lüneburg 24/7", 59, "Schlüsseldienst für Bad Bevensen, Uelzen, Lüneburg & Umgebung: Türöffnung zum Festpreis, zerstörungsfrei, 24/7, keine Anfahrtskosten. ☎ 05821 4049049", 150, "bestehend"])
+        w.writerow(["turoffnung", DOMAIN + "/turoffnung", "Türöffnung Kosten", "Was kostet eine Türöffnung; Türöffnung Festpreis; Schlüsseldienst Preise; seriöser Schlüsseldienst erkennen", "Was kostet eine Türöffnung? Festpreis & Ablauf | ProVision Infra", 56, "Was darf eine Türöffnung kosten? Faire Preise zwischen 80 und 200 €, Festpreisgarantie am Telefon, zerstörungsfreie Öffnung. So arbeitet der ProVision Infra Schlüsselnotdienst.", 155, "bestehend"])
+        w.writerows(rows)
+
+    # interne Verlinkung
+    with open(os.path.join(HERE, "..", "06-interne-verlinkung.md"), "w", encoding="utf-8") as f:
+        f.write("# Interne Verlinkung – Linkplan\n\n")
+        f.write("Aktuell verweist **keine einzige interne Seite** auf die Ortsseiten (die Ortsliste auf der Startseite ist reiner Text). Google erreicht sie nur über die Sitemap – das ist der Hauptgrund für schwache/fehlende Indexierung.\n\n")
+        f.write("## A. Startseite – Abschnitt „Unser Einsatzgebiet“\n\nJede Kachel wird ein Link (in OnePage: Text markieren → Link → interne Seite wählen). Reihenfolge nach Nähe/Relevanz:\n\n")
+        order = ["bad-bevensen", "uelzen", "lueneburg", "bienenbuettel", "altenmedingen", "barum", "himbergen", "ebstorf", "wriedel", "melbeck", "adendorf", "barendorf", "dahlenburg", "amelinghausen", "bleckede", "rosche", "suderburg", "wieren", "bad-bodenteich", "zernien", "dannenberg", "hitzacker", "luechow", "munster", "fassberg", "eschede", "celle", "bavendorf"]
+        for s in order:
+            o = ORTE[s]
+            f.write(f"- Schlüsseldienst {o['name']} → `/{s}`\n")
+        f.write("\nDem Abschnitt die Anker-ID `einsatzgebiet` geben (Custom attributes → ID), damit `/#einsatzgebiet` funktioniert.\n\n")
+        f.write("## B. Jede Ortsseite – Abschnitt „Schlüsseldienst in der Nähe“\n\n| Seite | verlinkt auf |\n|---|---|\n")
+        for o in D["orte"]:
+            f.write(f"| /{o['slug']} | " + ", ".join(f"/{n}" for n in o["nachbarn"]) + ", /turoffnung, / |\n")
+        f.write("\n## C. Footer (Site-weit)\n\n- Impressum → `/impressum` (aktuell extern auf provision-infra.de!)\n- Datenschutz → `/datenschutzerklarung` (aktuell extern)\n- AGB → `/agb` (aktuell extern)\n- Türöffnung & Preise → `/turoffnung`\n- Kurze Ortsliste: Bad Bevensen · Uelzen · Lüneburg · Bienenbüttel · Ebstorf · Dannenberg · Celle (je Link)\n\n## D. Navigation\n\n- „Einsatzgebiete“ → `/#einsatzgebiet` (Anker auf der Startseite)\n- „Türöffnung & Preise“ → `/turoffnung`\n- „Geschäftskunden“ nur anzeigen, wenn die Seite wieder existiert (aktuell 404)\n\n## E. Kaputte Links entfernen/ersetzen\n\n- `/geschaftskunden` (404) – auf AGB, Datenschutz, Impressum, Türöffnung verlinkt\n- `/simonsvosstechnologies` (404) – im Footer von Türöffnung/AGB\n")
+
+    print(f"{len(D['orte'])} Seiten geschrieben nach {os.path.abspath(OUT)}")
+
+
+if __name__ == "__main__":
+    main()

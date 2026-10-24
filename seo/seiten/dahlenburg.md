@@ -23,7 +23,7 @@ Schlüsseldienst Dahlenburg – Schlüsselnotdienst 24/7 zum Festpreis
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Schnelle Hilfe statt Abzocke: In Dahlenburg und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Als regionaler Betrieb aus Bad Bevensen (Landkreis Lüneburg) nennen wir Dir den Festpreis vorab am Telefon und sind in etwa 25 Minuten bei Dir – Tag und Nacht.
+Schnelle Hilfe statt Abzocke: In Dahlenburg und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Als regionaler Betrieb aus Bad Bevensen im Landkreis Uelzen nennen wir Dir den Festpreis vorab am Telefon und sind in etwa 25 Minuten bei Dir – Tag und Nacht.
 
 ### H2: ProVision Infra Schlüsselnotdienst für Dahlenburg – aus der Region, für die Region
 Der Flecken Dahlenburg an der B216 liegt nur rund 25 Minuten von Bad Bevensen entfernt – wir fahren direkt über Himbergen. Wir kommen in alle Stadt- und Ortsteile – darunter Buendorf und Ellringen. Unser Einsatzfahrzeug ist so ausgestattet, dass wir in Dahlenburg nicht nur Türen öffnen, sondern bei Bedarf sofort einen neuen Schließzylinder einbauen können.

@@ -23,7 +23,7 @@ Schlüsseldienst Adendorf – Schlüsselnotdienst 24/7 zum Festpreis
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Schnelle Hilfe statt Abzocke: In Adendorf und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Als regionaler Betrieb aus Bad Bevensen (Landkreis Lüneburg) nennen wir Dir den Festpreis vorab am Telefon und sind in etwa 35 Minuten bei Dir – Tag und Nacht.
+Schnelle Hilfe statt Abzocke: In Adendorf und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Als regionaler Betrieb aus Bad Bevensen im Landkreis Uelzen nennen wir Dir den Festpreis vorab am Telefon und sind in etwa 35 Minuten bei Dir – Tag und Nacht.
 
 ### H2: ProVision Infra Schlüsselnotdienst für Adendorf – aus der Region, für die Region
 Adendorf grenzt direkt nördlich an Lüneburg – wir fahren über die B4/B209 und sind in der Regel in gut einer halben Stunde bei Dir, auch in Erbstorf, Scharnebeck oder Bardowick. Wir kommen in alle Stadt- und Ortsteile – darunter Erbstorf. Als mobiler Schlüsseldienst haben wir das komplette Werkzeug und gängige Profilzylinder im Fahrzeug dabei, sodass wir die meisten Aufträge in Adendorf direkt vor Ort abschließen können.

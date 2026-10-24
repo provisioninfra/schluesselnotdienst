@@ -23,7 +23,7 @@ Schlüsseldienst Ebstorf – Schlüsselnotdienst 24/7 zum Festpreis
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Schnelle Hilfe statt Abzocke: In Ebstorf und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Als regionaler Betrieb aus Bad Bevensen (Landkreis Uelzen) nennen wir Dir den Festpreis vorab am Telefon und sind in etwa 15 Minuten bei Dir – Tag und Nacht.
+Schnelle Hilfe statt Abzocke: In Ebstorf und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Als regionaler Betrieb aus Bad Bevensen im Landkreis Uelzen nennen wir Dir den Festpreis vorab am Telefon und sind in etwa 15 Minuten bei Dir – Tag und Nacht.
 
 ### H2: ProVision Infra Schlüsselnotdienst für Ebstorf – aus der Region, für die Region
 Der Klosterflecken Ebstorf mit seinem bekannten Kloster und den umliegenden Dörfern liegt nur eine Viertelstunde von unserem Standort entfernt. Weil wir aus der Region kommen, kennen wir die Wege in und um Ebstorf – das spart Zeit, wenn es wirklich eilt.

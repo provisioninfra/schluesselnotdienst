@@ -25,7 +25,7 @@ Schlüsseldienst Eschede – Schlüsselnotdienst 24/7 zum Festpreis
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Schnelle Hilfe statt Abzocke: In Eschede und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Als regionaler Betrieb aus Bad Bevensen (Landkreis Celle) nennen wir Dir den Festpreis vorab am Telefon und sind in etwa 50 Minuten bei Dir – Tag und Nacht.
+Schnelle Hilfe statt Abzocke: In Eschede und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Als regionaler Betrieb aus Bad Bevensen im Landkreis Uelzen nennen wir Dir den Festpreis vorab am Telefon und sind in etwa 50 Minuten bei Dir – Tag und Nacht.
 
 ### H2: ProVision Infra Schlüsselnotdienst für Eschede – aus der Region, für die Region
 Eschede im Norden des Landkreises Celle liegt auf unserer Route Richtung Celle – wir planen rund 50 Minuten Anfahrt ein. Wir kommen in alle Stadt- und Ortsteile – darunter Habighorst, Höfer und Scharnhorst. Als mobiler Schlüsseldienst haben wir das komplette Werkzeug und gängige Profilzylinder im Fahrzeug dabei, sodass wir die meisten Aufträge in Eschede direkt vor Ort abschließen können.
