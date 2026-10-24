@@ -136,7 +136,7 @@ def build_turoffnung():
         {"@type": "Question", "name": "Wie kann ich bezahlen?", "acceptedAnswer": {"@type": "Answer", "text": "Bar, mit EC- oder Kreditkarte oder per PayPal direkt vor Ort; Geschäftskunden auch auf Rechnung."}}]}, ensure_ascii=False, indent=1)
     bc = json.dumps({"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Startseite", "item": G.DOMAIN + "/"}, {"@type": "ListItem", "position": 2, "name": "Türöffnung & Preise", "item": G.DOMAIN + "/turoffnung"}]}, ensure_ascii=False)
     o.seo = {"title": "Türöffnung & Preise", "seoTitle": "Was kostet eine Türöffnung? Festpreise & Ablauf",
-             "seoDescription": "Was darf eine Türöffnung kosten? 115 € in Bad Bevensen, 135 € im Umland – Festpreis inkl. Anfahrt, zerstörungsfrei, rund um die Uhr. So arbeitet ProVision Infra.",
+             "seoDescription": "Was kostet eine Türöffnung? 115 € in Bad Bevensen, 135 € im Umland – Festpreis inkl. Anfahrt, zerstörungsfrei, rund um die Uhr. So arbeitet ProVision Infra.",
              "seoKeywords": "Türöffnung Kosten, Was kostet eine Türöffnung, Türöffnung Festpreis, Schlüsseldienst Preise, seriöser Schlüsseldienst, Türöffnung Uelzen, Türöffnung Lüneburg",
              "codeHead": f'<script type="application/ld+json">\n{faq_ld}\n</script>\n<script type="application/ld+json">\n{bc}\n</script>', "noindex": False}
     o.dump()
