@@ -9,6 +9,8 @@ TEL_E164 = B["telefon_e164"]
 TEL = B["telefon_anzeige"]
 kurz = G.kurz
 BRAND = "ProVision Infra Schlüsselnotdienst"
+# Rechtstexte liegen zentral bei der ProVision Infra GmbH
+LEGAL_URLS = {"impressum": "https://provision-infra.de/impressum/", "datenschutz": "https://provision-infra.de/datenschutz/", "agb": "https://provision-infra.de/agb/"}
 ALPH = string.ascii_letters + string.digits + "_-"
 
 def nid(n=21):
@@ -251,7 +253,7 @@ def vorteile_patches(section, k, eta):
 def footer_menu_value(menu_atom):
     items = copy.deepcopy(menu_atom["data"]["items"])
     old = copy.deepcopy(menu_atom["data"]["items"])
-    mapping = {"impressum": "/impressum", "datenschutz": "/datenschutzerklarung", "agb": "/agb"}
+    mapping = {"impressum": LEGAL_URLS["impressum"], "datenschutz": LEGAL_URLS["datenschutz"], "agb": LEGAL_URLS["agb"]}
     kept = []
     for it in items:
         t = (it["data"].get("link_text") or "").lower()

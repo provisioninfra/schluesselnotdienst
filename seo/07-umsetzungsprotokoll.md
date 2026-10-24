@@ -83,3 +83,7 @@ Vor jeder Änderung wurde eine Versionssicherung angelegt (OnePage → Seite →
 - Impressum und AGB nennen „Schlüsselnotdienst Jannes Heino Baumann“ als Betreiber, Footer und Logo zeigen die ProVision Infra GmbH. Rechtlich abstimmen.
 - Partnerlogos liegen nur in niedriger Auflösung vor (teils 85 px breit) und wirken auf Retina-Displays weich.
 - Search-Console-Autorisierung in OnePage, Passwortwechsel des geteilten Google-Kontos, archivierte Seiten (Geschäftskunden, Schließanlagen, SimonsVoss, EVVA) weiterhin unveröffentlicht.
+
+## Runde 4 (24.10.2026): Rechtstexte zentral bei der ProVision Infra GmbH
+- Alle Links auf Impressum, Datenschutz und AGB (Footer-Menüs aller 33 Seiten, Cookie-Banner) zeigen auf `https://provision-infra.de/impressum/`, `https://provision-infra.de/datenschutz/` und `https://provision-infra.de/agb/` (`build_legal_links_ops.py`, `oplib.LEGAL_URLS`; Cookie-Banner über `gdpr.cookie_policy`).
+- Die internen Seiten /impressum, /agb und /datenschutzerklarung sind weiterhin erreichbar, aber auf `noindex` gesetzt und damit aus der Sitemap (jetzt 30 URLs). Sie können bei Bedarf entfernt werden; OnePage-Weiterleitungen auf externe Ziele sind nicht möglich (`REDIRECT_PATH_NO_EXTERNAL_URL`).
