@@ -1,0 +1,12 @@
+<script>
+(function(){try{
+  if(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches)return;
+  var d=document.documentElement;d.classList.add('pvi-js');
+  var els=[].slice.call(document.querySelectorAll('.con-kit-section:not(.header):not(.hero) [data-molecule]'));
+  var show=function(e){e.classList.add('pvi-in')};
+  if(!('IntersectionObserver' in window)){els.forEach(show);return;}
+  var io=new IntersectionObserver(function(en){en.forEach(function(x){if(x.isIntersecting){show(x.target);io.unobserve(x.target)}})},{rootMargin:'0px 0px -6% 0px',threshold:0.06});
+  els.forEach(function(e){var r=e.getBoundingClientRect();if(r.top<window.innerHeight){show(e)}else{io.observe(e)}});
+  setTimeout(function(){els.forEach(show)},3000);
+}catch(e){}})();
+</script>

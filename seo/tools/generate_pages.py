@@ -27,11 +27,9 @@ def kurz(o):
 def title_for(o):
     k = kurz(o)
     cands = [
-        f"Schlüsseldienst {k} – 24h Notdienst zum Festpreis | ProVision Infra",
-        f"Schlüsseldienst {k} – Notdienst 24/7, Festpreis | ProVision Infra",
-        f"Schlüsseldienst {k} – 24h Notdienst zum Festpreis",
-        f"Schlüsseldienst {k} – Türöffnung 24/7 | ProVision Infra",
-        f"Schlüsseldienst {k} 24h – ProVision Infra",
+        f"Schlüsseldienst {k}: 24h Notdienst zum Festpreis",
+        f"Schlüsseldienst {k}: Notdienst zum Festpreis",
+        f"Schlüsseldienst {k} 24h",
     ]
     for c in cands:
         if len(c) <= 60:
@@ -40,42 +38,41 @@ def title_for(o):
 
 
 def desc_for(o):
-    k = kurz(o)
-    eta = o["eta"]
+    k, eta, p = kurz(o), o["eta"], o["preis_tueroeffnung"]
     v = pick(o["slug"], "desc", 3)
-    cands = {
-        0: f"Ausgesperrt in {k}? ProVision Infra Schlüsselnotdienst öffnet Deine Tür zerstörungsfrei – Festpreis vorab am Telefon, keine Anfahrtskosten, 24/7, in ca. {eta} Min. vor Ort. ☎ {TEL}",
-        1: f"Schlüsseldienst {k}: Türöffnung {o['preis_tueroeffnung']} € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. {eta} Min. bei Dir. ☎ {TEL}",
-        2: f"Schlüsselnotdienst für {k} & Umgebung: zerstörungsfreie Türöffnung, Festpreis am Telefon, Bar/Karte/PayPal, 24/7 erreichbar. Ca. {eta} Min. Anfahrt. ☎ {TEL}",
-    }
-    d = cands[v]
-    if len(d) > 155:
-        d = cands[1]
-    return d
+    cands = [
+        f"Ausgesperrt in {k}? Wir öffnen Deine Tür ohne Schaden, Festpreis {p} € inkl. Anfahrt. Tag und Nacht erreichbar, in etwa {eta} Minuten vor Ort. ☎ {TEL}",
+        f"Schlüsseldienst {k}: Türöffnung für {p} € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa {eta} Minuten bei Dir. ☎ {TEL}",
+        f"Schlüsselnotdienst für {k} und Umgebung: Türöffnung zum Festpreis von {p} €, 24 Stunden erreichbar, in etwa {eta} Minuten vor Ort. ☎ {TEL}",
+    ]
+    order = [cands[v]] + [c for i, c in enumerate(cands) if i != v]
+    for d in order:
+        if len(d) <= 155:
+            return d
+    return f"Schlüsseldienst {k}: Türöffnung für {p} € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa {eta} Minuten bei Dir. ☎ {TEL}"
 
 
 def intro(o):
     k, eta = kurz(o), o["eta"]
     v = pick(o["slug"], "intro", 4)
-    kreis = o["kreis"]
     sg = o.get("samtgemeinde")
-    lage = f"{k} ({o['art']}, {kreis}" + (f", {sg})" if sg else ")")
+    lage = f"{k} ({o['art']}, {o['kreis']}" + (f", {sg})" if sg else ")")
     if o["slug"] == "bad-bevensen":
         return (
-            f"Du stehst in Bad Bevensen vor verschlossener Tür? Dann ist Hilfe besonders nah: Der ProVision Infra Schlüsselnotdienst hat seinen Sitz in der {B['strasse']} in Bad Bevensen. "
-            f"Wir sind der Schlüsseldienst vor Ort – kein Callcenter, keine Vermittlung, sondern Jannes Heino Baumann und sein Team von ProVision Infra aus der Kurstadt selbst. "
-            f"In der Regel sind wir innerhalb von {eta} Minuten bei Dir: in der Innenstadt, im Kurviertel, in Medingen, Groß und Klein Hesebeck, Jastorf, Seedorf, Gollern, Röbbel oder Sasendorf. "
-            f"Die Türöffnung erfolgt in über 90 % der Fälle zerstörungsfrei – zum Festpreis, den Du vorab am Telefon erfährst."
+            "Du stehst in Bad Bevensen vor verschlossener Tür? Dann ist Hilfe nah. Der ProVision Infra Schlüsselnotdienst hat seinen Sitz in der "
+            f"{B['strasse']}, mitten in der Kurstadt. Kein Callcenter und keine Vermittlung, sondern Jannes Heino Baumann und sein Team. "
+            f"Meist sind wir innerhalb von {eta} Minuten bei Dir, in der Innenstadt, im Kurviertel oder in den Ortsteilen von Medingen bis Seedorf. "
+            f"Die Öffnung gelingt in über 90 Prozent der Fälle ohne Schaden, zum Festpreis von {o['preis_tueroeffnung']} €."
         )
     texte = [
-        f"Ausgesperrt in {k}? Schlüssel abgebrochen, verloren oder innen stecken geblieben? Der ProVision Infra Schlüsselnotdienst aus Bad Bevensen ist Dein Schlüsseldienst für {lage}. "
-        f"Wir sind rund um die Uhr erreichbar und in der Regel in etwa {eta} Minuten bei Dir vor Ort. Der Preis für die Türöffnung steht vorher fest – Du erfährst ihn am Telefon, bevor wir losfahren.",
-        f"Der Schlüsseldienst für {lage}: Wenn die Tür zugefallen ist oder das Schloss klemmt, hilft der ProVision Infra Schlüsselnotdienst – 24 Stunden am Tag, auch nachts, am Wochenende und an Feiertagen. "
-        f"Von unserem Standort in Bad Bevensen sind wir in rund {eta} Minuten in {k}. Wir öffnen zerstörungsfrei, zum Festpreis und ohne versteckte Anfahrtskosten.",
-        f"Schnelle Hilfe statt Abzocke: In {k} und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein seriöser Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. "
-        f"Als regionaler Betrieb aus Bad Bevensen im Landkreis Uelzen nennen wir Dir den Festpreis vorab am Telefon und sind in etwa {eta} Minuten bei Dir – Tag und Nacht.",
-        f"Tür zu, Schlüssel drinnen – und das ausgerechnet in {k}? Kein Problem. Der ProVision Infra Schlüsselnotdienst ist der Schlüsseldienst für {lage} und erreicht Dich von Bad Bevensen aus in rund {eta} Minuten. "
-        f"Wir arbeiten zerstörungsfrei, transparent und zum vorher vereinbarten Festpreis – ohne Aufschläge für die Anfahrt.",
+        f"Die Tür ist zu und der Schlüssel liegt drinnen? In {k} hilft der ProVision Infra Schlüsselnotdienst aus Bad Bevensen. "
+        f"Wir sind Tag und Nacht erreichbar und brauchen bis zu Dir etwa {eta} Minuten. Was die Öffnung kostet, sagen wir Dir am Telefon, bevor wir losfahren.",
+        f"Der Schlüsseldienst für {lage}. Wenn die Tür zugefallen ist oder das Schloss klemmt, kommt der ProVision Infra Schlüsselnotdienst, auch nachts, am Wochenende und an Feiertagen. "
+        f"Von Bad Bevensen aus sind wir in rund {eta} Minuten in {k}. Geöffnet wird zum vorher genannten Festpreis, Anfahrtskosten gibt es nicht.",
+        f"In {k} und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. "
+        f"Der Betrieb sitzt in Bad Bevensen im Landkreis Uelzen. Der Festpreis steht vor der Anfahrt fest, und nach etwa {eta} Minuten stehen wir vor Deiner Tür.",
+        f"Ausgesperrt in {k}? Das lässt sich schnell lösen. Der ProVision Infra Schlüsselnotdienst erreicht {k} von Bad Bevensen aus in rund {eta} Minuten "
+        f"und öffnet Deine Tür in den meisten Fällen ohne jeden Schaden. Den Preis kennst Du vorher, einen Aufschlag für die Anfahrt gibt es nicht.",
     ]
     return texte[v]
 
@@ -86,12 +83,12 @@ def lokal_abschnitt(o):
     s = o["lokal"] + " "
     if teile and o["slug"] != "bad-bevensen":
         liste = ", ".join(teile[:-1]) + f" und {teile[-1]}" if len(teile) > 1 else teile[0]
-        s += f"Wir kommen in alle Stadt- und Ortsteile – darunter {liste}. "
+        s += f"Wir kommen in alle Stadt- und Ortsteile, darunter {liste}. "
     v = pick(o["slug"], "lokal", 3)
     s += [
-        f"Als mobiler Schlüsseldienst haben wir das komplette Werkzeug und gängige Profilzylinder im Fahrzeug dabei, sodass wir die meisten Aufträge in {k} direkt vor Ort abschließen können.",
-        f"Weil wir aus der Region kommen, kennen wir die Wege in und um {k} – das spart Zeit, wenn es wirklich eilt.",
-        f"Unser Einsatzfahrzeug ist so ausgestattet, dass wir in {k} nicht nur Türen öffnen, sondern bei Bedarf sofort einen neuen Schließzylinder einbauen können.",
+        f"Im Fahrzeug haben wir das komplette Werkzeug und gängige Profilzylinder dabei. Die meisten Aufträge in {k} erledigen wir deshalb in einem Termin.",
+        f"Weil wir aus der Region kommen, kennen wir die Wege nach {k}. Das spart Zeit, wenn es eilt.",
+        f"Unser Einsatzfahrzeug ist so bestückt, dass wir in {k} eine Tür öffnen und bei Bedarf gleich einen neuen Zylinder einbauen können.",
     ][v]
     return s
 
@@ -99,12 +96,12 @@ def lokal_abschnitt(o):
 def leistungen(o):
     k = kurz(o)
     return [
-        ("Türöffnung", f"Zerstörungsfreie Öffnung von Wohnungs-, Haus- und Zimmertüren in {k} – zugefallen oder abgeschlossen. Festpreis inkl. Anfahrt, nachts/Wochenende/Feiertag mit vorher genanntem Zuschlag."),
-        ("Fensteröffnung", "Öffnung gekippter oder zugefallener Fenster und Terrassentüren ohne Beschädigung."),
-        ("Fahrzeugöffnung", f"Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in {k} schonend und schnell."),
-        ("Schließzylinder & Schlösser", "Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte – hochwertige Zylinder haben wir vorrätig."),
-        ("Schließanlagen & Zutrittssysteme", "Planung und Montage von Schließanlagen und digitalen Zutrittslösungen (u. a. SimonsVoss, EVVA) für Mehrfamilienhäuser, Praxen, Vereine und Betriebe."),
-        ("Einbruchschutz & Sicherheitsberatung", f"Kostenlose Beratung vor Ort in {k}: Beschläge, Zusatzschlösser, Panzerriegel und Tipps, wie Du Dein Zuhause sicherer machst."),
+        ("Türöffnung", f"Wohnungs-, Haus- und Zimmertüren in {k}, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag."),
+        ("Fensteröffnung", "Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung."),
+        ("Fahrzeugöffnung", f"Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in {k} schonend."),
+        ("Schließzylinder und Schlösser", "Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig."),
+        ("Schließanlagen und Zutrittssysteme", "Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe."),
+        ("Einbruchschutz", f"Beratung bei Dir vor Ort in {k}: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge."),
     ]
 
 
@@ -112,47 +109,47 @@ def preise(o):
     k = kurz(o)
     v = pick(o["slug"], "preis", 3)
     p = o["preis_tueroeffnung"]
-    konkret = (f" Konkret: Die Türöffnung in {k} kostet montags bis freitags von 8 bis 18 Uhr {p} € Festpreis inklusive Anfahrt und Mehrwertsteuer; "
-               f"nachts, am Wochenende und an Feiertagen kommen 54 € Zuschlag dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, der Austausch eines Profilzylinders beginnt bei 60 € zzgl. Material.")
+    konkret = (f" Konkret: Die Türöffnung in {k} kostet montags bis freitags von 8 bis 18 Uhr {p} €, inklusive Anfahrt und Mehrwertsteuer. "
+               "Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.")
     return [x + konkret for x in [
-        f"Bei uns gibt es keine Überraschungen auf der Rechnung. Du bekommst den Festpreis für Deine Türöffnung in {k} am Telefon genannt – inklusive Anfahrt und Mehrwertsteuer. "
-        "Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den wir Dir ebenfalls vorher sagen. Nur wenn Material nötig ist (z. B. ein neuer Zylinder), kommen Materialkosten dazu – auch das besprechen wir vor dem Einbau. "
+        f"Du bekommst den Festpreis für Deine Türöffnung in {k} am Telefon genannt, inklusive Anfahrt und Mehrwertsteuer. "
+        "Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den wir Dir ebenfalls vorher sagen. Nur wenn Material nötig ist, etwa ein neuer Zylinder, kommen Materialkosten dazu. "
         "Zahlen kannst Du bar, mit EC- oder Kreditkarte oder per PayPal.",
-        f"Die Verbraucherzentrale hält für eine Türöffnung tagsüber Gesamtpreise im unteren dreistelligen Bereich für angemessen – genau in diesem Rahmen bewegen wir uns in {k}. "
-        "Den konkreten Festpreis erfährst Du vor der Auftragserteilung am Telefon. Es gibt keine getrennten Anfahrtskosten, keinen Aufschlag für „schwierige“ Öffnungen und keine Barzahlungspflicht: Karte und PayPal sind genauso möglich.",
-        f"Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach {k} inklusive, Zuschlag für Nacht/Wochenende/Feiertag vorher benannt. "
-        "Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit – bar, mit Karte oder per PayPal, für Geschäftskunden auch auf Rechnung.",
+        f"Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unteren dreistelligen Bereich für angemessen. In diesem Rahmen bewegen wir uns in {k}. "
+        "Den konkreten Preis erfährst Du vor der Auftragserteilung. Es gibt keine getrennten Anfahrtskosten und keinen Aufschlag für schwierige Öffnungen. Barzahlung ist keine Pflicht, Karte und PayPal gehen genauso.",
+        f"Festpreis am Telefon, Anfahrt nach {k} inklusive, Zuschlag für Nacht, Wochenende und Feiertag vorher benannt. "
+        "Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit, bar, mit Karte oder per PayPal; Geschäftskunden auch auf Rechnung.",
     ]][v]
 
 
 def ablauf(o):
     k = kurz(o)
     return [
-        f"**Anruf:** Du rufst uns an ({TEL}). Wir fragen kurz nach Türart und Situation und nennen Dir den Festpreis und die voraussichtliche Ankunftszeit in {k}.",
-        "**Anfahrt:** Wir fahren sofort los – in der Regel bist Du nach rund {eta} Minuten wieder drin.".format(eta=o["eta"]),
-        "**Berechtigung:** Vor Ort prüfen wir, dass Du zur Wohnung oder zum Haus gehörst (Ausweis, Mietvertrag oder rechtsverbindliche Versicherung).",
-        "**Öffnung:** Mit Profiwerkzeug öffnen wir die Tür in über 90 % der Fälle zerstörungsfrei. Falls doch ein Zylinder getauscht werden muss, haben wir Ersatz dabei.",
-        "**Bezahlung:** Du zahlst den vorher genannten Preis – bar, mit Karte oder PayPal – und bekommst eine Quittung bzw. Rechnung.",
+        f"**Anruf:** Du rufst an unter {TEL}. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.",
+        f"**Anfahrt:** Wir fahren sofort los. Nach etwa {o['eta']} Minuten sind wir in {k}.",
+        "**Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.",
+        "**Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.",
+        "**Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.",
     ]
 
 
 def faq(o):
-    k, eta = kurz(o), o["eta"]
+    k, eta, p = kurz(o), o["eta"], o["preis_tueroeffnung"]
     pool = [
         (f"Wie schnell ist der Schlüsseldienst in {k} vor Ort?",
-         f"Von unserem Standort in Bad Bevensen brauchen wir nach {k} in der Regel etwa {eta} Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."),
+         f"Von Bad Bevensen nach {k} brauchen wir in der Regel etwa {eta} Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."),
         (f"Was kostet eine Türöffnung in {k}?",
-         f"Tagsüber (Mo–Fr 8–18 Uhr) {o['preis_tueroeffnung']} € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten."),
+         f"Montags bis freitags von 8 bis 18 Uhr {p} €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."),
         ("Wird meine Tür beim Öffnen beschädigt?",
-         "In über 90 % der Fälle öffnen wir zerstörungsfrei. Bei zugefallenen Türen ist das fast immer möglich; bei abgeschlossenen Türen informieren wir Dich vorher, falls ein Zylinder getauscht werden muss."),
+         "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."),
         (f"Ist der Schlüsselnotdienst in {k} auch nachts und am Wochenende erreichbar?",
-         f"Ja, wir sind 24 Stunden am Tag, 7 Tage die Woche erreichbar – auch an Feiertagen. Ruf einfach an: {TEL}."),
+         f"Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: {TEL}."),
         ("Muss ich mich ausweisen?",
-         "Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung rechtsverbindlich versichern. Details stehen in unseren AGB."),
+         "Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB."),
         ("Kann ich mit Karte oder PayPal bezahlen?",
-         "Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auch auf Rechnung zahlen."),
+         "Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen."),
         (f"Woran erkenne ich einen seriösen Schlüsseldienst in {k}?",
-         "An einem festen Preis vor Auftragserteilung, einer regionalen Adresse im Impressum, einer Festnetznummer und daran, dass keine Barzahlung erzwungen wird. All das findest Du bei uns – wir sitzen in Bad Bevensen und sind seit Jahren in der Region tätig."),
+         "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region."),
     ]
     start = pick(o["slug"], "faq", len(pool))
     idx = [0, 1] + [(start + i) % len(pool) for i in range(2, 6)]
@@ -224,7 +221,7 @@ def render(o):
     L.append("> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.\n")
 
     L.append("## 2. Seitenstruktur & Texte\n")
-    L.append(f"### H1\nSchlüsseldienst {k} – Schlüsselnotdienst 24/7 zum Festpreis\n")
+    L.append(f"### H1\nSchlüsseldienst {k}: Notdienst rund um die Uhr zum Festpreis\n")
     L.append(f"**Unterzeile (kein Heading, normaler Text):** Türöffnung in {k} & Umgebung · fair · transparent · in ca. {o['eta']} Min. vor Ort · ☎ {TEL}\n")
     L.append(f"**Button:** „Jetzt anrufen – {TEL}“ (Link `tel:{B['telefon_e164']}`)\n")
     L.append("### Einleitung (direkt unter der H1)\n" + intro(o) + "\n")

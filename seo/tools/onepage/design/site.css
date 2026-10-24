@@ -1,0 +1,86 @@
+/* ProVision Infra Schlüsselnotdienst – Design angelehnt an provision-infra.de */
+:root{--pvi-navy:#010D30;--pvi-navy-2:#071A4A;--pvi-blue:#263E96;--pvi-yellow:#FBC91B;--pvi-yellow-2:#E0B01A;--pvi-text:#E8EDF7;--pvi-muted:#B7C2D9;--pvi-border:rgba(255,255,255,.12);--pvi-card:rgba(255,255,255,.04)}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+/* Schrift: Poppins für Überschriften und Text (Kit-Variablen überschreiben) */
+html .con-kit-site,html:root{--font-kit-header-font:'Poppins',sans-serif;--font-kit-text-font:'Poppins',sans-serif;--font-kit-header-font-weight:600;--font-kit-text-font-weight:400;--font-kit-text-font-weight-bold:600}
+/* Überschriften in der Textfarbe des Abschnitts (weiß auf dunkel, dunkel auf hell); gelbe Palettenfarbe nur als Akzent */
+.con-kit-row__container{--pvi-section-text:var(--color-text)}
+.con-kit-section .con-kit-atom-header .con-kit-quark-color,.con-kit-section .con-kit-atom-header .con-kit-quark-highlight{--color-text:var(--pvi-section-text)!important;--color-border:251,201,27!important}
+.con-kit-section.layout#main-content [data-molecule][data-kit-frame=solid] .con-kit-atom-header h1 .con-kit-quark-color,.con-kit-section.layout#main-content [data-molecule][data-kit-frame=solid] .con-kit-atom-header h1{--color-text:251,201,27!important;color:var(--pvi-yellow)}
+.con-kit-section.hero .con-kit-atom-header h1 .con-kit-quark-color,.con-kit-section.hero .con-kit-atom-header h1{--color-text:255,255,255!important;color:#fff}
+/* Symbole: gelbe Glyphe auf dunklem Kreis */
+.con-kit-component-icon--style-solid{--color-text:251,201,27!important;--color-bg:7,26,74!important;border:1px solid rgba(255,255,255,.14)}
+/* Reine Überschriften-Abschnitte ohne Kartenrahmen */
+.con-kit-section.vorteile-überschrift [data-molecule],.con-kit-section.kontakt-überschrift [data-molecule],.con-kit-section.unsere-partner [data-molecule]{background:transparent!important;border:0!important;box-shadow:none!important}
+
+body{background:var(--pvi-navy)!important;font-family:var(--font-kit-text-font,'Poppins',sans-serif);color:var(--pvi-text)}
+.pvi-local,.pvi-prices,.reviews-container,.accent-line{font-family:var(--font-kit-text-font,'Poppins',sans-serif)}
+.con-kit-page{background:var(--pvi-navy)}
+img{max-width:100%;height:auto}
+
+/* Header als schwebende Leiste */
+.con-kit-section.header .con-kit-layer-header-v2 .con-kit-container,
+.con-kit-section.header .con-kit-layer-header-v2 .con-kit-row__container{max-width:1240px}
+.con-kit-section.header .con-kit-row{background:rgba(1,13,48,.82);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);border:1px solid var(--pvi-border);border-radius:999px;margin:12px 16px 0;padding:10px 22px;box-shadow:0 10px 30px rgba(0,0,0,.25);overflow:visible}
+/* Logo (ProVision Infra GmbH, weiße Wortmarke 258x60): Box folgt dem Seitenverhältnis, kein Zuschnitt */
+.con-kit-section.header .con-kit-component-logo{display:flex;align-items:center;width:auto!important;height:40px!important}
+.con-kit-section.header .con-kit-component-logo .con-kit-fade-box{width:auto!important;height:40px!important;overflow:visible!important}
+.con-kit-section.header .con-kit-component-logo .con-kit-fade-box .con-kit-component-logo__image{width:auto!important;height:40px!important;max-height:40px;object-fit:contain!important;object-position:center;filter:none}
+@media (max-width:700px){.con-kit-section.header .con-kit-component-logo,.con-kit-section.header .con-kit-component-logo .con-kit-fade-box,.con-kit-section.header .con-kit-component-logo .con-kit-fade-box .con-kit-component-logo__image{height:32px!important;max-height:32px}}
+.con-kit-section.header .con-kit-molecule-header-v2{min-height:0}
+.con-kit-section.header .con-kit-atom-menu-v2-item-inside__title{color:#fff;font-weight:500}
+.con-kit-section.header a:hover .con-kit-atom-menu-v2-item-inside__title{color:var(--pvi-yellow)}
+
+/* Karten in Vorteile/USP-Abschnitten */
+.con-kit-section.vorteile [data-molecule][data-kit-frame=solid],
+.con-kit-section.usp [data-molecule][data-kit-frame=solid],
+.con-kit-section.das-zeichnet-uns-aus [data-molecule][data-kit-frame=solid]{border:1px solid var(--pvi-border);border-radius:18px;transition:border-color .25s ease,transform .25s ease,box-shadow .25s ease}
+.con-kit-section.vorteile [data-molecule][data-kit-frame=solid]:hover,
+.con-kit-section.usp [data-molecule][data-kit-frame=solid]:hover{border-color:rgba(251,201,27,.55);transform:translateY(-3px);box-shadow:0 14px 34px rgba(0,0,0,.35)}
+
+/* Hero-Karte und Bild */
+#main-content .con-kit-component-image img,#main-content .con-kit-component-image__background{border-radius:18px}
+.con-kit-section.layout#main-content [data-molecule][data-kit-frame=solid]{border-radius:20px;overflow:hidden;box-shadow:0 20px 50px rgba(0,0,0,.35);border:1px solid rgba(255,255,255,.08)}
+
+/* Buttons */
+.con-kit-component-button--type-solid{transition:transform .2s ease,box-shadow .2s ease,background-color .2s ease}
+.con-kit-component-button--type-solid:hover{transform:translateY(-2px);box-shadow:0 10px 26px rgba(251,201,27,.28)}
+#main-content .con-kit-component-button--type-solid{box-shadow:0 0 0 1px rgba(251,201,27,.35),0 10px 30px rgba(251,201,27,.18)}
+
+/* Abschnitte: feine Trennlinie und leichter Verlauf */
+.con-kit-section.vorteile,.con-kit-section.usp{background-image:radial-gradient(1200px 500px at 50% -10%,rgba(38,62,150,.35),transparent 70%)}
+.con-kit-section.preisplan,.con-kit-section.einsatzgebiet{border-top:1px solid rgba(255,255,255,.06)}
+
+/* Dezentes Einblenden beim Scrollen (nur mit JS, ohne Bewegung bei reduzierter Animation) */
+.pvi-js .con-kit-section:not(.header):not(.hero) [data-molecule]{opacity:0;transform:translateY(14px);transition:opacity .6s ease-out,transform .6s ease-out,border-color .25s ease,box-shadow .25s ease}
+.pvi-js .con-kit-section:not(.header):not(.hero) [data-molecule].pvi-in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.pvi-js [data-molecule]{opacity:1!important;transform:none!important;transition:none!important}.con-kit-component-button--type-solid:hover,.con-kit-section.vorteile [data-molecule]:hover{transform:none}}
+
+/* Mobile Feinschliff */
+@media (max-width:700px){
+  .con-kit-section.header .con-kit-row{margin:8px 10px 0;padding:4px 10px}
+  .con-kit-section.hero h1{font-size:clamp(26px,7.6vw,40px)!important;line-height:1.1!important}
+  .con-kit-section.hero h2{font-size:clamp(18px,5vw,24px)!important}
+  .con-kit-section.layout#main-content [data-molecule][data-kit-frame=solid]{border-radius:16px}
+}
+
+/* Startseiten-Hero: Text links, Foto rechts durchscheinend */
+.con-kit-section.hero [data-molecule]{text-align:left}
+@media (min-width:701px){.con-kit-section.hero .con-kit-organism-background1{background-image:linear-gradient(90deg,rgba(1,13,48,.6) 0%,rgba(1,13,48,.3) 55%,rgba(1,13,48,0) 100%)}}
+.con-kit-section.hero h1{max-width:none;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:normal;word-break:normal}
+.con-kit-section.hero h2{max-width:34ch;font-weight:400!important}
+.con-kit-section.hero .con-kit-component-link-group{justify-content:flex-start}
+@media (max-width:700px){.con-kit-section.hero h1{max-width:none}.con-kit-section.hero h2{max-width:none}}
+
+/* Preiskarten: ab 900px als Raster (3 Spalten) statt horizontalem Scroller; darunter bleibt der Snap-Scroller */
+@media (min-width:900px){
+  .con-kit-section .pvi-prices{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;overflow:visible;padding:8px 0 10px;scroll-snap-type:none}
+  .con-kit-section .pvi-prices .pvi-price{flex:none;width:auto;min-width:0}
+}
+
+/* Mobiles Menü (Burger-Overlay) im dunklen Design */
+.con-kit-component-burger-menu__background{background:#010D30!important}
+.con-kit-component-burger-menu{--color-text:255,255,255!important;color:#fff!important}
+.con-kit-component-burger-menu .con-kit-atom-menu-v2-item-inside__title{color:#fff!important}
+.con-kit-component-burger-menu .con-kit-component-icon,.con-kit-component-burger-menu .con-kit-link-button{--color-text:255,255,255!important;color:#fff!important}
+.con-kit-component-burger-menu .con-kit-atom-menu-v2-item-inside__title:hover{color:#FBC91B!important}

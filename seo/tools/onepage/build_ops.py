@@ -30,27 +30,31 @@ def build_city(slug):
     add(img, {"data": {"alt": f"Schlüsseldienst öffnet eine Haustür in {k} – {BRAND}"}}, {"data": {"alt": img["data"].get("alt", "")}}, "hero alt")
     heads = find_atoms(hero, "header")
     h1, h2 = heads[0], heads[1]
-    val, snap = single_text(h1, f"Schlüsseldienst {k} – 24/7 Notdienst zum Festpreis", "h1"); add(h1, val, snap, "hero h1")
+    val, snap = single_text(h1, f"Schlüsseldienst {k}: Notdienst rund um die Uhr zum Festpreis", "h1"); add(h1, val, snap, "hero h1")
     val, snap = single_text(h2, f"{BRAND} für {k}", "h2"); add(h2, val, snap, "hero h2")
     pt = find_atoms(hero, "plain-text")[0]
     text, bold = hero_plain_text(o)
     val, snap = single_text(pt, text, None, bold); add(pt, val, snap, "hero text")
 
+    # Vorteile-Karten
+    for a, val, snap, note in vorteile_patches(S["Vorteile"][0], k, o["eta"]):
+        cur = a["data"]["text"]["blocks"][0]["text"]
+        if cur != val["data"]["text"]["blocks"][0]["text"]:
+            add(a, val, snap, note)
+
     # Preisplan header: keep; Einsatzgebiet header + html
     eg = S["Einsatzgebiet"][0]
     egh = find_atoms(eg, "header")[0]
-    val, snap = single_text(egh, f"Alles Wichtige für {k}: Preise, Ablauf, FAQ & Einsatzgebiet"); add(egh, val, snap, "einsatzgebiet header")
+    val, snap = single_text(egh, f"Alles Wichtige für {k}: Preise, Ablauf, Antworten und Einsatzgebiet"); add(egh, val, snap, "einsatzgebiet header")
     egc = find_atoms(eg, "custom-code")[0]
     add(egc, {"data": {"html": local_html(o)}}, {"data": {"html": egc["data"]["html"]}}, "einsatzgebiet html")
 
-    # Bewertungen: mark duplicated marquee cards aria-hidden
+    # Bewertungen: dunkle Variante, Duplikate aria-hidden
     bw = S["Bewertungen"][0]
     bwc = find_atoms(bw, "custom-code")[0]
-    h = bwc["data"]["html"]
-    parts = h.split('<div class="review-card">')
-    if len(parts) == 13:
-        newh = parts[0] + "".join(('<div class="review-card"' + (' aria-hidden="true"' if i > 6 else '') + '>' + p) for i, p in enumerate(parts[1:], 1))
-        add(bwc, {"data": {"html": newh}}, {"data": {"html": h}}, "bewertungen aria-hidden")
+    newh = reviews_dark(bwc["data"]["html"])
+    if newh != bwc["data"]["html"]:
+        add(bwc, {"data": {"html": newh}}, {"data": {"html": bwc["data"]["html"]}}, "bewertungen html")
 
     # Footer
     fz = S["Fußzeile"][0]
@@ -63,13 +67,12 @@ def build_city(slug):
     for m, val, snap in header_menu_fix(S["Header"][0]):
         add(m, val, snap, "header menu")
 
-    # Preisplan price replacement for non-135 pages (new pages duplicated from a 135 template)
-    if o["preis_tueroeffnung"] != "135":
-        pp = S["Preisplan"][0]
-        ppc = find_atoms(pp, "custom-code")[0]
-        h = ppc["data"]["html"]
-        if "135€" in h:
-            add(ppc, {"data": {"html": h.replace("135€", o["preis_tueroeffnung"] + "€")}}, {"data": {"html": h}}, "preisplan price")
+    # Preisplan: neue Preiskarten (dunkles Design, Preis je Ort)
+    pp = S["Preisplan"][0]
+    ppc = find_atoms(pp, "custom-code")[0]
+    newp = price_cards(o["preis_tueroeffnung"], True)
+    if newp != ppc["data"]["html"]:
+        add(ppc, {"data": {"html": newp}}, {"data": {"html": ppc["data"]["html"]}}, "preisplan html")
     # Preisplan header text "Leistungen für X"
     pp = S["Preisplan"][0]
     pph = find_atoms(pp, "header")[0]

@@ -7,8 +7,8 @@
 | Feld | Wert | Länge |
 |---|---|---|
 | URL / Slug | `bad-bevensen` | |
-| Seitentitel (Page Title) | Schlüsseldienst Bad Bevensen – 24h Notdienst zum Festpreis | 58 |
-| Beschreibung (Description) | Schlüsseldienst Bad Bevensen: Türöffnung 115 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 10 Min. bei Dir. ☎ 05821 4049049 | 152 |
+| Seitentitel (Page Title) | Schlüsseldienst Bad Bevensen: 24h Notdienst zum Festpreis | 57 |
+| Beschreibung (Description) | Schlüsseldienst Bad Bevensen: Türöffnung für 115 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 10 Minuten bei Dir. ☎ 05821 4049049 | 135 |
 | Keywords | Schlüsseldienst Bad Bevensen, Schlüsselnotdienst Bad Bevensen, Türöffnung Bad Bevensen, Schlüsseldienst Bad Bevensen 24h, Aufsperrdienst Bad Bevensen, Schlüsseldienst Bad Bevensen Kosten | |
 | Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Bad Bevensen“ | |
 | Indexierung | **erlaubt** (an) | |
@@ -18,37 +18,37 @@
 ## 2. Seitenstruktur & Texte
 
 ### H1
-Schlüsseldienst Bad Bevensen – Schlüsselnotdienst 24/7 zum Festpreis
+Schlüsseldienst Bad Bevensen: Notdienst rund um die Uhr zum Festpreis
 
 **Unterzeile (kein Heading, normaler Text):** Türöffnung in Bad Bevensen & Umgebung · fair · transparent · in ca. 10 Min. vor Ort · ☎ 05821 4049049
 
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Du stehst in Bad Bevensen vor verschlossener Tür? Dann ist Hilfe besonders nah: Der ProVision Infra Schlüsselnotdienst hat seinen Sitz in der Klein Hesebecker Straße 11 in Bad Bevensen. Wir sind der Schlüsseldienst vor Ort – kein Callcenter, keine Vermittlung, sondern Jannes Heino Baumann und sein Team von ProVision Infra aus der Kurstadt selbst. In der Regel sind wir innerhalb von 10 Minuten bei Dir: in der Innenstadt, im Kurviertel, in Medingen, Groß und Klein Hesebeck, Jastorf, Seedorf, Gollern, Röbbel oder Sasendorf. Die Türöffnung erfolgt in über 90 % der Fälle zerstörungsfrei – zum Festpreis, den Du vorab am Telefon erfährst.
+Du stehst in Bad Bevensen vor verschlossener Tür? Dann ist Hilfe nah. Der ProVision Infra Schlüsselnotdienst hat seinen Sitz in der Klein Hesebecker Straße 11, mitten in der Kurstadt. Kein Callcenter und keine Vermittlung, sondern Jannes Heino Baumann und sein Team. Meist sind wir innerhalb von 10 Minuten bei Dir, in der Innenstadt, im Kurviertel oder in den Ortsteilen von Medingen bis Seedorf. Die Öffnung gelingt in über 90 Prozent der Fälle ohne Schaden, zum Festpreis von 115 €.
 
 ### H2: ProVision Infra Schlüsselnotdienst für Bad Bevensen – aus der Region, für die Region
-Unser Standort liegt direkt in Bad Bevensen – von der Jod-Sole-Therme bis zum Kurpark und in alle Ortsteile sind wir in wenigen Minuten vor Ort. Unser Einsatzfahrzeug ist so ausgestattet, dass wir in Bad Bevensen nicht nur Türen öffnen, sondern bei Bedarf sofort einen neuen Schließzylinder einbauen können.
+Unser Standort liegt mitten in Bad Bevensen. Von der Jod-Sole-Therme bis zum Kurpark und in alle Ortsteile sind wir in wenigen Minuten vor Ort. Unser Einsatzfahrzeug ist so bestückt, dass wir in Bad Bevensen eine Tür öffnen und bei Bedarf gleich einen neuen Zylinder einbauen können.
 
 ### H2: Unsere Leistungen in Bad Bevensen
 
-- **H3: Türöffnung** – Zerstörungsfreie Öffnung von Wohnungs-, Haus- und Zimmertüren in Bad Bevensen – zugefallen oder abgeschlossen. Festpreis inkl. Anfahrt, nachts/Wochenende/Feiertag mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Öffnung gekippter oder zugefallener Fenster und Terrassentüren ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Bad Bevensen schonend und schnell.
-- **H3: Schließzylinder & Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte – hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen & Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen (u. a. SimonsVoss, EVVA) für Mehrfamilienhäuser, Praxen, Vereine und Betriebe.
-- **H3: Einbruchschutz & Sicherheitsberatung** – Kostenlose Beratung vor Ort in Bad Bevensen: Beschläge, Zusatzschlösser, Panzerriegel und Tipps, wie Du Dein Zuhause sicherer machst.
+- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Bad Bevensen, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
+- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
+- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Bad Bevensen schonend.
+- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
+- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
+- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Bad Bevensen: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
 
 ### H2: Was kostet der Schlüsseldienst in Bad Bevensen?
-Bei uns gibt es keine Überraschungen auf der Rechnung. Du bekommst den Festpreis für Deine Türöffnung in Bad Bevensen am Telefon genannt – inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den wir Dir ebenfalls vorher sagen. Nur wenn Material nötig ist (z. B. ein neuer Zylinder), kommen Materialkosten dazu – auch das besprechen wir vor dem Einbau. Zahlen kannst Du bar, mit EC- oder Kreditkarte oder per PayPal. Konkret: Die Türöffnung in Bad Bevensen kostet montags bis freitags von 8 bis 18 Uhr 115 € Festpreis inklusive Anfahrt und Mehrwertsteuer; nachts, am Wochenende und an Feiertagen kommen 54 € Zuschlag dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, der Austausch eines Profilzylinders beginnt bei 60 € zzgl. Material.
+Du bekommst den Festpreis für Deine Türöffnung in Bad Bevensen am Telefon genannt, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den wir Dir ebenfalls vorher sagen. Nur wenn Material nötig ist, etwa ein neuer Zylinder, kommen Materialkosten dazu. Zahlen kannst Du bar, mit EC- oder Kreditkarte oder per PayPal. Konkret: Die Türöffnung in Bad Bevensen kostet montags bis freitags von 8 bis 18 Uhr 115 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
 
 ### H2: So läuft Deine Türöffnung in Bad Bevensen ab
 
-1. **Anruf:** Du rufst uns an (05821 4049049). Wir fragen kurz nach Türart und Situation und nennen Dir den Festpreis und die voraussichtliche Ankunftszeit in Bad Bevensen.
-2. **Anfahrt:** Wir fahren sofort los – in der Regel bist Du nach rund 10 Minuten wieder drin.
-3. **Berechtigung:** Vor Ort prüfen wir, dass Du zur Wohnung oder zum Haus gehörst (Ausweis, Mietvertrag oder rechtsverbindliche Versicherung).
-4. **Öffnung:** Mit Profiwerkzeug öffnen wir die Tür in über 90 % der Fälle zerstörungsfrei. Falls doch ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
-5. **Bezahlung:** Du zahlst den vorher genannten Preis – bar, mit Karte oder PayPal – und bekommst eine Quittung bzw. Rechnung.
+1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
+2. **Anfahrt:** Wir fahren sofort los. Nach etwa 10 Minuten sind wir in Bad Bevensen.
+3. **Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.
+4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
+5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
 
 ### H2: Deine Vorteile auf einen Blick
 
@@ -62,16 +62,16 @@ Bei uns gibt es keine Überraschungen auf der Rechnung. Du bekommst den Festprei
 ### H2: Häufige Fragen zum Schlüsseldienst in Bad Bevensen
 
 **H3: Wie schnell ist der Schlüsseldienst in Bad Bevensen vor Ort?**  
-Von unserem Standort in Bad Bevensen brauchen wir nach Bad Bevensen in der Regel etwa 10 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
+Von Bad Bevensen nach Bad Bevensen brauchen wir in der Regel etwa 10 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
 **H3: Was kostet eine Türöffnung in Bad Bevensen?**  
-Tagsüber (Mo–Fr 8–18 Uhr) 115 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten.
+Montags bis freitags von 8 bis 18 Uhr 115 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
 
 **H3: Woran erkenne ich einen seriösen Schlüsseldienst in Bad Bevensen?**  
-An einem festen Preis vor Auftragserteilung, einer regionalen Adresse im Impressum, einer Festnetznummer und daran, dass keine Barzahlung erzwungen wird. All das findest Du bei uns – wir sitzen in Bad Bevensen und sind seit Jahren in der Region tätig.
+An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region.
 
 **H3: Wird meine Tür beim Öffnen beschädigt?**  
-In über 90 % der Fälle öffnen wir zerstörungsfrei. Bei zugefallenen Türen ist das fast immer möglich; bei abgeschlossenen Türen informieren wir Dich vorher, falls ein Zylinder getauscht werden muss.
+In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
 
 ### H2: Kundenbewertungen
 (bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
@@ -109,7 +109,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "name": "Schlüsseldienst Bad Bevensen – Türöffnung & Schlüsselnotdienst",
   "serviceType": "Schlüsselnotdienst / Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/bad-bevensen",
-  "description": "Schlüsseldienst Bad Bevensen: Türöffnung 115 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 10 Min. bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Bad Bevensen: Türöffnung für 115 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 10 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -188,7 +188,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Wie schnell ist der Schlüsseldienst in Bad Bevensen vor Ort?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Von unserem Standort in Bad Bevensen brauchen wir nach Bad Bevensen in der Regel etwa 10 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."
+        "text": "Von Bad Bevensen nach Bad Bevensen brauchen wir in der Regel etwa 10 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."
       }
     },
     {
@@ -196,7 +196,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Bad Bevensen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Tagsüber (Mo–Fr 8–18 Uhr) 115 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten."
+        "text": "Montags bis freitags von 8 bis 18 Uhr 115 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
       }
     },
     {
@@ -204,7 +204,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Woran erkenne ich einen seriösen Schlüsseldienst in Bad Bevensen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An einem festen Preis vor Auftragserteilung, einer regionalen Adresse im Impressum, einer Festnetznummer und daran, dass keine Barzahlung erzwungen wird. All das findest Du bei uns – wir sitzen in Bad Bevensen und sind seit Jahren in der Region tätig."
+        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region."
       }
     },
     {
@@ -212,7 +212,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Wird meine Tür beim Öffnen beschädigt?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In über 90 % der Fälle öffnen wir zerstörungsfrei. Bei zugefallenen Türen ist das fast immer möglich; bei abgeschlossenen Türen informieren wir Dich vorher, falls ein Zylinder getauscht werden muss."
+        "text": "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."
       }
     }
   ]

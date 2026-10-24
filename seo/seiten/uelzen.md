@@ -5,8 +5,8 @@
 | Feld | Wert | Länge |
 |---|---|---|
 | URL / Slug | `uelzen` | |
-| Seitentitel (Page Title) | Schlüsseldienst Uelzen – 24h Notdienst zum Festpreis | 52 |
-| Beschreibung (Description) | Schlüsseldienst Uelzen: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 20 Min. bei Dir. ☎ 05821 4049049 | 146 |
+| Seitentitel (Page Title) | Schlüsseldienst Uelzen: 24h Notdienst zum Festpreis | 51 |
+| Beschreibung (Description) | Schlüsseldienst Uelzen: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 20 Minuten bei Dir. ☎ 05821 4049049 | 129 |
 | Keywords | Schlüsseldienst Uelzen, Schlüsselnotdienst Uelzen, Türöffnung Uelzen, Schlüsseldienst Uelzen 24h, Aufsperrdienst Uelzen, Schlüsseldienst Uelzen Kosten | |
 | Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Uelzen“ | |
 | Indexierung | **erlaubt** (an) | |
@@ -16,37 +16,37 @@
 ## 2. Seitenstruktur & Texte
 
 ### H1
-Schlüsseldienst Uelzen – Schlüsselnotdienst 24/7 zum Festpreis
+Schlüsseldienst Uelzen: Notdienst rund um die Uhr zum Festpreis
 
 **Unterzeile (kein Heading, normaler Text):** Türöffnung in Uelzen & Umgebung · fair · transparent · in ca. 20 Min. vor Ort · ☎ 05821 4049049
 
 **Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
 
 ### Einleitung (direkt unter der H1)
-Der Schlüsseldienst für Uelzen (Hansestadt und Kreisstadt, Landkreis Uelzen): Wenn die Tür zugefallen ist oder das Schloss klemmt, hilft der ProVision Infra Schlüsselnotdienst – 24 Stunden am Tag, auch nachts, am Wochenende und an Feiertagen. Von unserem Standort in Bad Bevensen sind wir in rund 20 Minuten in Uelzen. Wir öffnen zerstörungsfrei, zum Festpreis und ohne versteckte Anfahrtskosten.
+Der Schlüsseldienst für Uelzen (Hansestadt und Kreisstadt, Landkreis Uelzen). Wenn die Tür zugefallen ist oder das Schloss klemmt, kommt der ProVision Infra Schlüsselnotdienst, auch nachts, am Wochenende und an Feiertagen. Von Bad Bevensen aus sind wir in rund 20 Minuten in Uelzen. Geöffnet wird zum vorher genannten Festpreis, Anfahrtskosten gibt es nicht.
 
 ### H2: ProVision Infra Schlüsselnotdienst für Uelzen – aus der Region, für die Region
-Ob Innenstadt rund um den Hundertwasser-Bahnhof, Wohngebiete in Veerßen und Oldenstadt oder die umliegenden Dörfer – Uelzen gehört zu unseren häufigsten Einsatzorten. Wir kommen in alle Stadt- und Ortsteile – darunter Veerßen, Oldenstadt, Holdenstedt, Molzen, Kirchweyhe, Hansen, Groß Liedern und Westerweyhe. Als mobiler Schlüsseldienst haben wir das komplette Werkzeug und gängige Profilzylinder im Fahrzeug dabei, sodass wir die meisten Aufträge in Uelzen direkt vor Ort abschließen können.
+Ob Innenstadt rund um den Hundertwasser-Bahnhof, die Wohngebiete in Veerßen und Oldenstadt oder die umliegenden Dörfer: Uelzen gehört zu unseren häufigsten Einsatzorten. Wir kommen in alle Stadt- und Ortsteile, darunter Veerßen, Oldenstadt, Holdenstedt, Molzen, Kirchweyhe, Hansen, Groß Liedern und Westerweyhe. Im Fahrzeug haben wir das komplette Werkzeug und gängige Profilzylinder dabei. Die meisten Aufträge in Uelzen erledigen wir deshalb in einem Termin.
 
 ### H2: Unsere Leistungen in Uelzen
 
-- **H3: Türöffnung** – Zerstörungsfreie Öffnung von Wohnungs-, Haus- und Zimmertüren in Uelzen – zugefallen oder abgeschlossen. Festpreis inkl. Anfahrt, nachts/Wochenende/Feiertag mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Öffnung gekippter oder zugefallener Fenster und Terrassentüren ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Uelzen schonend und schnell.
-- **H3: Schließzylinder & Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte – hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen & Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen (u. a. SimonsVoss, EVVA) für Mehrfamilienhäuser, Praxen, Vereine und Betriebe.
-- **H3: Einbruchschutz & Sicherheitsberatung** – Kostenlose Beratung vor Ort in Uelzen: Beschläge, Zusatzschlösser, Panzerriegel und Tipps, wie Du Dein Zuhause sicherer machst.
+- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Uelzen, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
+- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
+- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Uelzen schonend.
+- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
+- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
+- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Uelzen: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
 
 ### H2: Was kostet der Schlüsseldienst in Uelzen?
-Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Uelzen inklusive, Zuschlag für Nacht/Wochenende/Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit – bar, mit Karte oder per PayPal, für Geschäftskunden auch auf Rechnung. Konkret: Die Türöffnung in Uelzen kostet montags bis freitags von 8 bis 18 Uhr 135 € Festpreis inklusive Anfahrt und Mehrwertsteuer; nachts, am Wochenende und an Feiertagen kommen 54 € Zuschlag dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, der Austausch eines Profilzylinders beginnt bei 60 € zzgl. Material.
+Festpreis am Telefon, Anfahrt nach Uelzen inklusive, Zuschlag für Nacht, Wochenende und Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit, bar, mit Karte oder per PayPal; Geschäftskunden auch auf Rechnung. Konkret: Die Türöffnung in Uelzen kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
 
 ### H2: So läuft Deine Türöffnung in Uelzen ab
 
-1. **Anruf:** Du rufst uns an (05821 4049049). Wir fragen kurz nach Türart und Situation und nennen Dir den Festpreis und die voraussichtliche Ankunftszeit in Uelzen.
-2. **Anfahrt:** Wir fahren sofort los – in der Regel bist Du nach rund 20 Minuten wieder drin.
-3. **Berechtigung:** Vor Ort prüfen wir, dass Du zur Wohnung oder zum Haus gehörst (Ausweis, Mietvertrag oder rechtsverbindliche Versicherung).
-4. **Öffnung:** Mit Profiwerkzeug öffnen wir die Tür in über 90 % der Fälle zerstörungsfrei. Falls doch ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
-5. **Bezahlung:** Du zahlst den vorher genannten Preis – bar, mit Karte oder PayPal – und bekommst eine Quittung bzw. Rechnung.
+1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
+2. **Anfahrt:** Wir fahren sofort los. Nach etwa 20 Minuten sind wir in Uelzen.
+3. **Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.
+4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
+5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
 
 ### H2: Deine Vorteile auf einen Blick
 
@@ -60,19 +60,19 @@ Transparenz ist für uns Pflicht: Festpreis am Telefon, Anfahrt nach Uelzen inkl
 ### H2: Häufige Fragen zum Schlüsseldienst in Uelzen
 
 **H3: Wie schnell ist der Schlüsseldienst in Uelzen vor Ort?**  
-Von unserem Standort in Bad Bevensen brauchen wir nach Uelzen in der Regel etwa 20 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
+Von Bad Bevensen nach Uelzen brauchen wir in der Regel etwa 20 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
 **H3: Was kostet eine Türöffnung in Uelzen?**  
-Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten.
+Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
 
 **H3: Muss ich mich ausweisen?**  
-Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung rechtsverbindlich versichern. Details stehen in unseren AGB.
+Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB.
 
 **H3: Kann ich mit Karte oder PayPal bezahlen?**  
-Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auch auf Rechnung zahlen.
+Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen.
 
 **H3: Woran erkenne ich einen seriösen Schlüsseldienst in Uelzen?**  
-An einem festen Preis vor Auftragserteilung, einer regionalen Adresse im Impressum, einer Festnetznummer und daran, dass keine Barzahlung erzwungen wird. All das findest Du bei uns – wir sitzen in Bad Bevensen und sind seit Jahren in der Region tätig.
+An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region.
 
 ### H2: Kundenbewertungen
 (bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
@@ -110,7 +110,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "name": "Schlüsseldienst Uelzen – Türöffnung & Schlüsselnotdienst",
   "serviceType": "Schlüsselnotdienst / Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/uelzen",
-  "description": "Schlüsseldienst Uelzen: Türöffnung 135 € Festpreis inkl. Anfahrt, 24h Notdienst, keine versteckten Kosten. In ca. 20 Min. bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Uelzen: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 20 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -189,7 +189,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Wie schnell ist der Schlüsseldienst in Uelzen vor Ort?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Von unserem Standort in Bad Bevensen brauchen wir nach Uelzen in der Regel etwa 20 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."
+        "text": "Von Bad Bevensen nach Uelzen brauchen wir in der Regel etwa 20 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."
       }
     },
     {
@@ -197,7 +197,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Uelzen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Tagsüber (Mo–Fr 8–18 Uhr) 135 € Festpreis inklusive Anfahrt und MwSt. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon – es gibt keine versteckten Kosten."
+        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
       }
     },
     {
@@ -205,7 +205,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Muss ich mich ausweisen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung rechtsverbindlich versichern. Details stehen in unseren AGB."
+        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB."
       }
     },
     {
@@ -213,7 +213,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Kann ich mit Karte oder PayPal bezahlen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auch auf Rechnung zahlen."
+        "text": "Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen."
       }
     },
     {
@@ -221,7 +221,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Woran erkenne ich einen seriösen Schlüsseldienst in Uelzen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An einem festen Preis vor Auftragserteilung, einer regionalen Adresse im Impressum, einer Festnetznummer und daran, dass keine Barzahlung erzwungen wird. All das findest Du bei uns – wir sitzen in Bad Bevensen und sind seit Jahren in der Region tätig."
+        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region."
       }
     }
   ]

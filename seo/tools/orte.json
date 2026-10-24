@@ -8,7 +8,14 @@
     "telefon_anzeige": "05821 4049049",
     "telefon_e164": "+4958214049049",
     "domain": "https://schluesselnotdienst-baumann.de",
-    "preis_tueroeffnung_standard": "135"
+    "preis_tueroeffnung_standard": "135",
+    "preiszonen": {
+      "115": "Bad Bevensen",
+      "135": "Umkreis bis etwa 20 km (u. a. Uelzen, Bienenbüttel, Ebstorf)",
+      "169": "Umkreis etwa 20 bis 40 km (u. a. Lüneburg, Amelinghausen, Bleckede, Dannenberg, Munster)",
+      "199": "Wendland (u. a. Lüchow, Clenze)",
+      "260": "Landkreis Celle (u. a. Celle, Faßberg, Eschede)"
+    }
   },
   "orte": [
     {
@@ -32,7 +39,7 @@
         "Sasendorf",
         "Klein Bünstorf"
       ],
-      "lokal": "Unser Standort liegt direkt in Bad Bevensen – von der Jod-Sole-Therme bis zum Kurpark und in alle Ortsteile sind wir in wenigen Minuten vor Ort.",
+      "lokal": "Unser Standort liegt mitten in Bad Bevensen. Von der Jod-Sole-Therme bis zum Kurpark und in alle Ortsteile sind wir in wenigen Minuten vor Ort.",
       "nachbarn": [
         "altenmedingen",
         "barum",
@@ -61,7 +68,7 @@
         "Groß Liedern",
         "Westerweyhe"
       ],
-      "lokal": "Ob Innenstadt rund um den Hundertwasser-Bahnhof, Wohngebiete in Veerßen und Oldenstadt oder die umliegenden Dörfer – Uelzen gehört zu unseren häufigsten Einsatzorten.",
+      "lokal": "Ob Innenstadt rund um den Hundertwasser-Bahnhof, die Wohngebiete in Veerßen und Oldenstadt oder die umliegenden Dörfer: Uelzen gehört zu unseren häufigsten Einsatzorten.",
       "nachbarn": [
         "bad-bevensen",
         "bienenbuettel",
@@ -94,7 +101,7 @@
         "Moorfeld",
         "Wilschenbruch"
       ],
-      "lokal": "Von der historischen Altstadt mit ihren Backsteinhäusern über Kaltenmoor und Kreideberg bis Oedeme und Rettmer: In Lüneburg sind wir regelmäßig unterwegs – auch bei alten Haustüren und Kastenschlössern.",
+      "lokal": "Von der Altstadt mit ihren Backsteinhäusern über Kaltenmoor und Kreideberg bis Oedeme und Rettmer: In Lüneburg sind wir regelmäßig unterwegs, auch bei alten Haustüren und Kastenschlössern.",
       "nachbarn": [
         "adendorf",
         "melbeck",
@@ -103,7 +110,7 @@
         "amelinghausen",
         "bad-bevensen"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "bienenbuettel",
@@ -124,7 +131,7 @@
         "Wichmannsburg",
         "Niendorf"
       ],
-      "lokal": "Bienenbüttel liegt an der Ilmenau direkt zwischen Bad Bevensen und Lüneburg – für uns ein Katzensprung, auch in die Ortsteile Edendorf, Wichmannsburg oder Bornsen.",
+      "lokal": "Bienenbüttel liegt an der Ilmenau zwischen Bad Bevensen und Lüneburg. Für uns ist das ein kurzer Weg, auch nach Edendorf, Wichmannsburg oder Bornsen.",
       "nachbarn": [
         "bad-bevensen",
         "melbeck",
@@ -144,7 +151,7 @@
       "plz": "29584",
       "km": 11,
       "eta": 15,
-      "lokal": "Himbergen am Rand der Göhrde erreichen wir von Bad Bevensen aus über die Landstraße in rund einer Viertelstunde – auch die umliegenden Dörfer der Gemeinde.",
+      "lokal": "Himbergen am Rand der Göhrde erreichen wir von Bad Bevensen aus über die Landstraße in rund einer Viertelstunde, die umliegenden Dörfer der Gemeinde eingeschlossen.",
       "nachbarn": [
         "bad-bevensen",
         "altenmedingen",
@@ -184,7 +191,7 @@
       "plz": "21406",
       "km": 20,
       "eta": 20,
-      "lokal": "Melbeck an der B4 südlich von Lüneburg liegt genau auf unserer Hauptroute – entsprechend kurz ist die Anfahrt, auch nach Embsen, Deutsch Evern oder Barnstedt.",
+      "lokal": "Melbeck an der B4 südlich von Lüneburg liegt direkt an unserer Hauptroute. Entsprechend kurz ist die Anfahrt, auch nach Embsen, Deutsch Evern oder Barnstedt.",
       "nachbarn": [
         "lueneburg",
         "bienenbuettel",
@@ -204,7 +211,7 @@
       "plz": "21397",
       "km": 25,
       "eta": 25,
-      "lokal": "Barendorf und die Samtgemeinde Ostheide östlich von Lüneburg an der B216 erreichen wir in rund 25 Minuten – auch Vastorf, Wendisch Evern, Reinstorf und Thomasburg.",
+      "lokal": "Barendorf und die Samtgemeinde Ostheide östlich von Lüneburg an der B216 erreichen wir in rund 25 Minuten, ebenso Vastorf, Wendisch Evern, Reinstorf und Thomasburg.",
       "nachbarn": [
         "lueneburg",
         "dahlenburg",
@@ -213,7 +220,7 @@
         "melbeck",
         "himbergen"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "adendorf",
@@ -226,7 +233,7 @@
       "ortsteile": [
         "Erbstorf"
       ],
-      "lokal": "Adendorf grenzt direkt nördlich an Lüneburg – wir fahren über die B4/B209 und sind in der Regel in gut einer halben Stunde bei Dir, auch in Erbstorf, Scharnebeck oder Bardowick.",
+      "lokal": "Adendorf grenzt direkt nördlich an Lüneburg. Wir fahren über die B4 und B209 und sind in der Regel in gut einer halben Stunde bei Dir, auch in Erbstorf, Scharnebeck oder Bardowick.",
       "nachbarn": [
         "lueneburg",
         "barendorf",
@@ -235,7 +242,7 @@
         "bienenbuettel",
         "dahlenburg"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "bavendorf",
@@ -265,7 +272,7 @@
       "plz": "29575",
       "km": 6,
       "eta": 10,
-      "lokal": "Altenmedingen ist unsere direkte Nachbargemeinde – kaum ein Einsatzort liegt näher an unserem Standort in Bad Bevensen.",
+      "lokal": "Altenmedingen ist unsere direkte Nachbargemeinde. Kaum ein Einsatzort liegt näher an unserem Standort in Bad Bevensen.",
       "nachbarn": [
         "bad-bevensen",
         "himbergen",
@@ -289,7 +296,7 @@
         "Tätendorf-Eppensen",
         "Hoystorf"
       ],
-      "lokal": "Barum mit Tätendorf-Eppensen liegt nur wenige Kilometer südlich von Bad Bevensen – wir sind meist in rund zehn Minuten vor Ort.",
+      "lokal": "Barum mit Tätendorf-Eppensen liegt nur wenige Kilometer südlich von Bad Bevensen. Meist sind wir in rund zehn Minuten vor Ort.",
       "nachbarn": [
         "bad-bevensen",
         "altenmedingen",
@@ -319,7 +326,7 @@
         "Karze",
         "Walmsburg"
       ],
-      "lokal": "Bleckede an der Elbe mit seinen vielen Ortsteilen – von Alt Garge über Barskamp bis Radegast – erreichen wir in rund 40 Minuten.",
+      "lokal": "Bleckede an der Elbe mit seinen vielen Ortsteilen, von Alt Garge über Barskamp bis Radegast, erreichen wir in rund 40 Minuten.",
       "nachbarn": [
         "dahlenburg",
         "barendorf",
@@ -328,7 +335,7 @@
         "lueneburg",
         "himbergen"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "hitzacker",
@@ -340,7 +347,7 @@
       "plz": "29456",
       "km": 38,
       "eta": 40,
-      "lokal": "Hitzacker mit seiner Altstadt-Insel zwischen Elbe und Jeetzel liegt rund 40 Minuten von Bad Bevensen entfernt – auch Ferienwohnungen und Zweitwohnsitze schließen wir zuverlässig auf.",
+      "lokal": "Hitzacker mit seiner Altstadt-Insel zwischen Elbe und Jeetzel liegt rund 40 Minuten von Bad Bevensen entfernt. Auch Ferienwohnungen und Zweitwohnsitze schließen wir zuverlässig auf.",
       "nachbarn": [
         "dannenberg",
         "bleckede",
@@ -349,7 +356,7 @@
         "luechow",
         "himbergen"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "dannenberg",
@@ -361,7 +368,7 @@
       "plz": "29451",
       "km": 38,
       "eta": 40,
-      "lokal": "Dannenberg ist das Zentrum der Samtgemeinde Elbtalaue – über die B216 sind wir in rund 40 Minuten bei Dir, auch in den umliegenden Dörfern.",
+      "lokal": "Dannenberg ist das Zentrum der Samtgemeinde Elbtalaue. Über die B216 sind wir in rund 40 Minuten bei Dir, auch in den umliegenden Dörfern.",
       "nachbarn": [
         "hitzacker",
         "zernien",
@@ -370,7 +377,7 @@
         "himbergen",
         "bleckede"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "luechow",
@@ -381,7 +388,7 @@
       "plz": "29439",
       "km": 50,
       "eta": 50,
-      "lokal": "Lüchow im Wendland ist der östlichste Punkt unseres Einsatzgebiets – wir planen rund 50 Minuten Anfahrt ein und nennen Dir den Festpreis trotzdem vorab am Telefon.",
+      "lokal": "Lüchow im Wendland ist der östlichste Punkt unseres Einsatzgebiets. Wir planen rund 50 Minuten Anfahrt ein und nennen Dir den Festpreis trotzdem vorab am Telefon.",
       "nachbarn": [
         "dannenberg",
         "hitzacker",
@@ -390,7 +397,7 @@
         "rosche",
         "wieren"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "199"
     },
     {
       "slug": "zernien",
@@ -410,7 +417,7 @@
         "luechow",
         "bad-bevensen"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "bad-bodenteich",
@@ -421,7 +428,7 @@
       "plz": "29389",
       "km": 32,
       "eta": 35,
-      "lokal": "Bad Bodenteich mit der Burg Bodenteich und dem Kurgebiet liegt im Süden des Landkreises Uelzen – in rund 35 Minuten sind wir vor Ort, ebenso in Lüder oder Soltendieck.",
+      "lokal": "Bad Bodenteich mit der Burg Bodenteich und dem Kurgebiet liegt im Süden des Landkreises Uelzen. In rund 35 Minuten sind wir vor Ort, ebenso in Lüder oder Soltendieck.",
       "nachbarn": [
         "wieren",
         "uelzen",
@@ -430,7 +437,7 @@
         "luechow",
         "bad-bevensen"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "celle",
@@ -451,7 +458,7 @@
         "Garßen",
         "Groß Hehlen"
       ],
-      "lokal": "Celle liegt am südlichen Rand unseres Einsatzgebiets. Wir fahren über die B191 und planen rund eine Stunde ein – den Festpreis inklusive Anfahrt bekommst Du vorher am Telefon genannt.",
+      "lokal": "Celle liegt am südlichen Rand unseres Einsatzgebiets. Wir fahren über die B191 und planen rund eine Stunde ein. Den Festpreis inklusive Anfahrt nennen wir Dir vorher am Telefon.",
       "nachbarn": [
         "eschede",
         "fassberg",
@@ -460,7 +467,7 @@
         "suderburg",
         "uelzen"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "260"
     },
     {
       "slug": "fassberg",
@@ -475,7 +482,7 @@
         "Poitzen",
         "Schmarbeck"
       ],
-      "lokal": "Faßberg mit dem Fliegerhorst sowie Müden an der Örtze erreichen wir in rund 45 Minuten – auch Ferienhäuser in der Südheide öffnen wir zerstörungsfrei.",
+      "lokal": "Faßberg mit dem Fliegerhorst sowie Müden an der Örtze erreichen wir in rund 45 Minuten. Auch Ferienhäuser in der Südheide öffnen wir ohne Schaden.",
       "nachbarn": [
         "munster",
         "eschede",
@@ -484,7 +491,7 @@
         "wriedel",
         "uelzen"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "260"
     },
     {
       "slug": "munster",
@@ -500,7 +507,7 @@
         "Alvern",
         "Trauen"
       ],
-      "lokal": "Munster in der Lüneburger Heide ist über die B71 in rund 40 Minuten erreichbar – wir sind auch für Soldatinnen und Soldaten sowie Pendler am Standort regelmäßig im Einsatz.",
+      "lokal": "Munster in der Lüneburger Heide ist über die B71 in rund 40 Minuten erreichbar. Für Soldatinnen, Soldaten und Pendler am Standort sind wir regelmäßig im Einsatz.",
       "nachbarn": [
         "fassberg",
         "wriedel",
@@ -509,7 +516,7 @@
         "amelinghausen",
         "celle"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "wriedel",
@@ -525,7 +532,7 @@
         "Schatensen",
         "Wettenbostel"
       ],
-      "lokal": "Wriedel mit Brambostel, Schatensen und Wettenbostel liegt westlich von Ebstorf – wir sind in gut 20 Minuten bei Dir.",
+      "lokal": "Wriedel mit Brambostel, Schatensen und Wettenbostel liegt westlich von Ebstorf. Wir sind in gut 20 Minuten bei Dir.",
       "nachbarn": [
         "ebstorf",
         "munster",
@@ -550,7 +557,7 @@
         "Etzen",
         "Sottorf"
       ],
-      "lokal": "Amelinghausen am Lopausee – bekannt durch das Heideblütenfest – erreichen wir in rund 30 Minuten, ebenso Dehnsen, Etzen oder Sottorf.",
+      "lokal": "Amelinghausen am Lopausee, bekannt durch das Heideblütenfest, erreichen wir in rund 30 Minuten, ebenso Dehnsen, Etzen oder Sottorf.",
       "nachbarn": [
         "lueneburg",
         "melbeck",
@@ -559,7 +566,7 @@
         "munster",
         "bienenbuettel"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "rosche",
@@ -570,7 +577,7 @@
       "plz": "29571",
       "km": 20,
       "eta": 25,
-      "lokal": "Rosche östlich von Uelzen ist das Zentrum der gleichnamigen Samtgemeinde – in rund 25 Minuten sind wir in Rosche, Oetzen, Rätzlingen, Stoetze oder Suhlendorf.",
+      "lokal": "Rosche östlich von Uelzen ist das Zentrum der gleichnamigen Samtgemeinde. In rund 25 Minuten sind wir in Rosche, Oetzen, Rätzlingen, Stoetze oder Suhlendorf.",
       "nachbarn": [
         "uelzen",
         "himbergen",
@@ -594,7 +601,7 @@
         "Buendorf",
         "Ellringen"
       ],
-      "lokal": "Der Flecken Dahlenburg an der B216 liegt nur rund 25 Minuten von Bad Bevensen entfernt – wir fahren direkt über Himbergen.",
+      "lokal": "Der Flecken Dahlenburg an der B216 liegt nur rund 25 Minuten von Bad Bevensen entfernt. Wir fahren direkt über Himbergen.",
       "nachbarn": [
         "himbergen",
         "barendorf",
@@ -603,7 +610,7 @@
         "lueneburg",
         "bad-bevensen"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "suderburg",
@@ -622,7 +629,7 @@
         "Holxen",
         "Räber"
       ],
-      "lokal": "Suderburg mit dem Hochschulcampus und dem Museumsdorf Hösseringen erreichen wir in rund 25 Minuten – auch für Studierende, die sich ausgesperrt haben, sind wir schnell da.",
+      "lokal": "Suderburg mit dem Hochschulcampus und dem Museumsdorf Hösseringen erreichen wir in rund 25 Minuten. Auch für Studierende, die sich ausgesperrt haben, sind wir schnell da.",
       "nachbarn": [
         "uelzen",
         "ebstorf",
@@ -631,7 +638,7 @@
         "fassberg",
         "bad-bevensen"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "wieren",
@@ -643,7 +650,7 @@
       "plz": "29568",
       "km": 22,
       "eta": 25,
-      "lokal": "Wieren südöstlich von Uelzen in der Samtgemeinde Aue erreichen wir in rund 25 Minuten – auch Wrestedt und die umliegenden Dörfer.",
+      "lokal": "Wieren südöstlich von Uelzen in der Samtgemeinde Aue erreichen wir in rund 25 Minuten, ebenso Wrestedt und die umliegenden Dörfer.",
       "nachbarn": [
         "uelzen",
         "bad-bodenteich",
@@ -652,7 +659,7 @@
         "luechow",
         "bad-bevensen"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "169"
     },
     {
       "slug": "eschede",
@@ -668,7 +675,7 @@
         "Höfer",
         "Scharnhorst"
       ],
-      "lokal": "Eschede im Norden des Landkreises Celle liegt auf unserer Route Richtung Celle – wir planen rund 50 Minuten Anfahrt ein.",
+      "lokal": "Eschede im Norden des Landkreises Celle liegt auf unserer Route Richtung Celle. Wir planen rund 50 Minuten Anfahrt ein.",
       "nachbarn": [
         "celle",
         "fassberg",
@@ -677,7 +684,7 @@
         "uelzen",
         "munster"
       ],
-      "preis_tueroeffnung": "135"
+      "preis_tueroeffnung": "260"
     }
   ]
 }
