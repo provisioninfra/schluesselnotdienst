@@ -73,7 +73,7 @@ def build_city(slug):
     # Preisplan: neue Preiskarten (dunkles Design, Preis je Ort)
     pp = S["Preisplan"][0]
     ppc = find_atoms(pp, "custom-code")[0]
-    newp = price_cards(o["preis_tueroeffnung"], True)
+    newp = price_cards(o["preis_tueroeffnung"], False)  # nur Tür-, Fenster- und Fahrzeugöffnung
     if newp != ppc["data"]["html"]:
         add(ppc, {"data": {"html": newp}}, {"data": {"html": ppc["data"]["html"]}}, "preisplan html")
     # Preisplan-Titel (Fassung je Ort)
