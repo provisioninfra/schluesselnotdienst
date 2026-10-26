@@ -1,82 +1,77 @@
-# Altenmedingen – SEO-Inhalte für `/altenmedingen`
+# Altenmedingen: SEO-Inhalte für `/altenmedingen`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `altenmedingen` | |
-| Seitentitel (Page Title) | Schlüsseldienst Altenmedingen: 24h Notdienst zum Festpreis | 58 |
-| Beschreibung (Description) | Schlüsseldienst Altenmedingen: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 10 Minuten bei Dir. ☎ 05821 4049049 | 136 |
-| Keywords | Schlüsseldienst Altenmedingen, Schlüsselnotdienst Altenmedingen, Türöffnung Altenmedingen, Schlüsseldienst Altenmedingen 24h, Aufsperrdienst Altenmedingen, Schlüsseldienst Altenmedingen Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Altenmedingen“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `altenmedingen` | |
+| Seitentitel | Schlüsseldienst Altenmedingen: 24h Notdienst zum Festpreis | 58 |
+| Beschreibung | Schlüsseldienst Altenmedingen: Türöffnung für 135 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 10 Minuten bei Dir. ☎ 05821 4049049 | 148 |
+| Keywords | Schlüsseldienst Altenmedingen, Schlüsselnotdienst Altenmedingen, Türöffnung Altenmedingen, Schlüsseldienst Altenmedingen 24h, Aufsperrdienst Altenmedingen, Schlüsseldienst Altenmedingen Kosten, Autoöffnung Altenmedingen | |
+| Preis Türöffnung | 135 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Altenmedingen: Notdienst rund um die Uhr zum Festpreis
+Schlüsseldienst Altenmedingen: Türöffnung zum Festpreis, Tag und Nacht
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Altenmedingen & Umgebung · fair · transparent · in ca. 10 Min. vor Ort · ☎ 05821 4049049
+### H2
+ProVision Infra Schlüsselnotdienst für Altenmedingen
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Schlüsselnotdienst für Altenmedingen / Türöffnung zum Festpreis von 135 €, Anfahrt inklusive / nach etwa 10 Minuten vor Ort, Preis vorher zugesagt
 
-### Einleitung (direkt unter der H1)
-Die Tür ist zu und der Schlüssel liegt drinnen? In Altenmedingen hilft der ProVision Infra Schlüsselnotdienst aus Bad Bevensen. Wir sind Tag und Nacht erreichbar und brauchen bis zu Dir etwa 10 Minuten. Was die Öffnung kostet, sagen wir Dir am Telefon, bevor wir losfahren.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Altenmedingen – aus der Region, für die Region
-Altenmedingen ist unsere direkte Nachbargemeinde. Kaum ein Einsatzort liegt näher an unserem Standort in Bad Bevensen. Im Fahrzeug haben wir das komplette Werkzeug und gängige Profilzylinder dabei. Die meisten Aufträge in Altenmedingen erledigen wir deshalb in einem Termin.
+- **Rund um die Uhr erreichbar**: Wochenende, Feiertag oder mitten in der Nacht: Wir gehen ran. Ankunft in Altenmedingen nach rund 10 Minuten. Festpreis vorab.
+- **Feste Preise ohne Überraschungen**: Anfahrt und Mehrwertsteuer sind im Preis enthalten. Material wie ein neuer Zylinder berechnen wir nur nach Absprache.
+- **Bezahlen, wie es Dir passt**: Bar, EC- oder Kreditkarte, PayPal. Geschäftskunden auf Wunsch per Rechnung. Eine Quittung oder Rechnung gibt es immer.
 
-### H2: Unsere Leistungen in Altenmedingen
+### Abschnittstitel
+Schlüsseldienst Altenmedingen: Preise, Ablauf und Antworten
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Altenmedingen, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Altenmedingen schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Altenmedingen: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+In Altenmedingen und Umgebung öffnet der ProVision Infra Schlüsselnotdienst Türen zum Festpreis von 135 €. Der Betrieb sitzt in Bad Bevensen im Landkreis Uelzen, die Anfahrt dauert etwa 10 Minuten.
 
-### H2: Was kostet der Schlüsseldienst in Altenmedingen?
-Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unteren dreistelligen Bereich für angemessen. In diesem Rahmen bewegen wir uns in Altenmedingen. Den konkreten Preis erfährst Du vor der Auftragserteilung. Es gibt keine getrennten Anfahrtskosten und keinen Aufschlag für schwierige Öffnungen. Barzahlung ist keine Pflicht, Karte und PayPal gehen genauso. Konkret: Die Türöffnung in Altenmedingen kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Altenmedingen ist unsere direkte Nachbargemeinde. Kaum ein Einsatzort liegt näher an unserem Standort in Bad Bevensen. Auch kleine Reparaturen am Schloss übernehmen wir direkt vor Ort in Altenmedingen, ohne zweiten Termin.
 
-### H2: So läuft Deine Türöffnung in Altenmedingen ab
+### Was kostet der Schlüsseldienst in Altenmedingen?
+Was eine Türöffnung in Altenmedingen kostet, hängt von Uhrzeit und Entfernung ab, nicht von der Dauer des Einsatzes. Der Preis steht vor der Anfahrt fest und ändert sich vor Ort nicht. Konkret: Die Türöffnung in Altenmedingen kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, ein neuer Profilzylinder beginnt bei 60 € zuzüglich Material.
 
-1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
-2. **Anfahrt:** Wir fahren sofort los. Nach etwa 10 Minuten sind wir in Altenmedingen.
-3. **Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.
-4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
-5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
+### Ablauf einer Türöffnung in Altenmedingen
 
-### H2: Deine Vorteile auf einen Blick
+1. **Anruf:** Du schilderst kurz, welche Tür betroffen ist. Wir nennen Preis und Ankunftszeit.
+2. **Anfahrt:** Nach etwa 10 Minuten sind wir in Altenmedingen.
+3. **Ausweis und Öffnung:** Du zeigst uns einen Nachweis, dann öffnen wir mit Spezialwerkzeug, meist ohne Schaden.
+4. **Bezahlung:** Bar, Karte oder PayPal, Quittung inklusive.
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+### Das machen wir in Altenmedingen
 
-### H2: Häufige Fragen zum Schlüsseldienst in Altenmedingen
+- **Türöffnung**: Zugefallene oder abgeschlossene Türen in Altenmedingen öffnen wir zum Festpreis, in der Regel ohne Schaden am Schloss.
+- **Fensteröffnung**: Fenster und Balkontüren, die zugefallen sind oder gekippt stehen, öffnen wir schonend.
+- **Fahrzeugöffnung**: Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Altenmedingen schonend.
+- **Schließzylinder und Schlösser**: Neue Profilzylinder, Sicherheitszylinder mit Sicherungskarte und Reparaturen am Schloss, meist direkt im ersten Termin.
+- **Schließanlagen und Zutrittssysteme**: Mechanische Schließanlagen und elektronische Zutrittssysteme für Hausverwaltungen, Praxen und Unternehmen in Altenmedingen.
+- **Einbruchschutz**: Beratung bei Dir vor Ort in Altenmedingen: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
 
-**H3: Wie schnell ist der Schlüsseldienst in Altenmedingen vor Ort?**  
+### Häufige Fragen zum Schlüsseldienst in Altenmedingen
+
+**Wie schnell ist der Schlüsseldienst in Altenmedingen vor Ort?**  
 Von Bad Bevensen nach Altenmedingen brauchen wir in der Regel etwa 10 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
-**H3: Was kostet eine Türöffnung in Altenmedingen?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Was kostet eine Türöffnung in Altenmedingen?**  
+Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag.
 
-**H3: Woran erkenne ich einen seriösen Schlüsseldienst in Altenmedingen?**  
-An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region.
+**Woran erkenne ich einen seriösen Schlüsseldienst in Altenmedingen?**  
+An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und nennen den Preis vorab.
 
-**H3: Wird meine Tür beim Öffnen beschädigt?**  
-In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
+**Öffnet Ihr in Altenmedingen auch Autos?**  
+Ja. Pkw und Transporter öffnen wir schonend, wenn der Schlüssel im Fahrzeug liegt. Der Preis entspricht der Türöffnung.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
+**Muss ich mich ausweisen?**  
+Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich.
 
-### H2: Schlüsseldienst in der Nähe von Altenmedingen
-
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Schlüsseldienst in der Nähe von Altenmedingen
 
 - [Schlüsseldienst Bad Bevensen](https://schluesselnotdienst-baumann.de/bad-bevensen)
 - [Schlüsseldienst Himbergen](https://schluesselnotdienst-baumann.de/himbergen)
@@ -84,19 +79,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Bienenbüttel](https://schluesselnotdienst-baumann.de/bienenbuettel)
 - [Schlüsseldienst Uelzen](https://schluesselnotdienst-baumann.de/uelzen)
 - [Schlüsseldienst Ebstorf](https://schluesselnotdienst-baumann.de/ebstorf)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Rund 80 Kilometer um Bad Bevensen sind wir im Einsatz, von Lüneburg bis Celle und von Munster bis ins Wendland. Jeder Ort hat eine eigene Seite mit Festpreis und Anfahrtszeit:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Altenmedingen“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Altenmedingen“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -104,10 +91,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/altenmedingen#service",
-  "name": "Schlüsseldienst Altenmedingen – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Altenmedingen: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/altenmedingen",
-  "description": "Schlüsseldienst Altenmedingen: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 10 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Altenmedingen: Türöffnung für 135 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 10 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -150,7 +137,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
     "name": "Türöffnung Altenmedingen zum Festpreis",
     "price": "135",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Altenmedingen"
   }
@@ -194,7 +181,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Altenmedingen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
+        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag."
       }
     },
     {
@@ -202,15 +189,23 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Woran erkenne ich einen seriösen Schlüsseldienst in Altenmedingen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region."
+        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und nennen den Preis vorab."
       }
     },
     {
       "@type": "Question",
-      "name": "Wird meine Tür beim Öffnen beschädigt?",
+      "name": "Öffnet Ihr in Altenmedingen auch Autos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."
+        "text": "Ja. Pkw und Transporter öffnen wir schonend, wenn der Schlüssel im Fahrzeug liegt. Der Preis entspricht der Türöffnung."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Muss ich mich ausweisen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich."
       }
     }
   ]
@@ -218,8 +213,8 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/altenmedingen` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/altenmedingen → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/altenmedingen` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/altenmedingen
+3. Search Console: URL prüfen und Indexierung beantragen.

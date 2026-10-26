@@ -1,10 +1,8 @@
-# Interne Verlinkung – Linkplan
+# Interne Verlinkung
 
-Aktuell verweist **keine einzige interne Seite** auf die Ortsseiten (die Ortsliste auf der Startseite ist reiner Text). Google erreicht sie nur über die Sitemap – das ist der Hauptgrund für schwache/fehlende Indexierung.
+## Startseite, Abschnitt „Unser Einsatzgebiet“
 
-## A. Startseite – Abschnitt „Unser Einsatzgebiet“
-
-Jede Kachel wird ein Link (in OnePage: Text markieren → Link → interne Seite wählen). Reihenfolge nach Nähe/Relevanz:
+Jede Kachel ist ein Link auf die Ortsseite (Anker `#einsatzgebiet`).
 
 - Schlüsseldienst Bad Bevensen → `/bad-bevensen`
 - Schlüsseldienst Uelzen → `/uelzen`
@@ -35,9 +33,7 @@ Jede Kachel wird ein Link (in OnePage: Text markieren → Link → interne Seite
 - Schlüsseldienst Celle → `/celle`
 - Schlüsseldienst Bavendorf → `/bavendorf`
 
-Dem Abschnitt die Anker-ID `einsatzgebiet` geben (Custom attributes → ID), damit `/#einsatzgebiet` funktioniert.
-
-## B. Jede Ortsseite – Abschnitt „Schlüsseldienst in der Nähe“
+## Ortsseiten, Abschnitt „in der Nähe“
 
 | Seite | verlinkt auf |
 |---|---|
@@ -70,21 +66,7 @@ Dem Abschnitt die Anker-ID `einsatzgebiet` geben (Custom attributes → ID), dam
 | /wieren | /uelzen, /bad-bodenteich, /rosche, /suderburg, /luechow, /bad-bevensen, /turoffnung, / |
 | /eschede | /celle, /fassberg, /suderburg, /bad-bodenteich, /uelzen, /munster, /turoffnung, / |
 
-## C. Footer (Site-weit)
+## Footer (alle Seiten)
 
-- Impressum → `/impressum` (aktuell extern auf provision-infra.de!)
-- Datenschutz → `/datenschutzerklarung` (aktuell extern)
-- AGB → `/agb` (aktuell extern)
-- Türöffnung & Preise → `/turoffnung`
-- Kurze Ortsliste: Bad Bevensen · Uelzen · Lüneburg · Bienenbüttel · Ebstorf · Dannenberg · Celle (je Link)
-
-## D. Navigation
-
-- „Einsatzgebiete“ → `/#einsatzgebiet` (Anker auf der Startseite)
-- „Türöffnung & Preise“ → `/turoffnung`
-- „Geschäftskunden“ nur anzeigen, wenn die Seite wieder existiert (aktuell 404)
-
-## E. Kaputte Links entfernen/ersetzen
-
-- `/geschaftskunden` (404) – auf AGB, Datenschutz, Impressum, Türöffnung verlinkt
-- `/simonsvosstechnologies` (404) – im Footer von Türöffnung/AGB
+- Startseite, Türöffnung & Preise, Einsatzgebiete (intern)
+- Impressum, Datenschutzerklärung, AGB → provision-infra.de

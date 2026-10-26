@@ -190,24 +190,26 @@ def orte_grid(current_slug):
 
 def local_html(o):
     k = G.kurz(o)
+    H = G.headings(o)
     ablauf = "".join(f"<li>{esc(re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', s)).replace('&lt;strong&gt;','<strong>').replace('&lt;/strong&gt;','</strong>')}</li>" for s in G.ablauf(o))
     leist = "".join(f"<li><strong>{esc(n)}</strong><br>{esc(t)}</li>" for n, t in G.leistungen(o))
     faq = "".join(f"<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>" for q, a in G.faq(o))
     near = "".join(f'<li><a href="{l.replace(G.DOMAIN, "")}">Schlüsseldienst {esc(n)}</a></li>' for n, l in G.nachbarn_links(o))
     near += '<li><a href="/turoffnung">Türöffnung &amp; Preise</a></li>'
+    gebiet = G.einsatz_text(o)  # enthält <strong>, daher ohne esc()
     parts = [
         f'<section class="pvi-local" id="einsatzgebiet">', CSS, '<div class="pvi-wrap">',
         f'<p>{esc(G.intro(o))}</p>',
         f'<p>{esc(G.lokal_abschnitt(o))}</p>',
         '<div class="pvi-grid2">',
-        f'<div class="pvi-card"><h3>Was kostet der Schlüsseldienst in {esc(k)}?</h3><p>{esc(G.preise(o))}</p></div>',
-        f'<div class="pvi-card"><h3>So läuft Deine Türöffnung in {esc(k)} ab</h3><ol>{ablauf}</ol></div>',
+        f'<div class="pvi-card"><h3>{esc(H["preis"])}</h3><p>{esc(G.preise(o))}</p></div>',
+        f'<div class="pvi-card"><h3>{esc(H["ablauf"])}</h3><ol>{ablauf}</ol></div>',
         '</div>',
-        f'<h3>Unsere Leistungen in {esc(k)}</h3><ul class="pvi-services">{leist}</ul>',
-        f'<h3>Häufige Fragen zum Schlüsseldienst in {esc(k)}</h3><div class="pvi-faq">{faq}</div>',
-        f'<h3>Schlüsseldienst in der Nähe von {esc(k)}</h3><ul class="pvi-near">{near}</ul>',
-        '<h3>Unser Einsatzgebiet</h3>',
-        f'<p>Als mobiler <strong>Schlüsselnotdienst aus Bad Bevensen</strong> ({esc(B["strasse"])}) sind wir täglich im Landkreis Uelzen, im Landkreis Lüneburg, im Landkreis Lüchow-Dannenberg sowie bis Munster, Faßberg und Celle im Einsatz. Der Umkreis liegt bei etwa 80 km. Wähle Deinen Ort:</p>',
+        f'<h3>{esc(H["leistungen"])}</h3><ul class="pvi-services">{leist}</ul>',
+        f'<h3>{esc(H["faq"])}</h3><div class="pvi-faq">{faq}</div>',
+        f'<h3>{esc(H["nah"])}</h3><ul class="pvi-near">{near}</ul>',
+        f'<h3>{esc(H["gebiet"])}</h3>',
+        f'<p>{gebiet}</p>',
         orte_grid(o["slug"]),
         MAP_IFRAME,
         f'<p class="pvi-cta"><a href="tel:{TEL_E164}">☎ Jetzt anrufen: {TEL}</a></p>',
@@ -218,23 +220,13 @@ def local_html(o):
 
 # ---------- per-page ops ----------
 def hero_plain_text(o):
-    k = kurz(o)
-    l1 = f"Türöffnung in {k} und Umgebung"
-    l2 = f"Festpreis {o['preis_tueroeffnung']} € inkl. Anfahrt, in etwa {o['eta']} Minuten bei Dir"
-    l3 = "ohne Schaden an Tür und Schloss, zum vorher genannten Preis"
+    l1, l2, l3 = G.hero_lines(o)
     text = f"{l1}\n{l2}\n{l3}"
     return text, [(len(l1) + 1 + len(l2) + 1, len(l3))]
 
 
-VORTEILE_TEXTE = [
-    ("Rund um die Uhr erreichbar", "Tag und Nacht, auch an Feiertagen.\nFestpreis am Telefon, bevor wir losfahren.\nIn {k} meist nach etwa {eta} Minuten vor Ort."),
-    ("Feste Preise ohne Überraschungen", "Anfahrt und Mehrwertsteuer sind im Preis enthalten.\nMaterial wie ein neuer Zylinder berechnen wir nur nach Absprache."),
-    ("Bezahlen, wie es Dir passt", "Bar, EC- oder Kreditkarte, PayPal.\nGeschäftskunden auf Wunsch per Rechnung.\nEine Quittung oder Rechnung gibt es immer."),
-]
-
-
-def vorteile_patches(section, k, eta):
-    """Drei Vorteils-Karten (Header + Text) neu texten. Rückgabe: [(atom, value, snapshot, note)]"""
+def vorteile_patches(section, o):
+    """Drei Vorteils-Karten (Header + Text) neu texten, Fassung je Ort aus G.vorteile(). Rückgabe: [(atom, value, snapshot, note)]"""
     out = []
     cards = []
     for fr in (section.get("layer") or {}).get("frames", []):
@@ -244,9 +236,9 @@ def vorteile_patches(section, k, eta):
                 ps = [a for a in mol.get("atoms", []) if a["type"] == "plain-text"]
                 if hs and ps:
                     cards.append((hs[0], ps[0]))
-    for (h, ptx), (title, body) in zip(cards, VORTEILE_TEXTE):
+    for (h, ptx), (title, body) in zip(cards, G.vorteile(o)):
         v, sn = single_text(h, title); out.append((h, v, sn, "vorteil header"))
-        v, sn = single_text(ptx, body.format(k=k, eta=eta)); out.append((ptx, v, sn, "vorteil text"))
+        v, sn = single_text(ptx, body); out.append((ptx, v, sn, "vorteil text"))
     return out
 
 

@@ -1,85 +1,77 @@
-# Amelinghausen – SEO-Inhalte für `/amelinghausen`
+# Amelinghausen: SEO-Inhalte für `/amelinghausen`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `amelinghausen` | |
-| Seitentitel (Page Title) | Schlüsseldienst Amelinghausen: 24h Notdienst zum Festpreis | 58 |
-| Beschreibung (Description) | Schlüsseldienst Amelinghausen: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 30 Minuten bei Dir. ☎ 05821 4049049 | 136 |
-| Keywords | Schlüsseldienst Amelinghausen, Schlüsselnotdienst Amelinghausen, Türöffnung Amelinghausen, Schlüsseldienst Amelinghausen 24h, Aufsperrdienst Amelinghausen, Schlüsseldienst Amelinghausen Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Amelinghausen“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `amelinghausen` | |
+| Seitentitel | Schlüsseldienst Amelinghausen: 24h Notdienst zum Festpreis | 58 |
+| Beschreibung | Schlüsselnotdienst für Amelinghausen und Umgebung: Türöffnung zum Festpreis von 169 €, 24 Stunden erreichbar, in etwa 30 Minuten vor Ort. ☎ 05821 4049049 | 153 |
+| Keywords | Schlüsseldienst Amelinghausen, Schlüsselnotdienst Amelinghausen, Türöffnung Amelinghausen, Schlüsseldienst Amelinghausen 24h, Aufsperrdienst Amelinghausen, Schlüsseldienst Amelinghausen Kosten, Autoöffnung Amelinghausen | |
+| Preis Türöffnung | 169 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
 Schlüsseldienst Amelinghausen: Notdienst rund um die Uhr zum Festpreis
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Amelinghausen & Umgebung · fair · transparent · in ca. 30 Min. vor Ort · ☎ 05821 4049049
+### H2
+ProVision Infra Schlüsselnotdienst für Amelinghausen
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Ausgesperrt in Amelinghausen? Wir kommen. / 169 € Festpreis inklusive Anfahrt, Ankunft in rund 30 Minuten / Öffnung in der Regel ohne Schaden, Preis vorab am Telefon
 
-### Einleitung (direkt unter der H1)
-Die Tür ist zu und der Schlüssel liegt drinnen? In Amelinghausen hilft der ProVision Infra Schlüsselnotdienst aus Bad Bevensen. Wir sind Tag und Nacht erreichbar und brauchen bis zu Dir etwa 30 Minuten. Was die Öffnung kostet, sagen wir Dir am Telefon, bevor wir losfahren.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Amelinghausen – aus der Region, für die Region
-Amelinghausen am Lopausee, bekannt durch das Heideblütenfest, erreichen wir in rund 30 Minuten, ebenso Dehnsen, Etzen oder Sottorf. Wir kommen in alle Stadt- und Ortsteile, darunter Dehnsen, Etzen und Sottorf. Im Fahrzeug haben wir das komplette Werkzeug und gängige Profilzylinder dabei. Die meisten Aufträge in Amelinghausen erledigen wir deshalb in einem Termin.
+- **Rund um die Uhr erreichbar**: Anruf genügt, zu jeder Uhrzeit. Nach etwa 30 Minuten sind wir in Amelinghausen. Den Preis kennst Du vorher.
+- **Feste Preise ohne Überraschungen**: Ein Preis, am Telefon genannt und vor Ort eingehalten. Zuschläge gibt es nur nachts und am Wochenende, und die kennst Du vorher.
+- **Bezahlen, wie es Dir passt**: Bar, EC- oder Kreditkarte, PayPal. Geschäftskunden auf Wunsch per Rechnung. Eine Quittung oder Rechnung gibt es immer.
 
-### H2: Unsere Leistungen in Amelinghausen
+### Abschnittstitel
+Was Du über den Schlüsseldienst in Amelinghausen wissen solltest
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Amelinghausen, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Amelinghausen schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Amelinghausen: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+Die Tür ist zu und der Schlüssel liegt drinnen? In Amelinghausen hilft der ProVision Infra Schlüsselnotdienst aus Bad Bevensen, Tag und Nacht. Bis zu Dir brauchen wir etwa 30 Minuten, den Preis nennen wir vor der Abfahrt.
 
-### H2: Was kostet der Schlüsseldienst in Amelinghausen?
-Du bekommst den Festpreis für Deine Türöffnung in Amelinghausen am Telefon genannt, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den wir Dir ebenfalls vorher sagen. Nur wenn Material nötig ist, etwa ein neuer Zylinder, kommen Materialkosten dazu. Zahlen kannst Du bar, mit EC- oder Kreditkarte oder per PayPal. Konkret: Die Türöffnung in Amelinghausen kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Amelinghausen am Lopausee, bekannt durch das Heideblütenfest, erreichen wir in rund 30 Minuten, ebenso Dehnsen, Etzen oder Sottorf. Unser Einsatzfahrzeug ist so bestückt, dass wir in Amelinghausen eine Tür öffnen und bei Bedarf gleich einen neuen Zylinder einbauen können.
 
-### H2: So läuft Deine Türöffnung in Amelinghausen ab
+### Was kostet der Schlüsseldienst in Amelinghausen?
+Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unteren dreistelligen Bereich für angemessen. In diesem Rahmen liegen wir in Amelinghausen. Getrennte Anfahrtskosten oder Aufschläge für schwierige Öffnungen gibt es nicht. In Zahlen: 169 € für die Türöffnung in Amelinghausen an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Außerhalb dieser Zeiten und an Feiertagen sind es 54 € mehr. Der Austausch eines Profilzylinders kostet ab 60 € plus Material.
 
-1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
-2. **Anfahrt:** Wir fahren sofort los. Nach etwa 30 Minuten sind wir in Amelinghausen.
-3. **Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.
-4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
-5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
+### So läuft der Einsatz in Amelinghausen ab
 
-### H2: Deine Vorteile auf einen Blick
+1. **Anruf:** Du schilderst kurz, welche Tür betroffen ist. Wir nennen Preis und Ankunftszeit.
+2. **Anfahrt:** Nach etwa 30 Minuten sind wir in Amelinghausen.
+3. **Ausweis und Öffnung:** Du zeigst uns einen Nachweis, dann öffnen wir mit Spezialwerkzeug, meist ohne Schaden.
+4. **Bezahlung:** Bar, Karte oder PayPal, Quittung inklusive.
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+### Unsere Leistungen in Amelinghausen
 
-### H2: Häufige Fragen zum Schlüsseldienst in Amelinghausen
+- **Türöffnung**: Wohnungs-, Haus- und Zimmertüren in Amelinghausen, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt, Zuschlag nachts und am Wochenende vorher genannt.
+- **Fensteröffnung**: Fenster und Balkontüren, die zugefallen sind oder gekippt stehen, öffnen wir schonend.
+- **Fahrzeugöffnung**: Schlüssel im Auto? Pkw und Transporter öffnen wir in Amelinghausen ohne Kratzer.
+- **Schließzylinder und Schlösser**: Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Gängige Zylinder haben wir vorrätig.
+- **Schließanlagen und Zutrittssysteme**: Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, etwa von SimonsVoss oder EVVA, für Mehrfamilienhäuser und Betriebe.
+- **Einbruchschutz**: Beratung bei Dir vor Ort in Amelinghausen: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
 
-**H3: Wie schnell ist der Schlüsseldienst in Amelinghausen vor Ort?**  
+### Fragen und Antworten für Amelinghausen
+
+**Wie schnell ist der Schlüsseldienst in Amelinghausen vor Ort?**  
 Von Bad Bevensen nach Amelinghausen brauchen wir in der Regel etwa 30 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
-**H3: Was kostet eine Türöffnung in Amelinghausen?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Was kostet eine Türöffnung in Amelinghausen?**  
+Montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag.
 
-**H3: Ist der Schlüsselnotdienst in Amelinghausen auch nachts und am Wochenende erreichbar?**  
-Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049.
+**Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?**  
+Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit.
 
-**H3: Muss ich mich ausweisen?**  
-Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB.
+**Wird meine Tür beim Öffnen beschädigt?**  
+In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
 
-**H3: Kann ich mit Karte oder PayPal bezahlen?**  
-Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen.
+**Kann ich mit Karte oder PayPal bezahlen?**  
+Ja. Neben Bargeld nehmen wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden zahlen auf Wunsch per Rechnung.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
-
-### H2: Schlüsseldienst in der Nähe von Amelinghausen
-
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Auch in der Nähe von Amelinghausen im Einsatz
 
 - [Schlüsseldienst Lüneburg](https://schluesselnotdienst-baumann.de/lueneburg)
 - [Schlüsseldienst Melbeck](https://schluesselnotdienst-baumann.de/melbeck)
@@ -87,19 +79,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Ebstorf](https://schluesselnotdienst-baumann.de/ebstorf)
 - [Schlüsseldienst Munster](https://schluesselnotdienst-baumann.de/munster)
 - [Schlüsseldienst Bienenbüttel](https://schluesselnotdienst-baumann.de/bienenbuettel)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Rund 80 Kilometer um Bad Bevensen sind wir im Einsatz, von Lüneburg bis Celle und von Munster bis ins Wendland. Jeder Ort hat eine eigene Seite mit Festpreis und Anfahrtszeit:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Amelinghausen“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Amelinghausen“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -107,10 +91,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/amelinghausen#service",
-  "name": "Schlüsseldienst Amelinghausen – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Amelinghausen: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/amelinghausen",
-  "description": "Schlüsseldienst Amelinghausen: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 30 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsselnotdienst für Amelinghausen und Umgebung: Türöffnung zum Festpreis von 169 €, 24 Stunden erreichbar, in etwa 30 Minuten vor Ort. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -151,9 +135,9 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "offers": {
     "@type": "Offer",
     "name": "Türöffnung Amelinghausen zum Festpreis",
-    "price": "135",
+    "price": "169",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Amelinghausen"
   }
@@ -197,23 +181,23 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Amelinghausen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
+        "text": "Montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag."
       }
     },
     {
       "@type": "Question",
-      "name": "Ist der Schlüsselnotdienst in Amelinghausen auch nachts und am Wochenende erreichbar?",
+      "name": "Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049."
+        "text": "Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit."
       }
     },
     {
       "@type": "Question",
-      "name": "Muss ich mich ausweisen?",
+      "name": "Wird meine Tür beim Öffnen beschädigt?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB."
+        "text": "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."
       }
     },
     {
@@ -221,7 +205,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Kann ich mit Karte oder PayPal bezahlen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen."
+        "text": "Ja. Neben Bargeld nehmen wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden zahlen auf Wunsch per Rechnung."
       }
     }
   ]
@@ -229,8 +213,8 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/amelinghausen` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/amelinghausen → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/amelinghausen` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/amelinghausen
+3. Search Console: URL prüfen und Indexierung beantragen.

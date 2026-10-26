@@ -1,85 +1,78 @@
-# Bad Bodenteich – SEO-Inhalte für `/bad-bodenteich`
+# Bad Bodenteich: SEO-Inhalte für `/bad-bodenteich`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `bad-bodenteich` | |
-| Seitentitel (Page Title) | Schlüsseldienst Bad Bodenteich: 24h Notdienst zum Festpreis | 59 |
-| Beschreibung (Description) | Schlüsseldienst Bad Bodenteich: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 35 Minuten bei Dir. ☎ 05821 4049049 | 137 |
-| Keywords | Schlüsseldienst Bad Bodenteich, Schlüsselnotdienst Bad Bodenteich, Türöffnung Bad Bodenteich, Schlüsseldienst Bad Bodenteich 24h, Aufsperrdienst Bad Bodenteich, Schlüsseldienst Bad Bodenteich Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Bad Bodenteich“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `bad-bodenteich` | |
+| Seitentitel | Schlüsseldienst Bad Bodenteich: 24h Notdienst zum Festpreis | 59 |
+| Beschreibung | Schlüsseldienst Bad Bodenteich: Türöffnung für 169 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 35 Minuten bei Dir. ☎ 05821 4049049 | 149 |
+| Keywords | Schlüsseldienst Bad Bodenteich, Schlüsselnotdienst Bad Bodenteich, Türöffnung Bad Bodenteich, Schlüsseldienst Bad Bodenteich 24h, Aufsperrdienst Bad Bodenteich, Schlüsseldienst Bad Bodenteich Kosten, Autoöffnung Bad Bodenteich | |
+| Preis Türöffnung | 169 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
 Schlüsseldienst Bad Bodenteich: Notdienst rund um die Uhr zum Festpreis
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Bad Bodenteich & Umgebung · fair · transparent · in ca. 35 Min. vor Ort · ☎ 05821 4049049
+### H2
+Dein Schlüsselnotdienst für Bad Bodenteich und Umgebung
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Türöffnung in Bad Bodenteich und Umgebung / Festpreis 169 € inkl. Anfahrt, in etwa 35 Minuten bei Dir / ohne Schaden an Tür und Schloss, zum vorher genannten Preis
 
-### Einleitung (direkt unter der H1)
-Der Schlüsseldienst für Bad Bodenteich (Kurort, Landkreis Uelzen, Samtgemeinde Aue). Wenn die Tür zugefallen ist oder das Schloss klemmt, kommt der ProVision Infra Schlüsselnotdienst, auch nachts, am Wochenende und an Feiertagen. Von Bad Bevensen aus sind wir in rund 35 Minuten in Bad Bodenteich. Geöffnet wird zum vorher genannten Festpreis, Anfahrtskosten gibt es nicht.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Bad Bodenteich – aus der Region, für die Region
-Bad Bodenteich mit der Burg Bodenteich und dem Kurgebiet liegt im Süden des Landkreises Uelzen. In rund 35 Minuten sind wir vor Ort, ebenso in Lüder oder Soltendieck. Im Fahrzeug haben wir das komplette Werkzeug und gängige Profilzylinder dabei. Die meisten Aufträge in Bad Bodenteich erledigen wir deshalb in einem Termin.
+- **Rund um die Uhr erreichbar**: Tag und Nacht, auch an Feiertagen. Festpreis am Telefon, bevor wir losfahren. In Bad Bodenteich meist nach etwa 35 Minuten vor Ort.
+- **Feste Preise ohne Überraschungen**: Anfahrt und Mehrwertsteuer sind im Preis enthalten. Material wie ein neuer Zylinder berechnen wir nur nach Absprache.
+- **Bezahlen, wie es Dir passt**: Karte, PayPal oder bar, ganz wie Du möchtest. Firmen zahlen auf Rechnung. Die Quittung bekommst Du sofort.
 
-### H2: Unsere Leistungen in Bad Bodenteich
+### Abschnittstitel
+Alles Wichtige für Bad Bodenteich: Preise, Ablauf, Antworten und Einsatzgebiet
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Bad Bodenteich, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Bad Bodenteich schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Bad Bodenteich: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+Ausgesperrt in Bad Bodenteich? Ruf an, wir sind unterwegs. Der ProVision Infra Schlüsselnotdienst erreicht Bad Bodenteich in rund 35 Minuten und öffnet die Tür in den meisten Fällen ohne Schaden.
 
-### H2: Was kostet der Schlüsseldienst in Bad Bodenteich?
-Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unteren dreistelligen Bereich für angemessen. In diesem Rahmen bewegen wir uns in Bad Bodenteich. Den konkreten Preis erfährst Du vor der Auftragserteilung. Es gibt keine getrennten Anfahrtskosten und keinen Aufschlag für schwierige Öffnungen. Barzahlung ist keine Pflicht, Karte und PayPal gehen genauso. Konkret: Die Türöffnung in Bad Bodenteich kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Bad Bodenteich mit der Burg Bodenteich und dem Kurgebiet liegt im Süden des Landkreises Uelzen. In rund 35 Minuten sind wir vor Ort, ebenso in Lüder oder Soltendieck. Auch kleine Reparaturen am Schloss übernehmen wir direkt vor Ort in Bad Bodenteich, ohne zweiten Termin.
 
-### H2: So läuft Deine Türöffnung in Bad Bodenteich ab
+### Was kostet der Schlüsseldienst in Bad Bodenteich?
+Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unteren dreistelligen Bereich für angemessen. In diesem Rahmen liegen wir in Bad Bodenteich. Getrennte Anfahrtskosten oder Aufschläge für schwierige Öffnungen gibt es nicht. Konkret: Die Türöffnung in Bad Bodenteich kostet montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, ein neuer Profilzylinder beginnt bei 60 € zuzüglich Material.
 
-1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
-2. **Anfahrt:** Wir fahren sofort los. Nach etwa 35 Minuten sind wir in Bad Bodenteich.
-3. **Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.
-4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
-5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
+### So läuft der Einsatz in Bad Bodenteich ab
 
-### H2: Deine Vorteile auf einen Blick
+1. **Du rufst an:** 05821 4049049, Tag und Nacht.
+2. **Wir fahren los:** von Bad Bevensen nach Bad Bodenteich, etwa 35 Minuten.
+3. **Wir prüfen die Berechtigung:** Ausweis, Mietvertrag oder ein anderer Nachweis.
+4. **Wir öffnen:** mit Spezialwerkzeug, in über 90 Prozent der Fälle ohne Schaden.
+5. **Du zahlst den genannten Preis:** bar, mit Karte oder per PayPal.
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+### Leistungen vor Ort in Bad Bodenteich
 
-### H2: Häufige Fragen zum Schlüsseldienst in Bad Bodenteich
+- **Türöffnung**: Wohnungs-, Haus- und Zimmertüren in Bad Bodenteich, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt, Zuschlag nachts und am Wochenende vorher genannt.
+- **Fensteröffnung**: Fenster und Balkontüren, die zugefallen sind oder gekippt stehen, öffnen wir schonend.
+- **Fahrzeugöffnung**: Schlüssel im Auto? Pkw und Transporter öffnen wir in Bad Bodenteich ohne Kratzer.
+- **Schließzylinder und Schlösser**: Neue Profilzylinder, Sicherheitszylinder mit Sicherungskarte und Reparaturen am Schloss, meist direkt im ersten Termin.
+- **Schließanlagen und Zutrittssysteme**: Mechanische Schließanlagen und elektronische Zutrittssysteme für Hausverwaltungen, Praxen und Unternehmen in Bad Bodenteich.
+- **Einbruchschutz**: Wir zeigen Dir, wo Deine Tür oder Dein Fenster in Bad Bodenteich angreifbar ist, und rüsten mit Beschlägen oder Zusatzschlössern nach.
 
-**H3: Wie schnell ist der Schlüsseldienst in Bad Bodenteich vor Ort?**  
+### Häufige Fragen zum Schlüsseldienst in Bad Bodenteich
+
+**Wie schnell ist der Schlüsseldienst in Bad Bodenteich vor Ort?**  
 Von Bad Bevensen nach Bad Bodenteich brauchen wir in der Regel etwa 35 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
-**H3: Was kostet eine Türöffnung in Bad Bodenteich?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Was kostet eine Türöffnung in Bad Bodenteich?**  
+Montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag.
 
-**H3: Wird meine Tür beim Öffnen beschädigt?**  
+**Wird meine Tür beim Öffnen beschädigt?**  
 In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
 
-**H3: Ist der Schlüsselnotdienst in Bad Bodenteich auch nachts und am Wochenende erreichbar?**  
-Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049.
+**Kann ich mit Karte oder PayPal bezahlen?**  
+Ja. Neben Bargeld nehmen wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden zahlen auf Wunsch per Rechnung.
 
-**H3: Muss ich mich ausweisen?**  
-Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB.
+**Was passiert, wenn der Zylinder getauscht werden muss?**  
+Dann besprechen wir das vorher mit Dir. Gängige Zylinder haben wir im Fahrzeug, der Einbau erfolgt direkt im selben Termin.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
-
-### H2: Schlüsseldienst in der Nähe von Bad Bodenteich
-
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Nachbarorte von Bad Bodenteich
 
 - [Schlüsseldienst Wieren](https://schluesselnotdienst-baumann.de/wieren)
 - [Schlüsseldienst Uelzen](https://schluesselnotdienst-baumann.de/uelzen)
@@ -87,19 +80,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Rosche](https://schluesselnotdienst-baumann.de/rosche)
 - [Schlüsseldienst Lüchow (Wendland)](https://schluesselnotdienst-baumann.de/luechow)
 - [Schlüsseldienst Bad Bevensen](https://schluesselnotdienst-baumann.de/bad-bevensen)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Rund 80 Kilometer um Bad Bevensen sind wir im Einsatz, von Lüneburg bis Celle und von Munster bis ins Wendland. Jeder Ort hat eine eigene Seite mit Festpreis und Anfahrtszeit:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Bad Bodenteich“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Bad Bodenteich“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -107,10 +92,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/bad-bodenteich#service",
-  "name": "Schlüsseldienst Bad Bodenteich – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Bad Bodenteich: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/bad-bodenteich",
-  "description": "Schlüsseldienst Bad Bodenteich: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 35 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Bad Bodenteich: Türöffnung für 169 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 35 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -151,9 +136,9 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "offers": {
     "@type": "Offer",
     "name": "Türöffnung Bad Bodenteich zum Festpreis",
-    "price": "135",
+    "price": "169",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Bad Bodenteich"
   }
@@ -197,7 +182,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Bad Bodenteich?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
+        "text": "Montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag."
       }
     },
     {
@@ -210,18 +195,18 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
     },
     {
       "@type": "Question",
-      "name": "Ist der Schlüsselnotdienst in Bad Bodenteich auch nachts und am Wochenende erreichbar?",
+      "name": "Kann ich mit Karte oder PayPal bezahlen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049."
+        "text": "Ja. Neben Bargeld nehmen wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden zahlen auf Wunsch per Rechnung."
       }
     },
     {
       "@type": "Question",
-      "name": "Muss ich mich ausweisen?",
+      "name": "Was passiert, wenn der Zylinder getauscht werden muss?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB."
+        "text": "Dann besprechen wir das vorher mit Dir. Gängige Zylinder haben wir im Fahrzeug, der Einbau erfolgt direkt im selben Termin."
       }
     }
   ]
@@ -229,8 +214,8 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/bad-bodenteich` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/bad-bodenteich → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/bad-bodenteich` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/bad-bodenteich
+3. Search Console: URL prüfen und Indexierung beantragen.

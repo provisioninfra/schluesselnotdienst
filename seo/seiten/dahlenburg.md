@@ -1,46 +1,44 @@
-# Dahlenburg – SEO-Inhalte für `/dahlenburg`
+# Dahlenburg: SEO-Inhalte für `/dahlenburg`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `dahlenburg` | |
-| Seitentitel (Page Title) | Schlüsseldienst Dahlenburg: 24h Notdienst zum Festpreis | 55 |
-| Beschreibung (Description) | Schlüsseldienst Dahlenburg: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 25 Minuten bei Dir. ☎ 05821 4049049 | 133 |
-| Keywords | Schlüsseldienst Dahlenburg, Schlüsselnotdienst Dahlenburg, Türöffnung Dahlenburg, Schlüsseldienst Dahlenburg 24h, Aufsperrdienst Dahlenburg, Schlüsseldienst Dahlenburg Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Dahlenburg“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `dahlenburg` | |
+| Seitentitel | Schlüsseldienst Dahlenburg: 24h Notdienst zum Festpreis | 55 |
+| Beschreibung | Schlüsseldienst Dahlenburg: Türöffnung für 169 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 25 Minuten bei Dir. ☎ 05821 4049049 | 145 |
+| Keywords | Schlüsseldienst Dahlenburg, Schlüsselnotdienst Dahlenburg, Türöffnung Dahlenburg, Schlüsseldienst Dahlenburg 24h, Aufsperrdienst Dahlenburg, Schlüsseldienst Dahlenburg Kosten, Autoöffnung Dahlenburg | |
+| Preis Türöffnung | 169 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Dahlenburg: Notdienst rund um die Uhr zum Festpreis
+Schlüsselnotdienst Dahlenburg: schnell vor Ort, Preis vorab
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Dahlenburg & Umgebung · fair · transparent · in ca. 25 Min. vor Ort · ☎ 05821 4049049
+### H2
+Dein Schlüsselnotdienst für Dahlenburg und Umgebung
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Schlüsselnotdienst für Dahlenburg / Türöffnung zum Festpreis von 169 €, Anfahrt inklusive / nach etwa 25 Minuten vor Ort, Preis vorher zugesagt
 
-### Einleitung (direkt unter der H1)
-In Dahlenburg und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Der Betrieb sitzt in Bad Bevensen im Landkreis Uelzen. Der Festpreis steht vor der Anfahrt fest, und nach etwa 25 Minuten stehen wir vor Deiner Tür.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Dahlenburg – aus der Region, für die Region
-Der Flecken Dahlenburg an der B216 liegt nur rund 25 Minuten von Bad Bevensen entfernt. Wir fahren direkt über Himbergen. Wir kommen in alle Stadt- und Ortsteile, darunter Buendorf und Ellringen. Unser Einsatzfahrzeug ist so bestückt, dass wir in Dahlenburg eine Tür öffnen und bei Bedarf gleich einen neuen Zylinder einbauen können.
+- **Rund um die Uhr erreichbar**: Anruf genügt, zu jeder Uhrzeit. Nach etwa 25 Minuten sind wir in Dahlenburg. Den Preis kennst Du vorher.
+- **Feste Preise ohne Überraschungen**: Keine Anfahrtskosten und keine Pauschale für schwierige Türen. Material kommt nur dazu, wenn Du es vorher freigibst.
+- **Bezahlen, wie es Dir passt**: Karte, PayPal oder bar, ganz wie Du möchtest. Firmen zahlen auf Rechnung. Die Quittung bekommst Du sofort.
 
-### H2: Unsere Leistungen in Dahlenburg
+### Abschnittstitel
+Alles Wichtige für Dahlenburg: Preise, Ablauf, Antworten und Einsatzgebiet
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Dahlenburg, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Dahlenburg schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Dahlenburg: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+Ausgesperrt in Dahlenburg? Ruf an, wir sind unterwegs. Der ProVision Infra Schlüsselnotdienst erreicht Dahlenburg in rund 25 Minuten und öffnet die Tür in den meisten Fällen ohne Schaden.
 
-### H2: Was kostet der Schlüsseldienst in Dahlenburg?
-Du bekommst den Festpreis für Deine Türöffnung in Dahlenburg am Telefon genannt, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den wir Dir ebenfalls vorher sagen. Nur wenn Material nötig ist, etwa ein neuer Zylinder, kommen Materialkosten dazu. Zahlen kannst Du bar, mit EC- oder Kreditkarte oder per PayPal. Konkret: Die Türöffnung in Dahlenburg kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Der Flecken Dahlenburg an der B216 liegt nur rund 25 Minuten von Bad Bevensen entfernt. Wir fahren direkt über Himbergen. Ob Buendorf und Ellringen: Wir fahren jeden Ortsteil an. Im Fahrzeug haben wir Werkzeug und gängige Profilzylinder dabei, deshalb erledigen wir die meisten Aufträge in Dahlenburg in einem Termin.
 
-### H2: So läuft Deine Türöffnung in Dahlenburg ab
+### Was kostet der Schlüsseldienst in Dahlenburg?
+Was eine Türöffnung in Dahlenburg kostet, hängt von Uhrzeit und Entfernung ab, nicht von der Dauer des Einsatzes. Der Preis steht vor der Anfahrt fest und ändert sich vor Ort nicht. In Zahlen: 169 € für die Türöffnung in Dahlenburg an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Außerhalb dieser Zeiten und an Feiertagen sind es 54 € mehr. Der Austausch eines Profilzylinders kostet ab 60 € plus Material.
+
+### So läuft Deine Türöffnung in Dahlenburg ab
 
 1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
 2. **Anfahrt:** Wir fahren sofort los. Nach etwa 25 Minuten sind wir in Dahlenburg.
@@ -48,38 +46,33 @@ Du bekommst den Festpreis für Deine Türöffnung in Dahlenburg am Telefon genan
 4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
 5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
 
-### H2: Deine Vorteile auf einen Blick
+### Unsere Leistungen in Dahlenburg
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+- **Türöffnung**: Zugefallene oder abgeschlossene Türen in Dahlenburg öffnen wir zum Festpreis, in der Regel ohne Schaden am Schloss.
+- **Fensteröffnung**: Fenster und Balkontüren, die zugefallen sind oder gekippt stehen, öffnen wir schonend.
+- **Fahrzeugöffnung**: Schlüssel im Auto? Pkw und Transporter öffnen wir in Dahlenburg ohne Kratzer.
+- **Schließzylinder und Schlösser**: Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Gängige Zylinder haben wir vorrätig.
+- **Schließanlagen und Zutrittssysteme**: Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, etwa von SimonsVoss oder EVVA, für Mehrfamilienhäuser und Betriebe.
+- **Einbruchschutz**: Wir zeigen Dir, wo Deine Tür oder Dein Fenster in Dahlenburg angreifbar ist, und rüsten mit Beschlägen oder Zusatzschlössern nach.
 
-### H2: Häufige Fragen zum Schlüsseldienst in Dahlenburg
+### Häufige Fragen zum Schlüsseldienst in Dahlenburg
 
-**H3: Wie schnell ist der Schlüsseldienst in Dahlenburg vor Ort?**  
-Von Bad Bevensen nach Dahlenburg brauchen wir in der Regel etwa 25 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
+**Wie schnell ist der Schlüsseldienst in Dahlenburg vor Ort?**  
+Meist sind wir nach rund 25 Minuten in Dahlenburg. Nachts geht es oft schneller, weil die Straßen frei sind.
 
-**H3: Was kostet eine Türöffnung in Dahlenburg?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Was kostet eine Türöffnung in Dahlenburg?**  
+Montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag.
 
-**H3: Ist der Schlüsselnotdienst in Dahlenburg auch nachts und am Wochenende erreichbar?**  
-Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049.
+**Muss ich mich ausweisen?**  
+Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich.
 
-**H3: Muss ich mich ausweisen?**  
-Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB.
+**Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?**  
+Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit.
 
-**H3: Kann ich mit Karte oder PayPal bezahlen?**  
-Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen.
+**Wird meine Tür beim Öffnen beschädigt?**  
+In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
-
-### H2: Schlüsseldienst in der Nähe von Dahlenburg
-
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Nachbarorte von Dahlenburg
 
 - [Schlüsseldienst Himbergen](https://schluesselnotdienst-baumann.de/himbergen)
 - [Schlüsseldienst Barendorf](https://schluesselnotdienst-baumann.de/barendorf)
@@ -87,19 +80,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Zernien](https://schluesselnotdienst-baumann.de/zernien)
 - [Schlüsseldienst Lüneburg](https://schluesselnotdienst-baumann.de/lueneburg)
 - [Schlüsseldienst Bad Bevensen](https://schluesselnotdienst-baumann.de/bad-bevensen)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Als mobiler Schlüsselnotdienst aus Bad Bevensen (Klein Hesebecker Straße 11) sind wir täglich im Landkreis Uelzen, im Landkreis Lüneburg und im Wendland unterwegs, bei Bedarf bis Munster, Faßberg und Celle. Der Umkreis liegt bei etwa 80 km. Wähle Deinen Ort:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Dahlenburg“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Dahlenburg“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -107,10 +92,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/dahlenburg#service",
-  "name": "Schlüsseldienst Dahlenburg – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Dahlenburg: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/dahlenburg",
-  "description": "Schlüsseldienst Dahlenburg: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 25 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Dahlenburg: Türöffnung für 169 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 25 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -151,9 +136,9 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "offers": {
     "@type": "Offer",
     "name": "Türöffnung Dahlenburg zum Festpreis",
-    "price": "135",
+    "price": "169",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Dahlenburg"
   }
@@ -189,7 +174,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Wie schnell ist der Schlüsseldienst in Dahlenburg vor Ort?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Von Bad Bevensen nach Dahlenburg brauchen wir in der Regel etwa 25 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."
+        "text": "Meist sind wir nach rund 25 Minuten in Dahlenburg. Nachts geht es oft schneller, weil die Straßen frei sind."
       }
     },
     {
@@ -197,15 +182,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Dahlenburg?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Ist der Schlüsselnotdienst in Dahlenburg auch nachts und am Wochenende erreichbar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049."
+        "text": "Montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag."
       }
     },
     {
@@ -213,15 +190,23 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Muss ich mich ausweisen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB."
+        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich."
       }
     },
     {
       "@type": "Question",
-      "name": "Kann ich mit Karte oder PayPal bezahlen?",
+      "name": "Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen."
+        "text": "Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wird meine Tür beim Öffnen beschädigt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."
       }
     }
   ]
@@ -229,8 +214,8 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/dahlenburg` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/dahlenburg → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/dahlenburg` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/dahlenburg
+3. Search Console: URL prüfen und Indexierung beantragen.

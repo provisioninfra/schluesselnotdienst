@@ -1,85 +1,77 @@
-# Barum – SEO-Inhalte für `/barum`
+# Barum: SEO-Inhalte für `/barum`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `barum` | |
-| Seitentitel (Page Title) | Schlüsseldienst Barum: 24h Notdienst zum Festpreis | 50 |
-| Beschreibung (Description) | Schlüsseldienst Barum: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 10 Minuten bei Dir. ☎ 05821 4049049 | 128 |
-| Keywords | Schlüsseldienst Barum, Schlüsselnotdienst Barum, Türöffnung Barum, Schlüsseldienst Barum 24h, Aufsperrdienst Barum, Schlüsseldienst Barum Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Barum“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `barum` | |
+| Seitentitel | Schlüsseldienst in Barum: Festpreis 135 €, rund um die Uhr | 58 |
+| Beschreibung | Schlüsseldienst Barum: Türöffnung für 135 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 10 Minuten bei Dir. ☎ 05821 4049049 | 140 |
+| Keywords | Schlüsseldienst Barum, Schlüsselnotdienst Barum, Türöffnung Barum, Schlüsseldienst Barum 24h, Aufsperrdienst Barum, Schlüsseldienst Barum Kosten, Autoöffnung Barum | |
+| Preis Türöffnung | 135 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Barum: Notdienst rund um die Uhr zum Festpreis
+Schlüsseldienst Barum: Türöffnung zum Festpreis, Tag und Nacht
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Barum & Umgebung · fair · transparent · in ca. 10 Min. vor Ort · ☎ 05821 4049049
+### H2
+ProVision Infra Schlüsselnotdienst für Barum
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Ausgesperrt in Barum? Wir kommen. / 135 € Festpreis inklusive Anfahrt, Ankunft in rund 10 Minuten / Öffnung in der Regel ohne Schaden, Preis vorab am Telefon
 
-### Einleitung (direkt unter der H1)
-Der Schlüsseldienst für Barum (Gemeinde, Landkreis Uelzen, Samtgemeinde Bevensen-Ebstorf). Wenn die Tür zugefallen ist oder das Schloss klemmt, kommt der ProVision Infra Schlüsselnotdienst, auch nachts, am Wochenende und an Feiertagen. Von Bad Bevensen aus sind wir in rund 10 Minuten in Barum. Geöffnet wird zum vorher genannten Festpreis, Anfahrtskosten gibt es nicht.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Barum – aus der Region, für die Region
-Barum mit Tätendorf-Eppensen liegt nur wenige Kilometer südlich von Bad Bevensen. Meist sind wir in rund zehn Minuten vor Ort. Wir kommen in alle Stadt- und Ortsteile, darunter Tätendorf-Eppensen und Hoystorf. Im Fahrzeug haben wir das komplette Werkzeug und gängige Profilzylinder dabei. Die meisten Aufträge in Barum erledigen wir deshalb in einem Termin.
+- **Rund um die Uhr erreichbar**: Wochenende, Feiertag oder mitten in der Nacht: Wir gehen ran. Ankunft in Barum nach rund 10 Minuten. Festpreis vorab.
+- **Feste Preise ohne Überraschungen**: Ein Preis, am Telefon genannt und vor Ort eingehalten. Zuschläge gibt es nur nachts und am Wochenende, und die kennst Du vorher.
+- **Bezahlen, wie es Dir passt**: Wir nehmen Bargeld, Karte und PayPal. Für Unternehmen stellen wir eine Rechnung aus. Einen Beleg gibt es in jedem Fall.
 
-### H2: Unsere Leistungen in Barum
+### Abschnittstitel
+Schlüsseldienst Barum: Preise, Ablauf und Antworten
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Barum, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Barum schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Barum: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+Wer in Barum vor verschlossener Tür steht, erreicht uns rund um die Uhr. Der ProVision Infra Schlüsselnotdienst kommt aus Bad Bevensen und ist nach etwa 10 Minuten vor Ort, zum vorher genannten Festpreis.
 
-### H2: Was kostet der Schlüsseldienst in Barum?
-Du bekommst den Festpreis für Deine Türöffnung in Barum am Telefon genannt, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den wir Dir ebenfalls vorher sagen. Nur wenn Material nötig ist, etwa ein neuer Zylinder, kommen Materialkosten dazu. Zahlen kannst Du bar, mit EC- oder Kreditkarte oder per PayPal. Konkret: Die Türöffnung in Barum kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Barum mit Tätendorf-Eppensen liegt nur wenige Kilometer südlich von Bad Bevensen. Meist sind wir in rund zehn Minuten vor Ort. Unser Einsatzfahrzeug ist so bestückt, dass wir in Barum eine Tür öffnen und bei Bedarf gleich einen neuen Zylinder einbauen können.
 
-### H2: So läuft Deine Türöffnung in Barum ab
+### Was kostet der Schlüsseldienst in Barum?
+Den Festpreis für Deine Türöffnung in Barum nennen wir Dir am Telefon, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den Du ebenfalls vorher erfährst. Materialkosten entstehen nur, wenn zum Beispiel ein neuer Zylinder nötig ist. In Zahlen: 135 € für die Türöffnung in Barum an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Außerhalb dieser Zeiten und an Feiertagen sind es 54 € mehr. Der Austausch eines Profilzylinders kostet ab 60 € plus Material.
 
-1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
-2. **Anfahrt:** Wir fahren sofort los. Nach etwa 10 Minuten sind wir in Barum.
-3. **Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.
-4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
-5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
+### So läuft der Einsatz in Barum ab
 
-### H2: Deine Vorteile auf einen Blick
+1. **Anruf:** Du schilderst kurz, welche Tür betroffen ist. Wir nennen Preis und Ankunftszeit.
+2. **Anfahrt:** Nach etwa 10 Minuten sind wir in Barum.
+3. **Ausweis und Öffnung:** Du zeigst uns einen Nachweis, dann öffnen wir mit Spezialwerkzeug, meist ohne Schaden.
+4. **Bezahlung:** Bar, Karte oder PayPal, Quittung inklusive.
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+### Leistungen vor Ort in Barum
 
-### H2: Häufige Fragen zum Schlüsseldienst in Barum
+- **Türöffnung**: Wohnungs-, Haus- und Zimmertüren in Barum, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt, Zuschlag nachts und am Wochenende vorher genannt.
+- **Fensteröffnung**: Fenster und Balkontüren, die zugefallen sind oder gekippt stehen, öffnen wir schonend.
+- **Fahrzeugöffnung**: Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Barum schonend.
+- **Schließzylinder und Schlösser**: Neue Profilzylinder, Sicherheitszylinder mit Sicherungskarte und Reparaturen am Schloss, meist direkt im ersten Termin.
+- **Schließanlagen und Zutrittssysteme**: Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, etwa von SimonsVoss oder EVVA, für Mehrfamilienhäuser und Betriebe.
+- **Einbruchschutz**: Wir zeigen Dir, wo Deine Tür oder Dein Fenster in Barum angreifbar ist, und rüsten mit Beschlägen oder Zusatzschlössern nach.
 
-**H3: Wie schnell ist der Schlüsseldienst in Barum vor Ort?**  
-Von Bad Bevensen nach Barum brauchen wir in der Regel etwa 10 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
+### Häufige Fragen aus Barum
 
-**H3: Was kostet eine Türöffnung in Barum?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Wie schnell ist der Schlüsseldienst in Barum vor Ort?**  
+Meist sind wir nach rund 10 Minuten in Barum. Nachts geht es oft schneller, weil die Straßen frei sind.
 
-**H3: Muss ich mich ausweisen?**  
-Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB.
+**Was kostet eine Türöffnung in Barum?**  
+135 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher.
 
-**H3: Kann ich mit Karte oder PayPal bezahlen?**  
-Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen.
+**Muss ich mich ausweisen?**  
+Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich.
 
-**H3: Woran erkenne ich einen seriösen Schlüsseldienst in Barum?**  
-An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region.
+**Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?**  
+Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
+**Wird meine Tür beim Öffnen beschädigt?**  
+In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
 
-### H2: Schlüsseldienst in der Nähe von Barum
-
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Nachbarorte von Barum
 
 - [Schlüsseldienst Bad Bevensen](https://schluesselnotdienst-baumann.de/bad-bevensen)
 - [Schlüsseldienst Altenmedingen](https://schluesselnotdienst-baumann.de/altenmedingen)
@@ -87,19 +79,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Himbergen](https://schluesselnotdienst-baumann.de/himbergen)
 - [Schlüsseldienst Rosche](https://schluesselnotdienst-baumann.de/rosche)
 - [Schlüsseldienst Bienenbüttel](https://schluesselnotdienst-baumann.de/bienenbuettel)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Als mobiler Schlüsselnotdienst aus Bad Bevensen (Klein Hesebecker Straße 11) sind wir täglich im Landkreis Uelzen, im Landkreis Lüneburg und im Wendland unterwegs, bei Bedarf bis Munster, Faßberg und Celle. Der Umkreis liegt bei etwa 80 km. Wähle Deinen Ort:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Barum“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Barum“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -107,10 +91,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/barum#service",
-  "name": "Schlüsseldienst Barum – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Barum: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/barum",
-  "description": "Schlüsseldienst Barum: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 10 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Barum: Türöffnung für 135 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 10 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -153,7 +137,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
     "name": "Türöffnung Barum zum Festpreis",
     "price": "135",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Barum"
   }
@@ -189,7 +173,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Wie schnell ist der Schlüsseldienst in Barum vor Ort?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Von Bad Bevensen nach Barum brauchen wir in der Regel etwa 10 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."
+        "text": "Meist sind wir nach rund 10 Minuten in Barum. Nachts geht es oft schneller, weil die Straßen frei sind."
       }
     },
     {
@@ -197,7 +181,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Barum?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
+        "text": "135 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher."
       }
     },
     {
@@ -205,23 +189,23 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Muss ich mich ausweisen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB."
+        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich."
       }
     },
     {
       "@type": "Question",
-      "name": "Kann ich mit Karte oder PayPal bezahlen?",
+      "name": "Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen."
+        "text": "Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit."
       }
     },
     {
       "@type": "Question",
-      "name": "Woran erkenne ich einen seriösen Schlüsseldienst in Barum?",
+      "name": "Wird meine Tür beim Öffnen beschädigt?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region."
+        "text": "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."
       }
     }
   ]
@@ -229,8 +213,8 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/barum` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/barum → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/barum` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/barum
+3. Search Console: URL prüfen und Indexierung beantragen.

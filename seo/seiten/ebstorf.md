@@ -1,82 +1,77 @@
-# Ebstorf – SEO-Inhalte für `/ebstorf`
+# Ebstorf: SEO-Inhalte für `/ebstorf`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `ebstorf` | |
-| Seitentitel (Page Title) | Schlüsseldienst Ebstorf: 24h Notdienst zum Festpreis | 52 |
-| Beschreibung (Description) | Schlüsseldienst Ebstorf: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 15 Minuten bei Dir. ☎ 05821 4049049 | 130 |
-| Keywords | Schlüsseldienst Ebstorf, Schlüsselnotdienst Ebstorf, Türöffnung Ebstorf, Schlüsseldienst Ebstorf 24h, Aufsperrdienst Ebstorf, Schlüsseldienst Ebstorf Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Ebstorf“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `ebstorf` | |
+| Seitentitel | Schlüsseldienst Ebstorf: 24h Notdienst zum Festpreis | 52 |
+| Beschreibung | Schlüsseldienst Ebstorf: Türöffnung für 135 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 15 Minuten bei Dir. ☎ 05821 4049049 | 142 |
+| Keywords | Schlüsseldienst Ebstorf, Schlüsselnotdienst Ebstorf, Türöffnung Ebstorf, Schlüsseldienst Ebstorf 24h, Aufsperrdienst Ebstorf, Schlüsseldienst Ebstorf Kosten, Autoöffnung Ebstorf | |
+| Preis Türöffnung | 135 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Ebstorf: Notdienst rund um die Uhr zum Festpreis
+Schlüsseldienst für Ebstorf: 24 Stunden erreichbar, Festpreis vorab
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Ebstorf & Umgebung · fair · transparent · in ca. 15 Min. vor Ort · ☎ 05821 4049049
+### H2
+ProVision Infra Schlüsselnotdienst in Ebstorf
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Schlüsselnotdienst für Ebstorf / Türöffnung zum Festpreis von 135 €, Anfahrt inklusive / nach etwa 15 Minuten vor Ort, Preis vorher zugesagt
 
-### Einleitung (direkt unter der H1)
-In Ebstorf und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Der Betrieb sitzt in Bad Bevensen im Landkreis Uelzen. Der Festpreis steht vor der Anfahrt fest, und nach etwa 15 Minuten stehen wir vor Deiner Tür.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Ebstorf – aus der Region, für die Region
-Der Klosterflecken Ebstorf mit seinem bekannten Kloster und den umliegenden Dörfern liegt nur eine Viertelstunde von unserem Standort entfernt. Weil wir aus der Region kommen, kennen wir die Wege nach Ebstorf. Das spart Zeit, wenn es eilt.
+- **Rund um die Uhr erreichbar**: Wochenende, Feiertag oder mitten in der Nacht: Wir gehen ran. Ankunft in Ebstorf nach rund 15 Minuten. Festpreis vorab.
+- **Feste Preise ohne Überraschungen**: Anfahrt und Mehrwertsteuer sind im Preis enthalten. Material wie ein neuer Zylinder berechnen wir nur nach Absprache.
+- **Bezahlen, wie es Dir passt**: Wir nehmen Bargeld, Karte und PayPal. Für Unternehmen stellen wir eine Rechnung aus. Einen Beleg gibt es in jedem Fall.
 
-### H2: Unsere Leistungen in Ebstorf
+### Abschnittstitel
+Schlüsseldienst Ebstorf: Preise, Ablauf und Antworten
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Ebstorf, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Ebstorf schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Ebstorf: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+Die Tür ist zu und der Schlüssel liegt drinnen? In Ebstorf hilft der ProVision Infra Schlüsselnotdienst aus Bad Bevensen, Tag und Nacht. Bis zu Dir brauchen wir etwa 15 Minuten, den Preis nennen wir vor der Abfahrt.
 
-### H2: Was kostet der Schlüsseldienst in Ebstorf?
-Festpreis am Telefon, Anfahrt nach Ebstorf inklusive, Zuschlag für Nacht, Wochenende und Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit, bar, mit Karte oder per PayPal; Geschäftskunden auch auf Rechnung. Konkret: Die Türöffnung in Ebstorf kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Der Klosterflecken Ebstorf mit seinem bekannten Kloster und den umliegenden Dörfern liegt nur eine Viertelstunde von unserem Standort entfernt. Im Fahrzeug haben wir Werkzeug und gängige Profilzylinder dabei, deshalb erledigen wir die meisten Aufträge in Ebstorf in einem Termin.
 
-### H2: So läuft Deine Türöffnung in Ebstorf ab
+### Was kostet der Schlüsseldienst in Ebstorf?
+Den Festpreis für Deine Türöffnung in Ebstorf nennen wir Dir am Telefon, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den Du ebenfalls vorher erfährst. Materialkosten entstehen nur, wenn zum Beispiel ein neuer Zylinder nötig ist. In Zahlen: 135 € für die Türöffnung in Ebstorf an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Außerhalb dieser Zeiten und an Feiertagen sind es 54 € mehr. Der Austausch eines Profilzylinders kostet ab 60 € plus Material.
 
-1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
-2. **Anfahrt:** Wir fahren sofort los. Nach etwa 15 Minuten sind wir in Ebstorf.
-3. **Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.
-4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
-5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
+### So läuft Deine Türöffnung in Ebstorf ab
 
-### H2: Deine Vorteile auf einen Blick
+1. **Anruf:** Du schilderst kurz, welche Tür betroffen ist. Wir nennen Preis und Ankunftszeit.
+2. **Anfahrt:** Nach etwa 15 Minuten sind wir in Ebstorf.
+3. **Ausweis und Öffnung:** Du zeigst uns einen Nachweis, dann öffnen wir mit Spezialwerkzeug, meist ohne Schaden.
+4. **Bezahlung:** Bar, Karte oder PayPal, Quittung inklusive.
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+### Unsere Leistungen in Ebstorf
 
-### H2: Häufige Fragen zum Schlüsseldienst in Ebstorf
+- **Türöffnung**: Zugefallene oder abgeschlossene Türen in Ebstorf öffnen wir zum Festpreis, in der Regel ohne Schaden am Schloss.
+- **Fensteröffnung**: Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
+- **Fahrzeugöffnung**: Schlüssel im Auto? Pkw und Transporter öffnen wir in Ebstorf ohne Kratzer.
+- **Schließzylinder und Schlösser**: Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Gängige Zylinder haben wir vorrätig.
+- **Schließanlagen und Zutrittssysteme**: Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, etwa von SimonsVoss oder EVVA, für Mehrfamilienhäuser und Betriebe.
+- **Einbruchschutz**: Wir zeigen Dir, wo Deine Tür oder Dein Fenster in Ebstorf angreifbar ist, und rüsten mit Beschlägen oder Zusatzschlössern nach.
 
-**H3: Wie schnell ist der Schlüsseldienst in Ebstorf vor Ort?**  
-Von Bad Bevensen nach Ebstorf brauchen wir in der Regel etwa 15 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
+### Fragen und Antworten für Ebstorf
 
-**H3: Was kostet eine Türöffnung in Ebstorf?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Wie schnell ist der Schlüsseldienst in Ebstorf vor Ort?**  
+Meist sind wir nach rund 15 Minuten in Ebstorf. Nachts geht es oft schneller, weil die Straßen frei sind.
 
-**H3: Wird meine Tür beim Öffnen beschädigt?**  
-In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
+**Was kostet eine Türöffnung in Ebstorf?**  
+135 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher.
 
-**H3: Ist der Schlüsselnotdienst in Ebstorf auch nachts und am Wochenende erreichbar?**  
-Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049.
+**Woran erkenne ich einen seriösen Schlüsseldienst in Ebstorf?**  
+An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und nennen den Preis vorab.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
+**Öffnet Ihr in Ebstorf auch Autos?**  
+Ja. Pkw und Transporter öffnen wir schonend, wenn der Schlüssel im Fahrzeug liegt. Der Preis entspricht der Türöffnung.
 
-### H2: Schlüsseldienst in der Nähe von Ebstorf
+**Muss ich mich ausweisen?**  
+Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich.
 
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Auch in der Nähe von Ebstorf im Einsatz
 
 - [Schlüsseldienst Bad Bevensen](https://schluesselnotdienst-baumann.de/bad-bevensen)
 - [Schlüsseldienst Wriedel](https://schluesselnotdienst-baumann.de/wriedel)
@@ -84,19 +79,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Bienenbüttel](https://schluesselnotdienst-baumann.de/bienenbuettel)
 - [Schlüsseldienst Suderburg](https://schluesselnotdienst-baumann.de/suderburg)
 - [Schlüsseldienst Amelinghausen](https://schluesselnotdienst-baumann.de/amelinghausen)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Rund 80 Kilometer um Bad Bevensen sind wir im Einsatz, von Lüneburg bis Celle und von Munster bis ins Wendland. Jeder Ort hat eine eigene Seite mit Festpreis und Anfahrtszeit:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Ebstorf“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Ebstorf“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -104,10 +91,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/ebstorf#service",
-  "name": "Schlüsseldienst Ebstorf – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Ebstorf: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/ebstorf",
-  "description": "Schlüsseldienst Ebstorf: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 15 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Ebstorf: Türöffnung für 135 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 15 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -150,7 +137,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
     "name": "Türöffnung Ebstorf zum Festpreis",
     "price": "135",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Ebstorf"
   }
@@ -186,7 +173,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Wie schnell ist der Schlüsseldienst in Ebstorf vor Ort?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Von Bad Bevensen nach Ebstorf brauchen wir in der Regel etwa 15 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."
+        "text": "Meist sind wir nach rund 15 Minuten in Ebstorf. Nachts geht es oft schneller, weil die Straßen frei sind."
       }
     },
     {
@@ -194,23 +181,31 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Ebstorf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
+        "text": "135 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher."
       }
     },
     {
       "@type": "Question",
-      "name": "Wird meine Tür beim Öffnen beschädigt?",
+      "name": "Woran erkenne ich einen seriösen Schlüsseldienst in Ebstorf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."
+        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und nennen den Preis vorab."
       }
     },
     {
       "@type": "Question",
-      "name": "Ist der Schlüsselnotdienst in Ebstorf auch nachts und am Wochenende erreichbar?",
+      "name": "Öffnet Ihr in Ebstorf auch Autos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049."
+        "text": "Ja. Pkw und Transporter öffnen wir schonend, wenn der Schlüssel im Fahrzeug liegt. Der Preis entspricht der Türöffnung."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Muss ich mich ausweisen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich."
       }
     }
   ]
@@ -218,8 +213,8 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/ebstorf` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/ebstorf → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/ebstorf` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/ebstorf
+3. Search Console: URL prüfen und Indexierung beantragen.

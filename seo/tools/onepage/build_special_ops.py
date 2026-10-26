@@ -27,7 +27,7 @@ class Ops:
             if copyright:
                 for pt in find_atoms(fz, "plain-text"):
                     if "Copyright" in pt["data"]["text"]["blocks"][0]["text"]:
-                        val, snap = single_text(pt, "Copyright © 2026 ProVision Infra GmbH – Schlüsselnotdienst – Alle Rechte vorbehalten."); self.add(pt, val, snap, "footer text")
+                        val, snap = single_text(pt, "© 2026 ProVision Infra GmbH, Schlüsselnotdienst. Alle Rechte vorbehalten."); self.add(pt, val, snap, "footer text")
             for fm in find_atoms(fz, "menu-v2"):
                 val, snap = footer_menu_value(fm); self.add(fm, val, snap, "footer menu")
     def dump(self):
@@ -37,10 +37,10 @@ class Ops:
 
 # ---------------- Startseite ----------------
 HERO_PHOTO = "media/0496d5a4-d79f-4e3d-80a7-5efcf913dc13"
-HOME_TEXT = ("Der ProVision Infra Schlüsselnotdienst sitzt in Bad Bevensen, Klein Hesebecker Straße 11. Von dort aus fahren wir in den gesamten Landkreis Uelzen, "
+HOME_TEXT = ("Der ProVision Infra Schlüsselnotdienst sitzt in Bad Bevensen, Klein Hesebecker Straße 11. Von dort fahren wir in den Landkreis Uelzen, "
              "in den Landkreis Lüneburg und ins Wendland, bei Bedarf bis Munster, Faßberg und Celle. Nach Uelzen brauchen wir rund 20 Minuten, nach Lüneburg etwa 30. "
-             "Die Türöffnung kostet in Bad Bevensen 115 €, im Umland je nach Entfernung ab 135 €, jeweils inklusive Anfahrt und Mehrwertsteuer (montags bis freitags von 8 bis 18 Uhr, sonst 54 € mehr). "
-             "Den Preis bestätigen wir Dir am Telefon. Wähle unten Deinen Ort für Anfahrtszeit und Leistungen vor Ort.")
+             "Die Türöffnung kostet in Bad Bevensen 115 €, im Umland je nach Entfernung 135 bis 260 €, inklusive Anfahrt und Mehrwertsteuer (werktags von 8 bis 18 Uhr, sonst 54 € mehr). "
+             "Den Preis bestätigen wir Dir am Telefon. Wähle unten Deinen Ort.")
 
 def home_html():
     near = "".join(f'<li><a href="/{s}">Schlüsseldienst {esc(G.kurz(G.ORTE[s]))}</a></li>' for s in ["bad-bevensen", "uelzen", "lueneburg", "bienenbuettel", "ebstorf", "dannenberg", "celle"])
@@ -204,10 +204,10 @@ def build_turoffnung():
     # Fließtexte der Seite
     sec1, sec2 = o.S["layout"][0], o.S["layout"][1]
     for ptx in find_atoms(sec1, "plain-text"):
-        val, snap = single_text(ptx, "Das hängt von wenigen Dingen ab: vom Anfahrtsweg, von der Uhrzeit, von der Art der Tür und davon, ob Material gebraucht wird. Seriöse Anbieter nennen Dir den Gesamtpreis vor dem Einsatz.\n\nBei uns kostet die Türöffnung 115 € in Bad Bevensen. Im Umland richtet sich der Festpreis nach der Entfernung, von 135 € im näheren Umkreis bis 260 € im Landkreis Celle, jeweils inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Muss ein Zylinder oder Schloss ersetzt werden, besprechen wir das vorher mit Dir.\n\nDie Verbraucherzentrale erklärt, woran Du unseriöse Notdienste erkennst: an Lockpreisen, fehlender Adresse und Druck zur Barzahlung. Bei uns findest Du eine feste Adresse, eine Festnetznummer, den Preis vorab und eine Quittung.")
+        val, snap = single_text(ptx, "Der Preis hängt vom Anfahrtsweg, von der Uhrzeit und davon ab, ob Material gebraucht wird. Seriöse Anbieter nennen Dir den Gesamtpreis vor dem Einsatz.\n\nBei uns kostet die Türöffnung 115 € in Bad Bevensen. Im Umland richtet sich der Festpreis nach der Entfernung, von 135 € im näheren Umkreis bis 260 € im Landkreis Celle, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Muss ein Zylinder ersetzt werden, besprechen wir das vorher mit Dir.\n\nDie Verbraucherzentrale beschreibt, woran Du unseriöse Notdienste erkennst: an Lockpreisen, fehlender Adresse und Druck zur Barzahlung. Bei uns findest Du eine feste Adresse, eine Festnetznummer, den Preis vorab und eine Quittung.")
         o.add(ptx, val, snap, "preis text")
     for ptx in find_atoms(sec2, "plain-text"):
-        val, snap = single_text(ptx, "Die Öffnung beginnt am Telefon. Wir fragen, welche Tür betroffen ist, ob sie zugefallen oder abgeschlossen ist und ob ein Schlüssel von innen steckt. So wissen wir schon vor der Anfahrt, welches Werkzeug wir brauchen.\n\nVor Ort prüfen wir Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst. Dann öffnen wir mit Spezialwerkzeug, in über 90 Prozent der Fälle ohne Schaden an Tür oder Schloss. Jannes Heino Baumann bringt eine feuerwehrtechnische Ausbildung mit. Diese Erfahrung hilft, wenn eine Tür schwierig ist.\n\nKeinen Ausweis dabei? Dann zeigst Du ihn uns im Nachgang oder versicherst Deine Berechtigung schriftlich. Die Einzelheiten stehen in unseren AGB.")
+        val, snap = single_text(ptx, "Die Öffnung beginnt am Telefon. Wir fragen, welche Tür betroffen ist, ob sie zugefallen oder abgeschlossen ist und ob ein Schlüssel von innen steckt. So wissen wir vor der Anfahrt, welches Werkzeug wir brauchen.\n\nVor Ort prüfen wir Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst. Dann öffnen wir mit Spezialwerkzeug, in über 90 Prozent der Fälle ohne Schaden an Tür oder Schloss.\n\nKeinen Ausweis dabei? Dann zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich. Die Einzelheiten stehen in unseren AGB.")
         o.add(ptx, val, snap, "ablauf text")
     for sec in o.S.get("Bewertungen", []):
         for h in find_atoms(sec, "header"):

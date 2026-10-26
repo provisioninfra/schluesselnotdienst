@@ -59,15 +59,13 @@ img{max-width:100%;height:auto}
 /* Mobile Feinschliff */
 @media (max-width:700px){
   .con-kit-section.header .con-kit-row{margin:8px 10px 0;padding:4px 10px}
-  .con-kit-section.hero h1{font-size:clamp(26px,7.6vw,40px)!important;line-height:1.1!important}
-  .con-kit-section.hero h2{font-size:clamp(18px,5vw,24px)!important}
   .con-kit-section.layout#main-content [data-molecule][data-kit-frame=solid]{border-radius:16px}
 }
 
 /* Startseiten-Hero: Text links, Foto rechts durchscheinend */
 .con-kit-section.hero [data-molecule]{text-align:left}
 @media (min-width:701px){.con-kit-section.hero .con-kit-organism-background1{background-image:linear-gradient(90deg,rgba(1,13,48,.6) 0%,rgba(1,13,48,.3) 55%,rgba(1,13,48,0) 100%)}}
-.con-kit-section.hero h1{max-width:none;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:normal;word-break:normal}
+.con-kit-section.hero h1,.con-kit-section.hero .con-kit-component-header .con-kit-quark-h1{max-width:none;hyphens:manual!important;-webkit-hyphens:manual!important;overflow-wrap:normal!important;word-break:normal!important}
 .con-kit-section.hero h2{max-width:34ch;font-weight:400!important}
 .con-kit-section.hero .con-kit-component-link-group{justify-content:flex-start}
 @media (max-width:700px){.con-kit-section.hero h1{max-width:none}.con-kit-section.hero h2{max-width:none}}
@@ -78,9 +76,24 @@ img{max-width:100%;height:auto}
   .con-kit-section .pvi-prices .pvi-price{flex:none;width:auto;min-width:0}
 }
 
-/* Mobiles Menü (Burger-Overlay) im dunklen Design */
-.con-kit-component-burger-menu__background{background:#010D30!important}
-.con-kit-component-burger-menu{--color-text:255,255,255!important;color:#fff!important}
-.con-kit-component-burger-menu .con-kit-atom-menu-v2-item-inside__title{color:#fff!important}
-.con-kit-component-burger-menu .con-kit-component-icon,.con-kit-component-burger-menu .con-kit-link-button{--color-text:255,255,255!important;color:#fff!important}
-.con-kit-component-burger-menu .con-kit-atom-menu-v2-item-inside__title:hover{color:#FBC91B!important}
+/* Mobiles Menü (Burger-Overlay): hell, Navy-Schrift, Logo in Navy mit gelbem V */
+.con-kit-component-burger-menu__background{background:#fff!important}
+.con-kit-component-burger-menu{--color-text:1,13,48!important;color:#010D30!important}
+.con-kit-component-burger-menu .con-kit-atom-menu-v2-item-inside__title{color:#010D30!important}
+.con-kit-component-burger-menu .con-kit-atom-menu-v2-item-inside--active .con-kit-atom-menu-v2-item-inside__title,.con-kit-component-burger-menu .con-kit-atom-menu-v2-item-inside__title:hover{color:#263E96!important}
+.con-kit-component-burger-menu .con-kit-component-icon,.con-kit-component-burger-menu .con-kit-link-button,.con-kit-component-burger-menu__close{--color-text:1,13,48!important;color:#010D30!important}
+.con-kit-component-burger-menu__logo .con-kit-component-logo{width:auto!important;height:40px!important}
+.con-kit-component-burger-menu__logo .con-kit-fade-box{width:172px!important;height:40px!important;overflow:visible!important;background:url(https://onecdn.io/media/ae66b2c7-b5d6-4095-aabf-40c090d6a9d4/md2x) left center/contain no-repeat}
+.con-kit-component-burger-menu__logo .con-kit-component-logo__image{opacity:0!important}
+
+/* Hero mobil: Überschrift deutlich größer als die Unterzeile (OnePage setzt Größen mit Attribut-Selektoren, daher höhere Spezifität) */
+@media (max-width:768px){
+  .con-kit-section.hero .con-kit-component-header .con-kit-quark-h1,.con-kit-section.hero .con-kit-component-header .con-kit-quark-h1[data-font-kit-type]{font-size:clamp(28px,7.4vw,40px)!important;line-height:1.12!important}
+  .con-kit-section.hero .con-kit-component-header .con-kit-quark-h2,.con-kit-section.hero .con-kit-component-header .con-kit-quark-h2[data-font-kit-type]{font-size:clamp(17px,4.6vw,22px)!important;line-height:1.45!important;font-weight:400!important}
+}
+/* Partnerlogos: Breite folgt dem Seitenverhältnis bei fester Höhe, kein Zuschnitt */
+.con-kit-section.unsere-partner .con-kit-component-marquee-gallery-item .con-kit-component-image{width:auto!important;height:var(--one-kit-image-height,52px)!important}
+.con-kit-section.unsere-partner .con-kit-component-marquee-gallery-item .con-kit-fade-box{width:auto!important;height:var(--one-kit-image-height,52px)!important;overflow:visible!important}
+.con-kit-section.unsere-partner .con-kit-component-marquee-gallery-item .con-kit-component-image__background{position:static!important;width:auto!important;height:var(--one-kit-image-height,52px)!important;max-width:none!important;object-fit:contain!important}
+.con-kit-section.unsere-partner .con-kit-component-marquee-gallery-item .con-kit-fade-box > *:not(.con-kit-component-image__background){display:none!important}
+@media (max-width:700px){.con-kit-section.unsere-partner .con-kit-component-marquee-gallery{--one-kit-image-height:44px!important}}

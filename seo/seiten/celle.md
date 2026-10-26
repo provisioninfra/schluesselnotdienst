@@ -1,82 +1,78 @@
-# Celle – SEO-Inhalte für `/celle`
+# Celle: SEO-Inhalte für `/celle`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `celle` | |
-| Seitentitel (Page Title) | Schlüsseldienst Celle: 24h Notdienst zum Festpreis | 50 |
-| Beschreibung (Description) | Schlüsseldienst Celle: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 60 Minuten bei Dir. ☎ 05821 4049049 | 128 |
-| Keywords | Schlüsseldienst Celle, Schlüsselnotdienst Celle, Türöffnung Celle, Schlüsseldienst Celle 24h, Aufsperrdienst Celle, Schlüsseldienst Celle Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Celle“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `celle` | |
+| Seitentitel | Schlüsseldienst in Celle: Festpreis 260 €, rund um die Uhr | 58 |
+| Beschreibung | Schlüsseldienst Celle: Türöffnung für 260 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 60 Minuten bei Dir. ☎ 05821 4049049 | 140 |
+| Keywords | Schlüsseldienst Celle, Schlüsselnotdienst Celle, Türöffnung Celle, Schlüsseldienst Celle 24h, Aufsperrdienst Celle, Schlüsseldienst Celle Kosten, Autoöffnung Celle | |
+| Preis Türöffnung | 260 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Celle: Notdienst rund um die Uhr zum Festpreis
+Schlüsseldienst für Celle: 24 Stunden erreichbar, Festpreis vorab
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Celle & Umgebung · fair · transparent · in ca. 60 Min. vor Ort · ☎ 05821 4049049
+### H2
+Dein Schlüsselnotdienst für Celle und Umgebung
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Türöffnung in Celle und Umgebung / Festpreis 260 € inkl. Anfahrt, in etwa 60 Minuten bei Dir / ohne Schaden an Tür und Schloss, zum vorher genannten Preis
 
-### Einleitung (direkt unter der H1)
-Ausgesperrt in Celle? Das lässt sich schnell lösen. Der ProVision Infra Schlüsselnotdienst erreicht Celle von Bad Bevensen aus in rund 60 Minuten und öffnet Deine Tür in den meisten Fällen ohne jeden Schaden. Den Preis kennst Du vorher, einen Aufschlag für die Anfahrt gibt es nicht.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Celle – aus der Region, für die Region
-Celle liegt am südlichen Rand unseres Einsatzgebiets. Wir fahren über die B191 und planen rund eine Stunde ein. Den Festpreis inklusive Anfahrt nennen wir Dir vorher am Telefon. Wir kommen in alle Stadt- und Ortsteile, darunter Altstadt, Neuenhäusen, Klein Hehlen, Westercelle, Altencelle, Vorwerk, Wietzenbruch, Garßen und Groß Hehlen. Im Fahrzeug haben wir das komplette Werkzeug und gängige Profilzylinder dabei. Die meisten Aufträge in Celle erledigen wir deshalb in einem Termin.
+- **Rund um die Uhr erreichbar**: Tag und Nacht, auch an Feiertagen. Festpreis am Telefon, bevor wir losfahren. In Celle meist nach etwa 60 Minuten vor Ort.
+- **Feste Preise ohne Überraschungen**: Keine Anfahrtskosten und keine Pauschale für schwierige Türen. Material kommt nur dazu, wenn Du es vorher freigibst.
+- **Bezahlen, wie es Dir passt**: Karte, PayPal oder bar, ganz wie Du möchtest. Firmen zahlen auf Rechnung. Die Quittung bekommst Du sofort.
 
-### H2: Unsere Leistungen in Celle
+### Abschnittstitel
+Was Du über den Schlüsseldienst in Celle wissen solltest
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Celle, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Celle schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Celle: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+Wer in Celle vor verschlossener Tür steht, erreicht uns rund um die Uhr. Der ProVision Infra Schlüsselnotdienst kommt aus Bad Bevensen und ist nach etwa 60 Minuten vor Ort, zum vorher genannten Festpreis.
 
-### H2: Was kostet der Schlüsseldienst in Celle?
-Festpreis am Telefon, Anfahrt nach Celle inklusive, Zuschlag für Nacht, Wochenende und Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit, bar, mit Karte oder per PayPal; Geschäftskunden auch auf Rechnung. Konkret: Die Türöffnung in Celle kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Celle liegt am südlichen Rand unseres Einsatzgebiets. Wir fahren über die B191 und planen rund eine Stunde ein. Den Festpreis inklusive Anfahrt nennen wir Dir vorher am Telefon. Ob Altstadt, Neuenhäusen, Klein Hehlen, Westercelle, Altencelle, Vorwerk, Wietzenbruch, Garßen und Groß Hehlen: Wir fahren jeden Ortsteil an. Im Fahrzeug haben wir Werkzeug und gängige Profilzylinder dabei, deshalb erledigen wir die meisten Aufträge in Celle in einem Termin.
 
-### H2: So läuft Deine Türöffnung in Celle ab
+### Was kostet der Schlüsseldienst in Celle?
+Was eine Türöffnung in Celle kostet, hängt von Uhrzeit und Entfernung ab, nicht von der Dauer des Einsatzes. Der Preis steht vor der Anfahrt fest und ändert sich vor Ort nicht. In Zahlen: 260 € für die Türöffnung in Celle an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Außerhalb dieser Zeiten und an Feiertagen sind es 54 € mehr. Der Austausch eines Profilzylinders kostet ab 60 € plus Material.
 
-1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
-2. **Anfahrt:** Wir fahren sofort los. Nach etwa 60 Minuten sind wir in Celle.
-3. **Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.
-4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
-5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
+### So läuft der Einsatz in Celle ab
 
-### H2: Deine Vorteile auf einen Blick
+1. **Du rufst an:** 05821 4049049, Tag und Nacht.
+2. **Wir fahren los:** von Bad Bevensen nach Celle, etwa 60 Minuten.
+3. **Wir prüfen die Berechtigung:** Ausweis, Mietvertrag oder ein anderer Nachweis.
+4. **Wir öffnen:** mit Spezialwerkzeug, in über 90 Prozent der Fälle ohne Schaden.
+5. **Du zahlst den genannten Preis:** bar, mit Karte oder per PayPal.
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+### Leistungen vor Ort in Celle
 
-### H2: Häufige Fragen zum Schlüsseldienst in Celle
+- **Türöffnung**: Zugefallene oder abgeschlossene Türen in Celle öffnen wir zum Festpreis, in der Regel ohne Schaden am Schloss.
+- **Fensteröffnung**: Fenster und Balkontüren, die zugefallen sind oder gekippt stehen, öffnen wir schonend.
+- **Fahrzeugöffnung**: Schlüssel im Auto? Pkw und Transporter öffnen wir in Celle ohne Kratzer.
+- **Schließzylinder und Schlösser**: Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Gängige Zylinder haben wir vorrätig.
+- **Schließanlagen und Zutrittssysteme**: Mechanische Schließanlagen und elektronische Zutrittssysteme für Hausverwaltungen, Praxen und Unternehmen in Celle.
+- **Einbruchschutz**: Beratung bei Dir vor Ort in Celle: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
 
-**H3: Wie schnell ist der Schlüsseldienst in Celle vor Ort?**  
+### Fragen und Antworten für Celle
+
+**Wie schnell ist der Schlüsseldienst in Celle vor Ort?**  
 Von Bad Bevensen nach Celle brauchen wir in der Regel etwa 60 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
-**H3: Was kostet eine Türöffnung in Celle?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Was kostet eine Türöffnung in Celle?**  
+260 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher.
 
-**H3: Kann ich mit Karte oder PayPal bezahlen?**  
-Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen.
+**Wird meine Tür beim Öffnen beschädigt?**  
+In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
 
-**H3: Woran erkenne ich einen seriösen Schlüsseldienst in Celle?**  
-An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region.
+**Kann ich mit Karte oder PayPal bezahlen?**  
+Ja. Neben Bargeld nehmen wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden zahlen auf Wunsch per Rechnung.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
+**Was passiert, wenn der Zylinder getauscht werden muss?**  
+Dann besprechen wir das vorher mit Dir. Gängige Zylinder haben wir im Fahrzeug, der Einbau erfolgt direkt im selben Termin.
 
-### H2: Schlüsseldienst in der Nähe von Celle
-
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Auch in der Nähe von Celle im Einsatz
 
 - [Schlüsseldienst Eschede](https://schluesselnotdienst-baumann.de/eschede)
 - [Schlüsseldienst Faßberg](https://schluesselnotdienst-baumann.de/fassberg)
@@ -84,19 +80,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Bad Bodenteich](https://schluesselnotdienst-baumann.de/bad-bodenteich)
 - [Schlüsseldienst Suderburg](https://schluesselnotdienst-baumann.de/suderburg)
 - [Schlüsseldienst Uelzen](https://schluesselnotdienst-baumann.de/uelzen)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Als mobiler Schlüsselnotdienst aus Bad Bevensen (Klein Hesebecker Straße 11) sind wir täglich im Landkreis Uelzen, im Landkreis Lüneburg und im Wendland unterwegs, bei Bedarf bis Munster, Faßberg und Celle. Der Umkreis liegt bei etwa 80 km. Wähle Deinen Ort:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Celle“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Celle“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -104,10 +92,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/celle#service",
-  "name": "Schlüsseldienst Celle – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Celle: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/celle",
-  "description": "Schlüsseldienst Celle: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 60 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Celle: Türöffnung für 260 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 60 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -117,7 +105,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Celle",
-      "postalCode": "29221–29229",
+      "postalCode": "29221",
       "addressRegion": "Niedersachsen",
       "addressCountry": "DE"
     }
@@ -148,9 +136,9 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "offers": {
     "@type": "Offer",
     "name": "Türöffnung Celle zum Festpreis",
-    "price": "135",
+    "price": "260",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Celle"
   }
@@ -194,7 +182,15 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Celle?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
+        "text": "260 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wird meine Tür beim Öffnen beschädigt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."
       }
     },
     {
@@ -202,15 +198,15 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Kann ich mit Karte oder PayPal bezahlen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen."
+        "text": "Ja. Neben Bargeld nehmen wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden zahlen auf Wunsch per Rechnung."
       }
     },
     {
       "@type": "Question",
-      "name": "Woran erkenne ich einen seriösen Schlüsseldienst in Celle?",
+      "name": "Was passiert, wenn der Zylinder getauscht werden muss?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region."
+        "text": "Dann besprechen wir das vorher mit Dir. Gängige Zylinder haben wir im Fahrzeug, der Einbau erfolgt direkt im selben Termin."
       }
     }
   ]
@@ -218,8 +214,8 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/celle` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/celle → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/celle` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/celle
+3. Search Console: URL prüfen und Indexierung beantragen.

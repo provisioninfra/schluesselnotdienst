@@ -1,46 +1,44 @@
-# Dannenberg (Elbe) – SEO-Inhalte für `/dannenberg`
+# Dannenberg (Elbe): SEO-Inhalte für `/dannenberg`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `dannenberg` | |
-| Seitentitel (Page Title) | Schlüsseldienst Dannenberg: 24h Notdienst zum Festpreis | 55 |
-| Beschreibung (Description) | Schlüsseldienst Dannenberg: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 40 Minuten bei Dir. ☎ 05821 4049049 | 133 |
-| Keywords | Schlüsseldienst Dannenberg, Schlüsselnotdienst Dannenberg, Türöffnung Dannenberg, Schlüsseldienst Dannenberg 24h, Aufsperrdienst Dannenberg, Schlüsseldienst Dannenberg Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Dannenberg“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `dannenberg` | |
+| Seitentitel | Schlüsseldienst Dannenberg: 24h Notdienst zum Festpreis | 55 |
+| Beschreibung | Schlüsseldienst Dannenberg: Türöffnung für 169 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 40 Minuten bei Dir. ☎ 05821 4049049 | 145 |
+| Keywords | Schlüsseldienst Dannenberg, Schlüsselnotdienst Dannenberg, Türöffnung Dannenberg, Schlüsseldienst Dannenberg 24h, Aufsperrdienst Dannenberg, Schlüsseldienst Dannenberg Kosten, Autoöffnung Dannenberg | |
+| Preis Türöffnung | 169 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Dannenberg: Notdienst rund um die Uhr zum Festpreis
+Schlüsseldienst für Dannenberg: 24 Stunden erreichbar, Festpreis vorab
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Dannenberg & Umgebung · fair · transparent · in ca. 40 Min. vor Ort · ☎ 05821 4049049
+### H2
+Dein Schlüsselnotdienst für Dannenberg und Umgebung
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Schlüsselnotdienst für Dannenberg / Türöffnung zum Festpreis von 169 €, Anfahrt inklusive / nach etwa 40 Minuten vor Ort, Preis vorher zugesagt
 
-### Einleitung (direkt unter der H1)
-In Dannenberg und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Der Betrieb sitzt in Bad Bevensen im Landkreis Uelzen. Der Festpreis steht vor der Anfahrt fest, und nach etwa 40 Minuten stehen wir vor Deiner Tür.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Dannenberg – aus der Region, für die Region
+- **Rund um die Uhr erreichbar**: Tag und Nacht, auch an Feiertagen. Festpreis am Telefon, bevor wir losfahren. In Dannenberg meist nach etwa 40 Minuten vor Ort.
+- **Feste Preise ohne Überraschungen**: Ein Preis, am Telefon genannt und vor Ort eingehalten. Zuschläge gibt es nur nachts und am Wochenende, und die kennst Du vorher.
+- **Bezahlen, wie es Dir passt**: Bar, EC- oder Kreditkarte, PayPal. Geschäftskunden auf Wunsch per Rechnung. Eine Quittung oder Rechnung gibt es immer.
+
+### Abschnittstitel
+Alles Wichtige für Dannenberg: Preise, Ablauf, Antworten und Einsatzgebiet
+
+### Einleitung
+Schlüssel verloren oder Tür zugefallen? Für Dannenberg ist der ProVision Infra Schlüsselnotdienst aus Bad Bevensen zuständig. Festpreis 169 €, Anfahrt inklusive, Ankunft nach etwa 40 Minuten.
+
+### Lokal
 Dannenberg ist das Zentrum der Samtgemeinde Elbtalaue. Über die B216 sind wir in rund 40 Minuten bei Dir, auch in den umliegenden Dörfern. Unser Einsatzfahrzeug ist so bestückt, dass wir in Dannenberg eine Tür öffnen und bei Bedarf gleich einen neuen Zylinder einbauen können.
 
-### H2: Unsere Leistungen in Dannenberg
+### Was kostet der Schlüsseldienst in Dannenberg?
+Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unteren dreistelligen Bereich für angemessen. In diesem Rahmen liegen wir in Dannenberg. Getrennte Anfahrtskosten oder Aufschläge für schwierige Öffnungen gibt es nicht. Konkret: Die Türöffnung in Dannenberg kostet montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, ein neuer Profilzylinder beginnt bei 60 € zuzüglich Material.
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Dannenberg, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Dannenberg schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Dannenberg: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
-
-### H2: Was kostet der Schlüsseldienst in Dannenberg?
-Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unteren dreistelligen Bereich für angemessen. In diesem Rahmen bewegen wir uns in Dannenberg. Den konkreten Preis erfährst Du vor der Auftragserteilung. Es gibt keine getrennten Anfahrtskosten und keinen Aufschlag für schwierige Öffnungen. Barzahlung ist keine Pflicht, Karte und PayPal gehen genauso. Konkret: Die Türöffnung in Dannenberg kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
-
-### H2: So läuft Deine Türöffnung in Dannenberg ab
+### So läuft der Einsatz in Dannenberg ab
 
 1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
 2. **Anfahrt:** Wir fahren sofort los. Nach etwa 40 Minuten sind wir in Dannenberg.
@@ -48,35 +46,33 @@ Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unte
 4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
 5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
 
-### H2: Deine Vorteile auf einen Blick
+### Das machen wir in Dannenberg
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+- **Türöffnung**: Zugefallene oder abgeschlossene Türen in Dannenberg öffnen wir zum Festpreis, in der Regel ohne Schaden am Schloss.
+- **Fensteröffnung**: Fenster und Balkontüren, die zugefallen sind oder gekippt stehen, öffnen wir schonend.
+- **Fahrzeugöffnung**: Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Dannenberg schonend.
+- **Schließzylinder und Schlösser**: Neue Profilzylinder, Sicherheitszylinder mit Sicherungskarte und Reparaturen am Schloss, meist direkt im ersten Termin.
+- **Schließanlagen und Zutrittssysteme**: Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, etwa von SimonsVoss oder EVVA, für Mehrfamilienhäuser und Betriebe.
+- **Einbruchschutz**: Wir zeigen Dir, wo Deine Tür oder Dein Fenster in Dannenberg angreifbar ist, und rüsten mit Beschlägen oder Zusatzschlössern nach.
 
-### H2: Häufige Fragen zum Schlüsseldienst in Dannenberg
+### Häufige Fragen zum Schlüsseldienst in Dannenberg
 
-**H3: Wie schnell ist der Schlüsseldienst in Dannenberg vor Ort?**  
+**Wie schnell ist der Schlüsseldienst in Dannenberg vor Ort?**  
 Von Bad Bevensen nach Dannenberg brauchen wir in der Regel etwa 40 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
-**H3: Was kostet eine Türöffnung in Dannenberg?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Was kostet eine Türöffnung in Dannenberg?**  
+169 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher.
 
-**H3: Wird meine Tür beim Öffnen beschädigt?**  
+**Muss ich mich ausweisen?**  
+Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich.
+
+**Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?**  
+Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit.
+
+**Wird meine Tür beim Öffnen beschädigt?**  
 In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
 
-**H3: Ist der Schlüsselnotdienst in Dannenberg auch nachts und am Wochenende erreichbar?**  
-Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049.
-
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
-
-### H2: Schlüsseldienst in der Nähe von Dannenberg
-
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Schlüsseldienst in der Nähe von Dannenberg
 
 - [Schlüsseldienst Hitzacker (Elbe)](https://schluesselnotdienst-baumann.de/hitzacker)
 - [Schlüsseldienst Zernien](https://schluesselnotdienst-baumann.de/zernien)
@@ -84,19 +80,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Dahlenburg](https://schluesselnotdienst-baumann.de/dahlenburg)
 - [Schlüsseldienst Himbergen](https://schluesselnotdienst-baumann.de/himbergen)
 - [Schlüsseldienst Bleckede](https://schluesselnotdienst-baumann.de/bleckede)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Rund 80 Kilometer um Bad Bevensen sind wir im Einsatz, von Lüneburg bis Celle und von Munster bis ins Wendland. Jeder Ort hat eine eigene Seite mit Festpreis und Anfahrtszeit:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Dannenberg“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Dannenberg“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -104,10 +92,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/dannenberg#service",
-  "name": "Schlüsseldienst Dannenberg – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Dannenberg: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/dannenberg",
-  "description": "Schlüsseldienst Dannenberg: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 40 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Dannenberg: Türöffnung für 169 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 40 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -148,9 +136,9 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "offers": {
     "@type": "Offer",
     "name": "Türöffnung Dannenberg zum Festpreis",
-    "price": "135",
+    "price": "169",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Dannenberg"
   }
@@ -194,7 +182,23 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Dannenberg?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
+        "text": "169 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Muss ich mich ausweisen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit."
       }
     },
     {
@@ -204,22 +208,14 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
         "@type": "Answer",
         "text": "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."
       }
-    },
-    {
-      "@type": "Question",
-      "name": "Ist der Schlüsselnotdienst in Dannenberg auch nachts und am Wochenende erreichbar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049."
-      }
     }
   ]
 }
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/dannenberg` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/dannenberg → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/dannenberg` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/dannenberg
+3. Search Console: URL prüfen und Indexierung beantragen.

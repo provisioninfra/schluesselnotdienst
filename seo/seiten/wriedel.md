@@ -1,46 +1,44 @@
-# Wriedel – SEO-Inhalte für `/wriedel`
+# Wriedel: SEO-Inhalte für `/wriedel`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `wriedel` | |
-| Seitentitel (Page Title) | Schlüsseldienst Wriedel: 24h Notdienst zum Festpreis | 52 |
-| Beschreibung (Description) | Schlüsseldienst Wriedel: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 22 Minuten bei Dir. ☎ 05821 4049049 | 130 |
-| Keywords | Schlüsseldienst Wriedel, Schlüsselnotdienst Wriedel, Türöffnung Wriedel, Schlüsseldienst Wriedel 24h, Aufsperrdienst Wriedel, Schlüsseldienst Wriedel Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Wriedel“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `wriedel` | |
+| Seitentitel | Schlüsseldienst Wriedel: 24h Notdienst zum Festpreis | 52 |
+| Beschreibung | Schlüsselnotdienst für Wriedel und Umgebung: Türöffnung zum Festpreis von 135 €, 24 Stunden erreichbar, in etwa 22 Minuten vor Ort. ☎ 05821 4049049 | 147 |
+| Keywords | Schlüsseldienst Wriedel, Schlüsselnotdienst Wriedel, Türöffnung Wriedel, Schlüsseldienst Wriedel 24h, Aufsperrdienst Wriedel, Schlüsseldienst Wriedel Kosten, Autoöffnung Wriedel | |
+| Preis Türöffnung | 135 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Wriedel: Notdienst rund um die Uhr zum Festpreis
+Schlüsseldienst für Wriedel: 24 Stunden erreichbar, Festpreis vorab
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Wriedel & Umgebung · fair · transparent · in ca. 22 Min. vor Ort · ☎ 05821 4049049
+### H2
+ProVision Infra Schlüsselnotdienst in Wriedel
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Ausgesperrt in Wriedel? Wir kommen. / 135 € Festpreis inklusive Anfahrt, Ankunft in rund 22 Minuten / Öffnung in der Regel ohne Schaden, Preis vorab am Telefon
 
-### Einleitung (direkt unter der H1)
-Ausgesperrt in Wriedel? Das lässt sich schnell lösen. Der ProVision Infra Schlüsselnotdienst erreicht Wriedel von Bad Bevensen aus in rund 22 Minuten und öffnet Deine Tür in den meisten Fällen ohne jeden Schaden. Den Preis kennst Du vorher, einen Aufschlag für die Anfahrt gibt es nicht.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Wriedel – aus der Region, für die Region
-Wriedel mit Brambostel, Schatensen und Wettenbostel liegt westlich von Ebstorf. Wir sind in gut 20 Minuten bei Dir. Wir kommen in alle Stadt- und Ortsteile, darunter Brambostel, Schatensen und Wettenbostel. Weil wir aus der Region kommen, kennen wir die Wege nach Wriedel. Das spart Zeit, wenn es eilt.
+- **Rund um die Uhr erreichbar**: Wochenende, Feiertag oder mitten in der Nacht: Wir gehen ran. Ankunft in Wriedel nach rund 22 Minuten. Festpreis vorab.
+- **Feste Preise ohne Überraschungen**: Keine Anfahrtskosten und keine Pauschale für schwierige Türen. Material kommt nur dazu, wenn Du es vorher freigibst.
+- **Bezahlen, wie es Dir passt**: Wir nehmen Bargeld, Karte und PayPal. Für Unternehmen stellen wir eine Rechnung aus. Einen Beleg gibt es in jedem Fall.
 
-### H2: Unsere Leistungen in Wriedel
+### Abschnittstitel
+Was Du über den Schlüsseldienst in Wriedel wissen solltest
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Wriedel, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Wriedel schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Wriedel: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+Wer in Wriedel vor verschlossener Tür steht, erreicht uns rund um die Uhr. Der ProVision Infra Schlüsselnotdienst kommt aus Bad Bevensen und ist nach etwa 22 Minuten vor Ort, zum vorher genannten Festpreis.
 
-### H2: Was kostet der Schlüsseldienst in Wriedel?
-Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unteren dreistelligen Bereich für angemessen. In diesem Rahmen bewegen wir uns in Wriedel. Den konkreten Preis erfährst Du vor der Auftragserteilung. Es gibt keine getrennten Anfahrtskosten und keinen Aufschlag für schwierige Öffnungen. Barzahlung ist keine Pflicht, Karte und PayPal gehen genauso. Konkret: Die Türöffnung in Wriedel kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Wriedel mit Brambostel, Schatensen und Wettenbostel liegt westlich von Ebstorf. Wir sind in gut 20 Minuten bei Dir. Wir kommen aus der Region und kennen die Wege nach Wriedel. Das spart Zeit, wenn es eilt.
 
-### H2: So läuft Deine Türöffnung in Wriedel ab
+### Was kostet der Schlüsseldienst in Wriedel?
+Festpreis am Telefon, Anfahrt nach Wriedel inklusive, Zuschlag für Nacht und Wochenende vorher benannt. Du entscheidest erst, wenn Du den Preis kennst, und zahlst nach der Arbeit bar, mit Karte oder per PayPal. In Zahlen: 135 € für die Türöffnung in Wriedel an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Außerhalb dieser Zeiten und an Feiertagen sind es 54 € mehr. Der Austausch eines Profilzylinders kostet ab 60 € plus Material.
+
+### So läuft Deine Türöffnung in Wriedel ab
 
 1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
 2. **Anfahrt:** Wir fahren sofort los. Nach etwa 22 Minuten sind wir in Wriedel.
@@ -48,35 +46,33 @@ Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unte
 4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
 5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
 
-### H2: Deine Vorteile auf einen Blick
+### Leistungen vor Ort in Wriedel
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+- **Türöffnung**: Wohnungs-, Haus- und Zimmertüren in Wriedel, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt, Zuschlag nachts und am Wochenende vorher genannt.
+- **Fensteröffnung**: Fenster und Balkontüren, die zugefallen sind oder gekippt stehen, öffnen wir schonend.
+- **Fahrzeugöffnung**: Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Wriedel schonend.
+- **Schließzylinder und Schlösser**: Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Gängige Zylinder haben wir vorrätig.
+- **Schließanlagen und Zutrittssysteme**: Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, etwa von SimonsVoss oder EVVA, für Mehrfamilienhäuser und Betriebe.
+- **Einbruchschutz**: Beratung bei Dir vor Ort in Wriedel: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
 
-### H2: Häufige Fragen zum Schlüsseldienst in Wriedel
+### Häufige Fragen zum Schlüsseldienst in Wriedel
 
-**H3: Wie schnell ist der Schlüsseldienst in Wriedel vor Ort?**  
-Von Bad Bevensen nach Wriedel brauchen wir in der Regel etwa 22 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
+**Wie schnell ist der Schlüsseldienst in Wriedel vor Ort?**  
+Meist sind wir nach rund 22 Minuten in Wriedel. Nachts geht es oft schneller, weil die Straßen frei sind.
 
-**H3: Was kostet eine Türöffnung in Wriedel?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Was kostet eine Türöffnung in Wriedel?**  
+135 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher.
 
-**H3: Woran erkenne ich einen seriösen Schlüsseldienst in Wriedel?**  
-An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region.
-
-**H3: Wird meine Tür beim Öffnen beschädigt?**  
+**Wird meine Tür beim Öffnen beschädigt?**  
 In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
+**Kann ich mit Karte oder PayPal bezahlen?**  
+Ja. Neben Bargeld nehmen wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden zahlen auf Wunsch per Rechnung.
 
-### H2: Schlüsseldienst in der Nähe von Wriedel
+**Was passiert, wenn der Zylinder getauscht werden muss?**  
+Dann besprechen wir das vorher mit Dir. Gängige Zylinder haben wir im Fahrzeug, der Einbau erfolgt direkt im selben Termin.
 
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Schlüsseldienst in der Nähe von Wriedel
 
 - [Schlüsseldienst Ebstorf](https://schluesselnotdienst-baumann.de/ebstorf)
 - [Schlüsseldienst Munster](https://schluesselnotdienst-baumann.de/munster)
@@ -84,19 +80,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Suderburg](https://schluesselnotdienst-baumann.de/suderburg)
 - [Schlüsseldienst Bad Bevensen](https://schluesselnotdienst-baumann.de/bad-bevensen)
 - [Schlüsseldienst Uelzen](https://schluesselnotdienst-baumann.de/uelzen)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Rund 80 Kilometer um Bad Bevensen sind wir im Einsatz, von Lüneburg bis Celle und von Munster bis ins Wendland. Jeder Ort hat eine eigene Seite mit Festpreis und Anfahrtszeit:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Wriedel“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Wriedel“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -104,10 +92,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/wriedel#service",
-  "name": "Schlüsseldienst Wriedel – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Wriedel: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/wriedel",
-  "description": "Schlüsseldienst Wriedel: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 22 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsselnotdienst für Wriedel und Umgebung: Türöffnung zum Festpreis von 135 €, 24 Stunden erreichbar, in etwa 22 Minuten vor Ort. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -150,7 +138,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
     "name": "Türöffnung Wriedel zum Festpreis",
     "price": "135",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Wriedel"
   }
@@ -186,7 +174,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Wie schnell ist der Schlüsseldienst in Wriedel vor Ort?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Von Bad Bevensen nach Wriedel brauchen wir in der Regel etwa 22 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."
+        "text": "Meist sind wir nach rund 22 Minuten in Wriedel. Nachts geht es oft schneller, weil die Straßen frei sind."
       }
     },
     {
@@ -194,15 +182,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Wriedel?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Woran erkenne ich einen seriösen Schlüsseldienst in Wriedel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region."
+        "text": "135 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher."
       }
     },
     {
@@ -212,14 +192,30 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
         "@type": "Answer",
         "text": "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Kann ich mit Karte oder PayPal bezahlen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Neben Bargeld nehmen wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden zahlen auf Wunsch per Rechnung."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was passiert, wenn der Zylinder getauscht werden muss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dann besprechen wir das vorher mit Dir. Gängige Zylinder haben wir im Fahrzeug, der Einbau erfolgt direkt im selben Termin."
+      }
     }
   ]
 }
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/wriedel` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/wriedel → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/wriedel` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/wriedel
+3. Search Console: URL prüfen und Indexierung beantragen.

@@ -1,85 +1,77 @@
-# Barendorf – SEO-Inhalte für `/barendorf`
+# Barendorf: SEO-Inhalte für `/barendorf`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `barendorf` | |
-| Seitentitel (Page Title) | Schlüsseldienst Barendorf: 24h Notdienst zum Festpreis | 54 |
-| Beschreibung (Description) | Schlüsseldienst Barendorf: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 25 Minuten bei Dir. ☎ 05821 4049049 | 132 |
-| Keywords | Schlüsseldienst Barendorf, Schlüsselnotdienst Barendorf, Türöffnung Barendorf, Schlüsseldienst Barendorf 24h, Aufsperrdienst Barendorf, Schlüsseldienst Barendorf Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Barendorf“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `barendorf` | |
+| Seitentitel | Schlüsselnotdienst Barendorf: Türöffnung zum Festpreis | 54 |
+| Beschreibung | Tür zu in Barendorf? Der ProVision Infra Schlüsselnotdienst kommt in rund 25 Minuten und öffnet zum Festpreis von 169 €, Anfahrt inklusive. ☎ 05821 4049049 | 155 |
+| Keywords | Schlüsseldienst Barendorf, Schlüsselnotdienst Barendorf, Türöffnung Barendorf, Schlüsseldienst Barendorf 24h, Aufsperrdienst Barendorf, Schlüsseldienst Barendorf Kosten, Autoöffnung Barendorf | |
+| Preis Türöffnung | 169 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Barendorf: Notdienst rund um die Uhr zum Festpreis
+Schlüsselnotdienst Barendorf: schnell vor Ort, Preis vorab
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Barendorf & Umgebung · fair · transparent · in ca. 25 Min. vor Ort · ☎ 05821 4049049
+### H2
+Dein Schlüsselnotdienst für Barendorf und Umgebung
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Schlüsselnotdienst für Barendorf / Türöffnung zum Festpreis von 169 €, Anfahrt inklusive / nach etwa 25 Minuten vor Ort, Preis vorher zugesagt
 
-### Einleitung (direkt unter der H1)
-Die Tür ist zu und der Schlüssel liegt drinnen? In Barendorf hilft der ProVision Infra Schlüsselnotdienst aus Bad Bevensen. Wir sind Tag und Nacht erreichbar und brauchen bis zu Dir etwa 25 Minuten. Was die Öffnung kostet, sagen wir Dir am Telefon, bevor wir losfahren.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Barendorf – aus der Region, für die Region
-Barendorf und die Samtgemeinde Ostheide östlich von Lüneburg an der B216 erreichen wir in rund 25 Minuten, ebenso Vastorf, Wendisch Evern, Reinstorf und Thomasburg. Unser Einsatzfahrzeug ist so bestückt, dass wir in Barendorf eine Tür öffnen und bei Bedarf gleich einen neuen Zylinder einbauen können.
+- **Rund um die Uhr erreichbar**: Anruf genügt, zu jeder Uhrzeit. Nach etwa 25 Minuten sind wir in Barendorf. Den Preis kennst Du vorher.
+- **Feste Preise ohne Überraschungen**: Ein Preis, am Telefon genannt und vor Ort eingehalten. Zuschläge gibt es nur nachts und am Wochenende, und die kennst Du vorher.
+- **Bezahlen, wie es Dir passt**: Wir nehmen Bargeld, Karte und PayPal. Für Unternehmen stellen wir eine Rechnung aus. Einen Beleg gibt es in jedem Fall.
 
-### H2: Unsere Leistungen in Barendorf
+### Abschnittstitel
+Was Du über den Schlüsseldienst in Barendorf wissen solltest
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Barendorf, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Barendorf schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Barendorf: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+Die Tür ist zu und der Schlüssel liegt drinnen? In Barendorf hilft der ProVision Infra Schlüsselnotdienst aus Bad Bevensen, Tag und Nacht. Bis zu Dir brauchen wir etwa 25 Minuten, den Preis nennen wir vor der Abfahrt.
 
-### H2: Was kostet der Schlüsseldienst in Barendorf?
-Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unteren dreistelligen Bereich für angemessen. In diesem Rahmen bewegen wir uns in Barendorf. Den konkreten Preis erfährst Du vor der Auftragserteilung. Es gibt keine getrennten Anfahrtskosten und keinen Aufschlag für schwierige Öffnungen. Barzahlung ist keine Pflicht, Karte und PayPal gehen genauso. Konkret: Die Türöffnung in Barendorf kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Barendorf und die Samtgemeinde Ostheide östlich von Lüneburg an der B216 erreichen wir in rund 25 Minuten, ebenso Vastorf, Wendisch Evern, Reinstorf und Thomasburg. Wir kommen aus der Region und kennen die Wege nach Barendorf. Das spart Zeit, wenn es eilt.
 
-### H2: So läuft Deine Türöffnung in Barendorf ab
+### Was kostet der Schlüsseldienst in Barendorf?
+Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unteren dreistelligen Bereich für angemessen. In diesem Rahmen liegen wir in Barendorf. Getrennte Anfahrtskosten oder Aufschläge für schwierige Öffnungen gibt es nicht. In Zahlen: 169 € für die Türöffnung in Barendorf an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Außerhalb dieser Zeiten und an Feiertagen sind es 54 € mehr. Der Austausch eines Profilzylinders kostet ab 60 € plus Material.
 
-1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
-2. **Anfahrt:** Wir fahren sofort los. Nach etwa 25 Minuten sind wir in Barendorf.
-3. **Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.
-4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
-5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
+### So läuft der Einsatz in Barendorf ab
 
-### H2: Deine Vorteile auf einen Blick
+1. **Anruf:** Du schilderst kurz, welche Tür betroffen ist. Wir nennen Preis und Ankunftszeit.
+2. **Anfahrt:** Nach etwa 25 Minuten sind wir in Barendorf.
+3. **Ausweis und Öffnung:** Du zeigst uns einen Nachweis, dann öffnen wir mit Spezialwerkzeug, meist ohne Schaden.
+4. **Bezahlung:** Bar, Karte oder PayPal, Quittung inklusive.
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+### Das machen wir in Barendorf
 
-### H2: Häufige Fragen zum Schlüsseldienst in Barendorf
+- **Türöffnung**: Zugefallene oder abgeschlossene Türen in Barendorf öffnen wir zum Festpreis, in der Regel ohne Schaden am Schloss.
+- **Fensteröffnung**: Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
+- **Fahrzeugöffnung**: Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Barendorf schonend.
+- **Schließzylinder und Schlösser**: Neue Profilzylinder, Sicherheitszylinder mit Sicherungskarte und Reparaturen am Schloss, meist direkt im ersten Termin.
+- **Schließanlagen und Zutrittssysteme**: Mechanische Schließanlagen und elektronische Zutrittssysteme für Hausverwaltungen, Praxen und Unternehmen in Barendorf.
+- **Einbruchschutz**: Wir zeigen Dir, wo Deine Tür oder Dein Fenster in Barendorf angreifbar ist, und rüsten mit Beschlägen oder Zusatzschlössern nach.
 
-**H3: Wie schnell ist der Schlüsseldienst in Barendorf vor Ort?**  
-Von Bad Bevensen nach Barendorf brauchen wir in der Regel etwa 25 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
+### Häufige Fragen zum Schlüsseldienst in Barendorf
 
-**H3: Was kostet eine Türöffnung in Barendorf?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Wie schnell ist der Schlüsseldienst in Barendorf vor Ort?**  
+Meist sind wir nach rund 25 Minuten in Barendorf. Nachts geht es oft schneller, weil die Straßen frei sind.
 
-**H3: Muss ich mich ausweisen?**  
-Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB.
+**Was kostet eine Türöffnung in Barendorf?**  
+169 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher.
 
-**H3: Kann ich mit Karte oder PayPal bezahlen?**  
-Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen.
+**Kann ich mit Karte oder PayPal bezahlen?**  
+Ja. Neben Bargeld nehmen wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden zahlen auf Wunsch per Rechnung.
 
-**H3: Woran erkenne ich einen seriösen Schlüsseldienst in Barendorf?**  
-An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region.
+**Was passiert, wenn der Zylinder getauscht werden muss?**  
+Dann besprechen wir das vorher mit Dir. Gängige Zylinder haben wir im Fahrzeug, der Einbau erfolgt direkt im selben Termin.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
+**Ist der Schlüsselnotdienst in Barendorf auch nachts und am Wochenende erreichbar?**  
+Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049.
 
-### H2: Schlüsseldienst in der Nähe von Barendorf
-
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Schlüsseldienst in der Nähe von Barendorf
 
 - [Schlüsseldienst Lüneburg](https://schluesselnotdienst-baumann.de/lueneburg)
 - [Schlüsseldienst Dahlenburg](https://schluesselnotdienst-baumann.de/dahlenburg)
@@ -87,19 +79,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Bleckede](https://schluesselnotdienst-baumann.de/bleckede)
 - [Schlüsseldienst Melbeck](https://schluesselnotdienst-baumann.de/melbeck)
 - [Schlüsseldienst Himbergen](https://schluesselnotdienst-baumann.de/himbergen)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Rund 80 Kilometer um Bad Bevensen sind wir im Einsatz, von Lüneburg bis Celle und von Munster bis ins Wendland. Jeder Ort hat eine eigene Seite mit Festpreis und Anfahrtszeit:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Barendorf“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Barendorf“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -107,10 +91,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/barendorf#service",
-  "name": "Schlüsseldienst Barendorf – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Barendorf: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/barendorf",
-  "description": "Schlüsseldienst Barendorf: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 25 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Tür zu in Barendorf? Der ProVision Infra Schlüsselnotdienst kommt in rund 25 Minuten und öffnet zum Festpreis von 169 €, Anfahrt inklusive. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -151,9 +135,9 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "offers": {
     "@type": "Offer",
     "name": "Türöffnung Barendorf zum Festpreis",
-    "price": "135",
+    "price": "169",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Barendorf"
   }
@@ -189,7 +173,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Wie schnell ist der Schlüsseldienst in Barendorf vor Ort?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Von Bad Bevensen nach Barendorf brauchen wir in der Regel etwa 25 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."
+        "text": "Meist sind wir nach rund 25 Minuten in Barendorf. Nachts geht es oft schneller, weil die Straßen frei sind."
       }
     },
     {
@@ -197,15 +181,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Barendorf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Muss ich mich ausweisen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB."
+        "text": "169 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher."
       }
     },
     {
@@ -213,15 +189,23 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Kann ich mit Karte oder PayPal bezahlen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen."
+        "text": "Ja. Neben Bargeld nehmen wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden zahlen auf Wunsch per Rechnung."
       }
     },
     {
       "@type": "Question",
-      "name": "Woran erkenne ich einen seriösen Schlüsseldienst in Barendorf?",
+      "name": "Was passiert, wenn der Zylinder getauscht werden muss?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region."
+        "text": "Dann besprechen wir das vorher mit Dir. Gängige Zylinder haben wir im Fahrzeug, der Einbau erfolgt direkt im selben Termin."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ist der Schlüsselnotdienst in Barendorf auch nachts und am Wochenende erreichbar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049."
       }
     }
   ]
@@ -229,8 +213,8 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/barendorf` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/barendorf → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/barendorf` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/barendorf
+3. Search Console: URL prüfen und Indexierung beantragen.

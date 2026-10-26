@@ -1,46 +1,44 @@
-# Hitzacker (Elbe) – SEO-Inhalte für `/hitzacker`
+# Hitzacker (Elbe): SEO-Inhalte für `/hitzacker`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `hitzacker` | |
-| Seitentitel (Page Title) | Schlüsseldienst Hitzacker: 24h Notdienst zum Festpreis | 54 |
-| Beschreibung (Description) | Schlüsseldienst Hitzacker: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 40 Minuten bei Dir. ☎ 05821 4049049 | 132 |
-| Keywords | Schlüsseldienst Hitzacker, Schlüsselnotdienst Hitzacker, Türöffnung Hitzacker, Schlüsseldienst Hitzacker 24h, Aufsperrdienst Hitzacker, Schlüsseldienst Hitzacker Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Hitzacker“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `hitzacker` | |
+| Seitentitel | Schlüsseldienst Hitzacker: 24h Notdienst zum Festpreis | 54 |
+| Beschreibung | Schlüsseldienst Hitzacker: Türöffnung für 169 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 40 Minuten bei Dir. ☎ 05821 4049049 | 144 |
+| Keywords | Schlüsseldienst Hitzacker, Schlüsselnotdienst Hitzacker, Türöffnung Hitzacker, Schlüsseldienst Hitzacker 24h, Aufsperrdienst Hitzacker, Schlüsseldienst Hitzacker Kosten, Autoöffnung Hitzacker | |
+| Preis Türöffnung | 169 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Hitzacker: Notdienst rund um die Uhr zum Festpreis
+Schlüsseldienst Hitzacker: Türöffnung zum Festpreis, Tag und Nacht
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Hitzacker & Umgebung · fair · transparent · in ca. 40 Min. vor Ort · ☎ 05821 4049049
+### H2
+Dein Schlüsselnotdienst für Hitzacker und Umgebung
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Ausgesperrt in Hitzacker? Wir kommen. / 169 € Festpreis inklusive Anfahrt, Ankunft in rund 40 Minuten / Öffnung in der Regel ohne Schaden, Preis vorab am Telefon
 
-### Einleitung (direkt unter der H1)
-Der Schlüsseldienst für Hitzacker (Stadt, Landkreis Lüchow-Dannenberg, Samtgemeinde Elbtalaue). Wenn die Tür zugefallen ist oder das Schloss klemmt, kommt der ProVision Infra Schlüsselnotdienst, auch nachts, am Wochenende und an Feiertagen. Von Bad Bevensen aus sind wir in rund 40 Minuten in Hitzacker. Geöffnet wird zum vorher genannten Festpreis, Anfahrtskosten gibt es nicht.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Hitzacker – aus der Region, für die Region
-Hitzacker mit seiner Altstadt-Insel zwischen Elbe und Jeetzel liegt rund 40 Minuten von Bad Bevensen entfernt. Auch Ferienwohnungen und Zweitwohnsitze schließen wir zuverlässig auf. Weil wir aus der Region kommen, kennen wir die Wege nach Hitzacker. Das spart Zeit, wenn es eilt.
+- **Rund um die Uhr erreichbar**: Wochenende, Feiertag oder mitten in der Nacht: Wir gehen ran. Ankunft in Hitzacker nach rund 40 Minuten. Festpreis vorab.
+- **Feste Preise ohne Überraschungen**: Anfahrt und Mehrwertsteuer sind im Preis enthalten. Material wie ein neuer Zylinder berechnen wir nur nach Absprache.
+- **Bezahlen, wie es Dir passt**: Bar, EC- oder Kreditkarte, PayPal. Geschäftskunden auf Wunsch per Rechnung. Eine Quittung oder Rechnung gibt es immer.
 
-### H2: Unsere Leistungen in Hitzacker
+### Abschnittstitel
+Schlüsseldienst Hitzacker: Preise, Ablauf und Antworten
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Hitzacker, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Hitzacker schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Hitzacker: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+Der Schlüsseldienst für Hitzacker (Stadt, Landkreis Lüchow-Dannenberg, Samtgemeinde Elbtalaue): Wenn die Tür zugefallen ist oder das Schloss klemmt, kommt der ProVision Infra Schlüsselnotdienst, auch nachts und am Wochenende. Von Bad Bevensen aus sind wir in rund 40 Minuten bei Dir.
 
-### H2: Was kostet der Schlüsseldienst in Hitzacker?
-Festpreis am Telefon, Anfahrt nach Hitzacker inklusive, Zuschlag für Nacht, Wochenende und Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit, bar, mit Karte oder per PayPal; Geschäftskunden auch auf Rechnung. Konkret: Die Türöffnung in Hitzacker kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Hitzacker mit seiner Altstadt-Insel zwischen Elbe und Jeetzel liegt rund 40 Minuten von Bad Bevensen entfernt. Auch Ferienwohnungen und Zweitwohnsitze schließen wir zuverlässig auf. Auch kleine Reparaturen am Schloss übernehmen wir direkt vor Ort in Hitzacker, ohne zweiten Termin.
 
-### H2: So läuft Deine Türöffnung in Hitzacker ab
+### Was kostet der Schlüsseldienst in Hitzacker?
+Festpreis am Telefon, Anfahrt nach Hitzacker inklusive, Zuschlag für Nacht und Wochenende vorher benannt. Du entscheidest erst, wenn Du den Preis kennst, und zahlst nach der Arbeit bar, mit Karte oder per PayPal. In Zahlen: 169 € für die Türöffnung in Hitzacker an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Außerhalb dieser Zeiten und an Feiertagen sind es 54 € mehr. Der Austausch eines Profilzylinders kostet ab 60 € plus Material.
+
+### So läuft Deine Türöffnung in Hitzacker ab
 
 1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
 2. **Anfahrt:** Wir fahren sofort los. Nach etwa 40 Minuten sind wir in Hitzacker.
@@ -48,38 +46,33 @@ Festpreis am Telefon, Anfahrt nach Hitzacker inklusive, Zuschlag für Nacht, Woc
 4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
 5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
 
-### H2: Deine Vorteile auf einen Blick
+### Das machen wir in Hitzacker
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+- **Türöffnung**: Zugefallene oder abgeschlossene Türen in Hitzacker öffnen wir zum Festpreis, in der Regel ohne Schaden am Schloss.
+- **Fensteröffnung**: Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
+- **Fahrzeugöffnung**: Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Hitzacker schonend.
+- **Schließzylinder und Schlösser**: Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Gängige Zylinder haben wir vorrätig.
+- **Schließanlagen und Zutrittssysteme**: Mechanische Schließanlagen und elektronische Zutrittssysteme für Hausverwaltungen, Praxen und Unternehmen in Hitzacker.
+- **Einbruchschutz**: Wir zeigen Dir, wo Deine Tür oder Dein Fenster in Hitzacker angreifbar ist, und rüsten mit Beschlägen oder Zusatzschlössern nach.
 
-### H2: Häufige Fragen zum Schlüsseldienst in Hitzacker
+### Fragen und Antworten für Hitzacker
 
-**H3: Wie schnell ist der Schlüsseldienst in Hitzacker vor Ort?**  
+**Wie schnell ist der Schlüsseldienst in Hitzacker vor Ort?**  
 Von Bad Bevensen nach Hitzacker brauchen wir in der Regel etwa 40 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
-**H3: Was kostet eine Türöffnung in Hitzacker?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Was kostet eine Türöffnung in Hitzacker?**  
+169 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher.
 
-**H3: Muss ich mich ausweisen?**  
-Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB.
+**Öffnet Ihr in Hitzacker auch Autos?**  
+Ja. Pkw und Transporter öffnen wir schonend, wenn der Schlüssel im Fahrzeug liegt. Der Preis entspricht der Türöffnung.
 
-**H3: Kann ich mit Karte oder PayPal bezahlen?**  
-Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen.
+**Muss ich mich ausweisen?**  
+Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich.
 
-**H3: Woran erkenne ich einen seriösen Schlüsseldienst in Hitzacker?**  
-An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region.
+**Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?**  
+Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
-
-### H2: Schlüsseldienst in der Nähe von Hitzacker
-
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Schlüsseldienst in der Nähe von Hitzacker
 
 - [Schlüsseldienst Dannenberg (Elbe)](https://schluesselnotdienst-baumann.de/dannenberg)
 - [Schlüsseldienst Bleckede](https://schluesselnotdienst-baumann.de/bleckede)
@@ -87,19 +80,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Dahlenburg](https://schluesselnotdienst-baumann.de/dahlenburg)
 - [Schlüsseldienst Lüchow (Wendland)](https://schluesselnotdienst-baumann.de/luechow)
 - [Schlüsseldienst Himbergen](https://schluesselnotdienst-baumann.de/himbergen)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Unser Standort ist Bad Bevensen. Von dort bedienen wir den Landkreis Uelzen, den Landkreis Lüneburg und den Landkreis Lüchow-Dannenberg sowie Teile des Heidekreises und des Landkreises Celle. Hier findest Du alle Orte mit Anfahrtszeit und Preis:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Hitzacker“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Hitzacker“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -107,10 +92,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/hitzacker#service",
-  "name": "Schlüsseldienst Hitzacker – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Hitzacker: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/hitzacker",
-  "description": "Schlüsseldienst Hitzacker: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 40 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Hitzacker: Türöffnung für 169 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 40 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -151,9 +136,9 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "offers": {
     "@type": "Offer",
     "name": "Türöffnung Hitzacker zum Festpreis",
-    "price": "135",
+    "price": "169",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Hitzacker"
   }
@@ -197,7 +182,15 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Hitzacker?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
+        "text": "169 € zum Festpreis an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Zu anderen Zeiten sind es 54 € mehr, auch das sagen wir Dir vorher."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Öffnet Ihr in Hitzacker auch Autos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Pkw und Transporter öffnen wir schonend, wenn der Schlüssel im Fahrzeug liegt. Der Preis entspricht der Türöffnung."
       }
     },
     {
@@ -205,23 +198,15 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Muss ich mich ausweisen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB."
+        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich."
       }
     },
     {
       "@type": "Question",
-      "name": "Kann ich mit Karte oder PayPal bezahlen?",
+      "name": "Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja. Neben Barzahlung akzeptieren wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden können auf Rechnung zahlen."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Woran erkenne ich einen seriösen Schlüsseldienst in Hitzacker?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region."
+        "text": "Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit."
       }
     }
   ]
@@ -229,8 +214,8 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/hitzacker` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/hitzacker → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/hitzacker` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/hitzacker
+3. Search Console: URL prüfen und Indexierung beantragen.

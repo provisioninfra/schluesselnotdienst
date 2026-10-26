@@ -1,82 +1,78 @@
-# Bleckede – SEO-Inhalte für `/bleckede`
+# Bleckede: SEO-Inhalte für `/bleckede`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `bleckede` | |
-| Seitentitel (Page Title) | Schlüsseldienst Bleckede: 24h Notdienst zum Festpreis | 53 |
-| Beschreibung (Description) | Schlüsseldienst Bleckede: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 40 Minuten bei Dir. ☎ 05821 4049049 | 131 |
-| Keywords | Schlüsseldienst Bleckede, Schlüsselnotdienst Bleckede, Türöffnung Bleckede, Schlüsseldienst Bleckede 24h, Aufsperrdienst Bleckede, Schlüsseldienst Bleckede Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Bleckede“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `bleckede` | |
+| Seitentitel | Schlüsseldienst Bleckede: Türöffnung ab 169 €, Tag und Nacht | 60 |
+| Beschreibung | Schlüsselnotdienst für Bleckede und Umgebung: Türöffnung zum Festpreis von 169 €, 24 Stunden erreichbar, in etwa 40 Minuten vor Ort. ☎ 05821 4049049 | 148 |
+| Keywords | Schlüsseldienst Bleckede, Schlüsselnotdienst Bleckede, Türöffnung Bleckede, Schlüsseldienst Bleckede 24h, Aufsperrdienst Bleckede, Schlüsseldienst Bleckede Kosten, Autoöffnung Bleckede | |
+| Preis Türöffnung | 169 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Bleckede: Notdienst rund um die Uhr zum Festpreis
+Schlüsselnotdienst Bleckede: schnell vor Ort, Preis vorab
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Bleckede & Umgebung · fair · transparent · in ca. 40 Min. vor Ort · ☎ 05821 4049049
+### H2
+ProVision Infra Schlüsselnotdienst für Bleckede
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Türöffnung in Bleckede und Umgebung / Festpreis 169 € inkl. Anfahrt, in etwa 40 Minuten bei Dir / ohne Schaden an Tür und Schloss, zum vorher genannten Preis
 
-### Einleitung (direkt unter der H1)
-Der Schlüsseldienst für Bleckede (Stadt, Landkreis Lüneburg). Wenn die Tür zugefallen ist oder das Schloss klemmt, kommt der ProVision Infra Schlüsselnotdienst, auch nachts, am Wochenende und an Feiertagen. Von Bad Bevensen aus sind wir in rund 40 Minuten in Bleckede. Geöffnet wird zum vorher genannten Festpreis, Anfahrtskosten gibt es nicht.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Bleckede – aus der Region, für die Region
-Bleckede an der Elbe mit seinen vielen Ortsteilen, von Alt Garge über Barskamp bis Radegast, erreichen wir in rund 40 Minuten. Wir kommen in alle Stadt- und Ortsteile, darunter Alt Garge, Barskamp, Brackede, Radegast, Breetze, Garlstorf, Göddingen, Karze und Walmsburg. Im Fahrzeug haben wir das komplette Werkzeug und gängige Profilzylinder dabei. Die meisten Aufträge in Bleckede erledigen wir deshalb in einem Termin.
+- **Rund um die Uhr erreichbar**: Wochenende, Feiertag oder mitten in der Nacht: Wir gehen ran. Ankunft in Bleckede nach rund 40 Minuten. Festpreis vorab.
+- **Feste Preise ohne Überraschungen**: Ein Preis, am Telefon genannt und vor Ort eingehalten. Zuschläge gibt es nur nachts und am Wochenende, und die kennst Du vorher.
+- **Bezahlen, wie es Dir passt**: Karte, PayPal oder bar, ganz wie Du möchtest. Firmen zahlen auf Rechnung. Die Quittung bekommst Du sofort.
 
-### H2: Unsere Leistungen in Bleckede
+### Abschnittstitel
+Türöffnung in Bleckede: Kosten, Ablauf und häufige Fragen
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Bleckede, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Bleckede schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Bleckede: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+Der Schlüsseldienst für Bleckede (Stadt, Landkreis Lüneburg): Wenn die Tür zugefallen ist oder das Schloss klemmt, kommt der ProVision Infra Schlüsselnotdienst, auch nachts und am Wochenende. Von Bad Bevensen aus sind wir in rund 40 Minuten bei Dir.
 
-### H2: Was kostet der Schlüsseldienst in Bleckede?
-Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unteren dreistelligen Bereich für angemessen. In diesem Rahmen bewegen wir uns in Bleckede. Den konkreten Preis erfährst Du vor der Auftragserteilung. Es gibt keine getrennten Anfahrtskosten und keinen Aufschlag für schwierige Öffnungen. Barzahlung ist keine Pflicht, Karte und PayPal gehen genauso. Konkret: Die Türöffnung in Bleckede kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Bleckede an der Elbe mit seinen vielen Ortsteilen, von Alt Garge über Barskamp bis Radegast, erreichen wir in rund 40 Minuten. Unser Einsatzfahrzeug ist so bestückt, dass wir in Bleckede eine Tür öffnen und bei Bedarf gleich einen neuen Zylinder einbauen können.
 
-### H2: So läuft Deine Türöffnung in Bleckede ab
+### Was kostet der Schlüsseldienst in Bleckede?
+Was eine Türöffnung in Bleckede kostet, hängt von Uhrzeit und Entfernung ab, nicht von der Dauer des Einsatzes. Der Preis steht vor der Anfahrt fest und ändert sich vor Ort nicht. In Zahlen: 169 € für die Türöffnung in Bleckede an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Außerhalb dieser Zeiten und an Feiertagen sind es 54 € mehr. Der Austausch eines Profilzylinders kostet ab 60 € plus Material.
 
-1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
-2. **Anfahrt:** Wir fahren sofort los. Nach etwa 40 Minuten sind wir in Bleckede.
-3. **Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.
-4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
-5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
+### Ablauf einer Türöffnung in Bleckede
 
-### H2: Deine Vorteile auf einen Blick
+1. **Du rufst an:** 05821 4049049, Tag und Nacht.
+2. **Wir fahren los:** von Bad Bevensen nach Bleckede, etwa 40 Minuten.
+3. **Wir prüfen die Berechtigung:** Ausweis, Mietvertrag oder ein anderer Nachweis.
+4. **Wir öffnen:** mit Spezialwerkzeug, in über 90 Prozent der Fälle ohne Schaden.
+5. **Du zahlst den genannten Preis:** bar, mit Karte oder per PayPal.
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+### Unsere Leistungen in Bleckede
 
-### H2: Häufige Fragen zum Schlüsseldienst in Bleckede
+- **Türöffnung**: Wohnungs-, Haus- und Zimmertüren in Bleckede, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt, Zuschlag nachts und am Wochenende vorher genannt.
+- **Fensteröffnung**: Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
+- **Fahrzeugöffnung**: Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Bleckede schonend.
+- **Schließzylinder und Schlösser**: Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Gängige Zylinder haben wir vorrätig.
+- **Schließanlagen und Zutrittssysteme**: Mechanische Schließanlagen und elektronische Zutrittssysteme für Hausverwaltungen, Praxen und Unternehmen in Bleckede.
+- **Einbruchschutz**: Wir zeigen Dir, wo Deine Tür oder Dein Fenster in Bleckede angreifbar ist, und rüsten mit Beschlägen oder Zusatzschlössern nach.
 
-**H3: Wie schnell ist der Schlüsseldienst in Bleckede vor Ort?**  
-Von Bad Bevensen nach Bleckede brauchen wir in der Regel etwa 40 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
+### Häufige Fragen aus Bleckede
 
-**H3: Was kostet eine Türöffnung in Bleckede?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Wie schnell ist der Schlüsseldienst in Bleckede vor Ort?**  
+Meist sind wir nach rund 40 Minuten in Bleckede. Nachts geht es oft schneller, weil die Straßen frei sind.
 
-**H3: Wird meine Tür beim Öffnen beschädigt?**  
+**Was kostet eine Türöffnung in Bleckede?**  
+Montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag.
+
+**Muss ich mich ausweisen?**  
+Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich.
+
+**Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?**  
+Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit.
+
+**Wird meine Tür beim Öffnen beschädigt?**  
 In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
 
-**H3: Ist der Schlüsselnotdienst in Bleckede auch nachts und am Wochenende erreichbar?**  
-Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049.
-
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
-
-### H2: Schlüsseldienst in der Nähe von Bleckede
-
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Schlüsseldienst in der Nähe von Bleckede
 
 - [Schlüsseldienst Dahlenburg](https://schluesselnotdienst-baumann.de/dahlenburg)
 - [Schlüsseldienst Barendorf](https://schluesselnotdienst-baumann.de/barendorf)
@@ -84,19 +80,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Hitzacker (Elbe)](https://schluesselnotdienst-baumann.de/hitzacker)
 - [Schlüsseldienst Lüneburg](https://schluesselnotdienst-baumann.de/lueneburg)
 - [Schlüsseldienst Himbergen](https://schluesselnotdienst-baumann.de/himbergen)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Unser Standort ist Bad Bevensen. Von dort bedienen wir den Landkreis Uelzen, den Landkreis Lüneburg und den Landkreis Lüchow-Dannenberg sowie Teile des Heidekreises und des Landkreises Celle. Hier findest Du alle Orte mit Anfahrtszeit und Preis:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Bleckede“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Bleckede“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -104,10 +92,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/bleckede#service",
-  "name": "Schlüsseldienst Bleckede – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Bleckede: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/bleckede",
-  "description": "Schlüsseldienst Bleckede: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 40 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsselnotdienst für Bleckede und Umgebung: Türöffnung zum Festpreis von 169 €, 24 Stunden erreichbar, in etwa 40 Minuten vor Ort. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -148,9 +136,9 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "offers": {
     "@type": "Offer",
     "name": "Türöffnung Bleckede zum Festpreis",
-    "price": "135",
+    "price": "169",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Bleckede"
   }
@@ -186,7 +174,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Wie schnell ist der Schlüsseldienst in Bleckede vor Ort?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Von Bad Bevensen nach Bleckede brauchen wir in der Regel etwa 40 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."
+        "text": "Meist sind wir nach rund 40 Minuten in Bleckede. Nachts geht es oft schneller, weil die Straßen frei sind."
       }
     },
     {
@@ -194,7 +182,23 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Bleckede?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
+        "text": "Montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Muss ich mich ausweisen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit."
       }
     },
     {
@@ -204,22 +208,14 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
         "@type": "Answer",
         "text": "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."
       }
-    },
-    {
-      "@type": "Question",
-      "name": "Ist der Schlüsselnotdienst in Bleckede auch nachts und am Wochenende erreichbar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049."
-      }
     }
   ]
 }
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/bleckede` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/bleckede → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/bleckede` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/bleckede
+3. Search Console: URL prüfen und Indexierung beantragen.

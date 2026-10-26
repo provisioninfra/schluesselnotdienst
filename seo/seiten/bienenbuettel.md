@@ -1,82 +1,78 @@
-# Bienenbüttel – SEO-Inhalte für `/bienenbuettel`
+# Bienenbüttel: SEO-Inhalte für `/bienenbuettel`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `bienenbuettel` | |
-| Seitentitel (Page Title) | Schlüsseldienst Bienenbüttel: 24h Notdienst zum Festpreis | 57 |
-| Beschreibung (Description) | Schlüsseldienst Bienenbüttel: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 12 Minuten bei Dir. ☎ 05821 4049049 | 135 |
-| Keywords | Schlüsseldienst Bienenbüttel, Schlüsselnotdienst Bienenbüttel, Türöffnung Bienenbüttel, Schlüsseldienst Bienenbüttel 24h, Aufsperrdienst Bienenbüttel, Schlüsseldienst Bienenbüttel Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Bienenbüttel“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `bienenbuettel` | |
+| Seitentitel | Schlüsseldienst Bienenbüttel: 24h Notdienst zum Festpreis | 57 |
+| Beschreibung | Schlüsseldienst Bienenbüttel: Türöffnung für 135 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 12 Minuten bei Dir. ☎ 05821 4049049 | 147 |
+| Keywords | Schlüsseldienst Bienenbüttel, Schlüsselnotdienst Bienenbüttel, Türöffnung Bienenbüttel, Schlüsseldienst Bienenbüttel 24h, Aufsperrdienst Bienenbüttel, Schlüsseldienst Bienenbüttel Kosten, Autoöffnung Bienenbüttel | |
+| Preis Türöffnung | 135 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Bienenbüttel: Notdienst rund um die Uhr zum Festpreis
+Schlüsseldienst für Bienenbüttel: 24 Stunden erreichbar, Festpreis vorab
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Bienenbüttel & Umgebung · fair · transparent · in ca. 12 Min. vor Ort · ☎ 05821 4049049
+### H2
+ProVision Infra Schlüsselnotdienst für Bienenbüttel
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Ausgesperrt in Bienenbüttel? Wir kommen. / 135 € Festpreis inklusive Anfahrt, Ankunft in rund 12 Minuten / Öffnung in der Regel ohne Schaden, Preis vorab am Telefon
 
-### Einleitung (direkt unter der H1)
-Die Tür ist zu und der Schlüssel liegt drinnen? In Bienenbüttel hilft der ProVision Infra Schlüsselnotdienst aus Bad Bevensen. Wir sind Tag und Nacht erreichbar und brauchen bis zu Dir etwa 12 Minuten. Was die Öffnung kostet, sagen wir Dir am Telefon, bevor wir losfahren.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Bienenbüttel – aus der Region, für die Region
-Bienenbüttel liegt an der Ilmenau zwischen Bad Bevensen und Lüneburg. Für uns ist das ein kurzer Weg, auch nach Edendorf, Wichmannsburg oder Bornsen. Wir kommen in alle Stadt- und Ortsteile, darunter Bornsen, Edendorf, Grünhagen, Hohnstorf, Rieste, Steddorf, Varendorf, Wichmannsburg und Niendorf. Im Fahrzeug haben wir das komplette Werkzeug und gängige Profilzylinder dabei. Die meisten Aufträge in Bienenbüttel erledigen wir deshalb in einem Termin.
+- **Rund um die Uhr erreichbar**: Anruf genügt, zu jeder Uhrzeit. Nach etwa 12 Minuten sind wir in Bienenbüttel. Den Preis kennst Du vorher.
+- **Feste Preise ohne Überraschungen**: Keine Anfahrtskosten und keine Pauschale für schwierige Türen. Material kommt nur dazu, wenn Du es vorher freigibst.
+- **Bezahlen, wie es Dir passt**: Wir nehmen Bargeld, Karte und PayPal. Für Unternehmen stellen wir eine Rechnung aus. Einen Beleg gibt es in jedem Fall.
 
-### H2: Unsere Leistungen in Bienenbüttel
+### Abschnittstitel
+Was Du über den Schlüsseldienst in Bienenbüttel wissen solltest
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Bienenbüttel, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Bienenbüttel schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Bienenbüttel: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+Schlüssel verloren oder Tür zugefallen? Für Bienenbüttel ist der ProVision Infra Schlüsselnotdienst aus Bad Bevensen zuständig. Festpreis 135 €, Anfahrt inklusive, Ankunft nach etwa 12 Minuten.
 
-### H2: Was kostet der Schlüsseldienst in Bienenbüttel?
-Festpreis am Telefon, Anfahrt nach Bienenbüttel inklusive, Zuschlag für Nacht, Wochenende und Feiertag vorher benannt. Du entscheidest erst, wenn Du den Preis kennst. Bezahlt wird nach der Arbeit, bar, mit Karte oder per PayPal; Geschäftskunden auch auf Rechnung. Konkret: Die Türöffnung in Bienenbüttel kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Bienenbüttel liegt an der Ilmenau zwischen Bad Bevensen und Lüneburg. Für uns ist das ein kurzer Weg, auch nach Edendorf, Wichmannsburg oder Bornsen. Unser Einsatzfahrzeug ist so bestückt, dass wir in Bienenbüttel eine Tür öffnen und bei Bedarf gleich einen neuen Zylinder einbauen können.
 
-### H2: So läuft Deine Türöffnung in Bienenbüttel ab
+### Was kostet der Schlüsseldienst in Bienenbüttel?
+Festpreis am Telefon, Anfahrt nach Bienenbüttel inklusive, Zuschlag für Nacht und Wochenende vorher benannt. Du entscheidest erst, wenn Du den Preis kennst, und zahlst nach der Arbeit bar, mit Karte oder per PayPal. Konkret: Die Türöffnung in Bienenbüttel kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, ein neuer Profilzylinder beginnt bei 60 € zuzüglich Material.
 
-1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
-2. **Anfahrt:** Wir fahren sofort los. Nach etwa 12 Minuten sind wir in Bienenbüttel.
-3. **Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.
-4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
-5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
+### So läuft der Einsatz in Bienenbüttel ab
 
-### H2: Deine Vorteile auf einen Blick
+1. **Du rufst an:** 05821 4049049, Tag und Nacht.
+2. **Wir fahren los:** von Bad Bevensen nach Bienenbüttel, etwa 12 Minuten.
+3. **Wir prüfen die Berechtigung:** Ausweis, Mietvertrag oder ein anderer Nachweis.
+4. **Wir öffnen:** mit Spezialwerkzeug, in über 90 Prozent der Fälle ohne Schaden.
+5. **Du zahlst den genannten Preis:** bar, mit Karte oder per PayPal.
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+### Leistungen vor Ort in Bienenbüttel
 
-### H2: Häufige Fragen zum Schlüsseldienst in Bienenbüttel
+- **Türöffnung**: Zugefallene oder abgeschlossene Türen in Bienenbüttel öffnen wir zum Festpreis, in der Regel ohne Schaden am Schloss.
+- **Fensteröffnung**: Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
+- **Fahrzeugöffnung**: Schlüssel im Auto? Pkw und Transporter öffnen wir in Bienenbüttel ohne Kratzer.
+- **Schließzylinder und Schlösser**: Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Gängige Zylinder haben wir vorrätig.
+- **Schließanlagen und Zutrittssysteme**: Mechanische Schließanlagen und elektronische Zutrittssysteme für Hausverwaltungen, Praxen und Unternehmen in Bienenbüttel.
+- **Einbruchschutz**: Beratung bei Dir vor Ort in Bienenbüttel: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
 
-**H3: Wie schnell ist der Schlüsseldienst in Bienenbüttel vor Ort?**  
-Von Bad Bevensen nach Bienenbüttel brauchen wir in der Regel etwa 12 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
+### Häufige Fragen zum Schlüsseldienst in Bienenbüttel
 
-**H3: Was kostet eine Türöffnung in Bienenbüttel?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Wie schnell ist der Schlüsseldienst in Bienenbüttel vor Ort?**  
+Meist sind wir nach rund 12 Minuten in Bienenbüttel. Nachts geht es oft schneller, weil die Straßen frei sind.
 
-**H3: Woran erkenne ich einen seriösen Schlüsseldienst in Bienenbüttel?**  
-An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region.
+**Was kostet eine Türöffnung in Bienenbüttel?**  
+Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag.
 
-**H3: Wird meine Tür beim Öffnen beschädigt?**  
+**Muss ich mich ausweisen?**  
+Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich.
+
+**Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?**  
+Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit.
+
+**Wird meine Tür beim Öffnen beschädigt?**  
 In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
-
-### H2: Schlüsseldienst in der Nähe von Bienenbüttel
-
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Auch in der Nähe von Bienenbüttel im Einsatz
 
 - [Schlüsseldienst Bad Bevensen](https://schluesselnotdienst-baumann.de/bad-bevensen)
 - [Schlüsseldienst Melbeck](https://schluesselnotdienst-baumann.de/melbeck)
@@ -84,19 +80,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Lüneburg](https://schluesselnotdienst-baumann.de/lueneburg)
 - [Schlüsseldienst Altenmedingen](https://schluesselnotdienst-baumann.de/altenmedingen)
 - [Schlüsseldienst Ebstorf](https://schluesselnotdienst-baumann.de/ebstorf)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Rund 80 Kilometer um Bad Bevensen sind wir im Einsatz, von Lüneburg bis Celle und von Munster bis ins Wendland. Jeder Ort hat eine eigene Seite mit Festpreis und Anfahrtszeit:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Bienenbüttel“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Bienenbüttel“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -104,10 +92,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/bienenbuettel#service",
-  "name": "Schlüsseldienst Bienenbüttel – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Bienenbüttel: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/bienenbuettel",
-  "description": "Schlüsseldienst Bienenbüttel: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 12 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Bienenbüttel: Türöffnung für 135 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 12 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -150,7 +138,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
     "name": "Türöffnung Bienenbüttel zum Festpreis",
     "price": "135",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Bienenbüttel"
   }
@@ -186,7 +174,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Wie schnell ist der Schlüsseldienst in Bienenbüttel vor Ort?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Von Bad Bevensen nach Bienenbüttel brauchen wir in der Regel etwa 12 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."
+        "text": "Meist sind wir nach rund 12 Minuten in Bienenbüttel. Nachts geht es oft schneller, weil die Straßen frei sind."
       }
     },
     {
@@ -194,15 +182,23 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Bienenbüttel?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
+        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag."
       }
     },
     {
       "@type": "Question",
-      "name": "Woran erkenne ich einen seriösen Schlüsseldienst in Bienenbüttel?",
+      "name": "Muss ich mich ausweisen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region."
+        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du den Ausweis nicht dabei, zeigst Du ihn uns im Nachgang oder bestätigst Deine Berechtigung schriftlich."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Der Schlüssel steckt von innen. Geht die Tür trotzdem auf?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Auch mit steckendem Schlüssel öffnen wir die Tür, in den meisten Fällen ohne Schaden. Sag uns das am Telefon, dann bringen wir das passende Werkzeug mit."
       }
     },
     {
@@ -218,8 +214,8 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/bienenbuettel` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/bienenbuettel → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/bienenbuettel` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/bienenbuettel
+3. Search Console: URL prüfen und Indexierung beantragen.

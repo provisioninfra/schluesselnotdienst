@@ -1,46 +1,44 @@
-# Adendorf – SEO-Inhalte für `/adendorf`
+# Adendorf: SEO-Inhalte für `/adendorf`
 
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `adendorf` | |
-| Seitentitel (Page Title) | Schlüsseldienst Adendorf: 24h Notdienst zum Festpreis | 53 |
-| Beschreibung (Description) | Schlüsseldienst Adendorf: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 35 Minuten bei Dir. ☎ 05821 4049049 | 131 |
-| Keywords | Schlüsseldienst Adendorf, Schlüsselnotdienst Adendorf, Türöffnung Adendorf, Schlüsseldienst Adendorf 24h, Aufsperrdienst Adendorf, Schlüsseldienst Adendorf Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Adendorf“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `adendorf` | |
+| Seitentitel | Schlüsselnotdienst Adendorf: Türöffnung zum Festpreis | 53 |
+| Beschreibung | Schlüsseldienst Adendorf: Türöffnung für 169 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 35 Minuten bei Dir. ☎ 05821 4049049 | 143 |
+| Keywords | Schlüsseldienst Adendorf, Schlüsselnotdienst Adendorf, Türöffnung Adendorf, Schlüsseldienst Adendorf 24h, Aufsperrdienst Adendorf, Schlüsseldienst Adendorf Kosten, Autoöffnung Adendorf | |
+| Preis Türöffnung | 169 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Adendorf: Notdienst rund um die Uhr zum Festpreis
+Schlüsseldienst für Adendorf: 24 Stunden erreichbar, Festpreis vorab
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Adendorf & Umgebung · fair · transparent · in ca. 35 Min. vor Ort · ☎ 05821 4049049
+### H2
+Dein Schlüsselnotdienst für Adendorf und Umgebung
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Schlüsselnotdienst für Adendorf / Türöffnung zum Festpreis von 169 €, Anfahrt inklusive / nach etwa 35 Minuten vor Ort, Preis vorher zugesagt
 
-### Einleitung (direkt unter der H1)
-In Adendorf und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Der Betrieb sitzt in Bad Bevensen im Landkreis Uelzen. Der Festpreis steht vor der Anfahrt fest, und nach etwa 35 Minuten stehen wir vor Deiner Tür.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Adendorf – aus der Region, für die Region
-Adendorf grenzt direkt nördlich an Lüneburg. Wir fahren über die B4 und B209 und sind in der Regel in gut einer halben Stunde bei Dir, auch in Erbstorf, Scharnebeck oder Bardowick. Wir kommen in alle Stadt- und Ortsteile, darunter Erbstorf. Im Fahrzeug haben wir das komplette Werkzeug und gängige Profilzylinder dabei. Die meisten Aufträge in Adendorf erledigen wir deshalb in einem Termin.
+- **Rund um die Uhr erreichbar**: Anruf genügt, zu jeder Uhrzeit. Nach etwa 35 Minuten sind wir in Adendorf. Den Preis kennst Du vorher.
+- **Feste Preise ohne Überraschungen**: Ein Preis, am Telefon genannt und vor Ort eingehalten. Zuschläge gibt es nur nachts und am Wochenende, und die kennst Du vorher.
+- **Bezahlen, wie es Dir passt**: Wir nehmen Bargeld, Karte und PayPal. Für Unternehmen stellen wir eine Rechnung aus. Einen Beleg gibt es in jedem Fall.
 
-### H2: Unsere Leistungen in Adendorf
+### Abschnittstitel
+Was Du über den Schlüsseldienst in Adendorf wissen solltest
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Adendorf, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Adendorf schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Adendorf: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+In Adendorf und Umgebung öffnet der ProVision Infra Schlüsselnotdienst Türen zum Festpreis von 169 €. Der Betrieb sitzt in Bad Bevensen im Landkreis Uelzen, die Anfahrt dauert etwa 35 Minuten.
 
-### H2: Was kostet der Schlüsseldienst in Adendorf?
-Du bekommst den Festpreis für Deine Türöffnung in Adendorf am Telefon genannt, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den wir Dir ebenfalls vorher sagen. Nur wenn Material nötig ist, etwa ein neuer Zylinder, kommen Materialkosten dazu. Zahlen kannst Du bar, mit EC- oder Kreditkarte oder per PayPal. Konkret: Die Türöffnung in Adendorf kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Adendorf grenzt direkt nördlich an Lüneburg. Wir fahren über die B4 und B209 und sind in der Regel in gut einer halben Stunde bei Dir, auch in Erbstorf, Scharnebeck oder Bardowick. Unser Einsatzfahrzeug ist so bestückt, dass wir in Adendorf eine Tür öffnen und bei Bedarf gleich einen neuen Zylinder einbauen können.
 
-### H2: So läuft Deine Türöffnung in Adendorf ab
+### Was kostet der Schlüsseldienst in Adendorf?
+Was eine Türöffnung in Adendorf kostet, hängt von Uhrzeit und Entfernung ab, nicht von der Dauer des Einsatzes. Der Preis steht vor der Anfahrt fest und ändert sich vor Ort nicht. Konkret: Die Türöffnung in Adendorf kostet montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe, ein neuer Profilzylinder beginnt bei 60 € zuzüglich Material.
+
+### Ablauf einer Türöffnung in Adendorf
 
 1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
 2. **Anfahrt:** Wir fahren sofort los. Nach etwa 35 Minuten sind wir in Adendorf.
@@ -48,38 +46,33 @@ Du bekommst den Festpreis für Deine Türöffnung in Adendorf am Telefon genannt
 4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
 5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
 
-### H2: Deine Vorteile auf einen Blick
+### Leistungen vor Ort in Adendorf
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+- **Türöffnung**: Zugefallene oder abgeschlossene Türen in Adendorf öffnen wir zum Festpreis, in der Regel ohne Schaden am Schloss.
+- **Fensteröffnung**: Fenster und Balkontüren, die zugefallen sind oder gekippt stehen, öffnen wir schonend.
+- **Fahrzeugöffnung**: Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Adendorf schonend.
+- **Schließzylinder und Schlösser**: Neue Profilzylinder, Sicherheitszylinder mit Sicherungskarte und Reparaturen am Schloss, meist direkt im ersten Termin.
+- **Schließanlagen und Zutrittssysteme**: Mechanische Schließanlagen und elektronische Zutrittssysteme für Hausverwaltungen, Praxen und Unternehmen in Adendorf.
+- **Einbruchschutz**: Beratung bei Dir vor Ort in Adendorf: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
 
-### H2: Häufige Fragen zum Schlüsseldienst in Adendorf
+### Häufige Fragen zum Schlüsseldienst in Adendorf
 
-**H3: Wie schnell ist der Schlüsseldienst in Adendorf vor Ort?**  
+**Wie schnell ist der Schlüsseldienst in Adendorf vor Ort?**  
 Von Bad Bevensen nach Adendorf brauchen wir in der Regel etwa 35 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
 
-**H3: Was kostet eine Türöffnung in Adendorf?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Was kostet eine Türöffnung in Adendorf?**  
+Montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag.
 
-**H3: Wird meine Tür beim Öffnen beschädigt?**  
-In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
+**Was passiert, wenn der Zylinder getauscht werden muss?**  
+Dann besprechen wir das vorher mit Dir. Gängige Zylinder haben wir im Fahrzeug, der Einbau erfolgt direkt im selben Termin.
 
-**H3: Ist der Schlüsselnotdienst in Adendorf auch nachts und am Wochenende erreichbar?**  
+**Ist der Schlüsselnotdienst in Adendorf auch nachts und am Wochenende erreichbar?**  
 Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049.
 
-**H3: Muss ich mich ausweisen?**  
-Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB.
+**Woran erkenne ich einen seriösen Schlüsseldienst in Adendorf?**  
+An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und nennen den Preis vorab.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
-
-### H2: Schlüsseldienst in der Nähe von Adendorf
-
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Auch in der Nähe von Adendorf im Einsatz
 
 - [Schlüsseldienst Lüneburg](https://schluesselnotdienst-baumann.de/lueneburg)
 - [Schlüsseldienst Barendorf](https://schluesselnotdienst-baumann.de/barendorf)
@@ -87,19 +80,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Melbeck](https://schluesselnotdienst-baumann.de/melbeck)
 - [Schlüsseldienst Bienenbüttel](https://schluesselnotdienst-baumann.de/bienenbuettel)
 - [Schlüsseldienst Dahlenburg](https://schluesselnotdienst-baumann.de/dahlenburg)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Unser Standort ist Bad Bevensen. Von dort bedienen wir den Landkreis Uelzen, den Landkreis Lüneburg und den Landkreis Lüchow-Dannenberg sowie Teile des Heidekreises und des Landkreises Celle. Hier findest Du alle Orte mit Anfahrtszeit und Preis:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Adendorf“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Adendorf“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -107,10 +92,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/adendorf#service",
-  "name": "Schlüsseldienst Adendorf – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Adendorf: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/adendorf",
-  "description": "Schlüsseldienst Adendorf: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 35 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Adendorf: Türöffnung für 169 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 35 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -151,9 +136,9 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "offers": {
     "@type": "Offer",
     "name": "Türöffnung Adendorf zum Festpreis",
-    "price": "135",
+    "price": "169",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Adendorf"
   }
@@ -197,15 +182,15 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Adendorf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
+        "text": "Montags bis freitags von 8 bis 18 Uhr 169 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag."
       }
     },
     {
       "@type": "Question",
-      "name": "Wird meine Tür beim Öffnen beschädigt?",
+      "name": "Was passiert, wenn der Zylinder getauscht werden muss?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."
+        "text": "Dann besprechen wir das vorher mit Dir. Gängige Zylinder haben wir im Fahrzeug, der Einbau erfolgt direkt im selben Termin."
       }
     },
     {
@@ -218,10 +203,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
     },
     {
       "@type": "Question",
-      "name": "Muss ich mich ausweisen?",
+      "name": "Woran erkenne ich einen seriösen Schlüsseldienst in Adendorf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ja, wir öffnen nur für Berechtigte. Hast Du Deinen Ausweis gerade nicht dabei, kannst Du ihn im Nachgang zeigen oder Deine Berechtigung schriftlich versichern. Die Details stehen in unseren AGB."
+        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und nennen den Preis vorab."
       }
     }
   ]
@@ -229,8 +214,8 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/adendorf` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/adendorf → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/adendorf` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/adendorf
+3. Search Console: URL prüfen und Indexierung beantragen.

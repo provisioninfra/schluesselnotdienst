@@ -27,39 +27,42 @@ def build_city(slug):
     # Hero
     hero = S["layout"][0]
     img = find_atoms(hero, "image")[0]
-    add(img, {"data": {"alt": f"Schlüsseldienst öffnet eine Haustür in {k} – {BRAND}"}}, {"data": {"alt": img["data"].get("alt", "")}}, "hero alt")
+    add(img, {"data": {"alt": G.hero_alt(o)}}, {"data": {"alt": img["data"].get("alt", "")}}, "hero alt")
     heads = find_atoms(hero, "header")
     h1, h2 = heads[0], heads[1]
-    val, snap = single_text(h1, f"Schlüsseldienst {k}: Notdienst rund um die Uhr zum Festpreis", "h1"); add(h1, val, snap, "hero h1")
-    val, snap = single_text(h2, f"{BRAND} für {k}", "h2"); add(h2, val, snap, "hero h2")
+    val, snap = single_text(h1, G.hero_h1(o), "h1"); add(h1, val, snap, "hero h1")
+    val, snap = single_text(h2, G.hero_h2(o), "h2"); add(h2, val, snap, "hero h2")
     pt = find_atoms(hero, "plain-text")[0]
     text, bold = hero_plain_text(o)
     val, snap = single_text(pt, text, None, bold); add(pt, val, snap, "hero text")
 
-    # Vorteile-Karten
-    for a, val, snap, note in vorteile_patches(S["Vorteile"][0], k, o["eta"]):
+    # Vorteile-Karten (Fassung je Ort)
+    for a, val, snap, note in vorteile_patches(S["Vorteile"][0], o):
         cur = a["data"]["text"]["blocks"][0]["text"]
         if cur != val["data"]["text"]["blocks"][0]["text"]:
             add(a, val, snap, note)
 
-    # Preisplan header: keep; Einsatzgebiet header + html
+    # Einsatzgebiet: Abschnittstitel + HTML-Block
     eg = S["Einsatzgebiet"][0]
     egh = find_atoms(eg, "header")[0]
-    val, snap = single_text(egh, f"Alles Wichtige für {k}: Preise, Ablauf, Antworten und Einsatzgebiet"); add(egh, val, snap, "einsatzgebiet header")
+    val, snap = single_text(egh, G.einsatz_header(o)); add(egh, val, snap, "einsatzgebiet header")
     egc = find_atoms(eg, "custom-code")[0]
     add(egc, {"data": {"html": local_html(o)}}, {"data": {"html": egc["data"]["html"]}}, "einsatzgebiet html")
 
-    # Bewertungen: dunkle Variante, Duplikate aria-hidden
+    # Bewertungen: dunkle Variante, Duplikate aria-hidden, Titel in normaler Schreibweise
     bw = S["Bewertungen"][0]
     bwc = find_atoms(bw, "custom-code")[0]
     newh = reviews_dark(bwc["data"]["html"])
     if newh != bwc["data"]["html"]:
         add(bwc, {"data": {"html": newh}}, {"data": {"html": bwc["data"]["html"]}}, "bewertungen html")
+    for bwh in find_atoms(bw, "header"):
+        if bwh["data"]["text"]["blocks"][0]["text"].strip() != "Kundenbewertungen, die überzeugen":
+            val, snap = single_text(bwh, "Kundenbewertungen, die überzeugen"); add(bwh, val, snap, "bewertungen header")
 
     # Footer
     fz = S["Fußzeile"][0]
     fpt = find_atoms(fz, "plain-text")[0]
-    val, snap = single_text(fpt, "Copyright © 2026 ProVision Infra GmbH – Schlüsselnotdienst – Alle Rechte vorbehalten."); add(fpt, val, snap, "footer text")
+    val, snap = single_text(fpt, "© 2026 ProVision Infra GmbH, Schlüsselnotdienst. Alle Rechte vorbehalten."); add(fpt, val, snap, "footer text")
     fm = find_atoms(fz, "menu-v2")[0]
     val, snap = footer_menu_value(fm); add(fm, val, snap, "footer menu")
 
@@ -73,15 +76,15 @@ def build_city(slug):
     newp = price_cards(o["preis_tueroeffnung"], True)
     if newp != ppc["data"]["html"]:
         add(ppc, {"data": {"html": newp}}, {"data": {"html": ppc["data"]["html"]}}, "preisplan html")
-    # Preisplan header text "Leistungen für X"
+    # Preisplan-Titel (Fassung je Ort)
     pp = S["Preisplan"][0]
     pph = find_atoms(pp, "header")[0]
     cur = pph["data"]["text"]["blocks"][0]["text"]
-    if cur.strip() != f"Leistungen für {k}":
-        val, snap = single_text(pph, f"Leistungen für {k}"); add(pph, val, snap, "preisplan header")
+    if cur.strip() != G.preisplan_header(o):
+        val, snap = single_text(pph, G.preisplan_header(o)); add(pph, val, snap, "preisplan header")
 
     seo = {"title": o["name"], "seoTitle": G.title_for(o), "seoDescription": G.desc_for(o),
-           "seoKeywords": f"Schlüsseldienst {k}, Schlüsselnotdienst {k}, Türöffnung {k}, Schlüsseldienst {k} 24h, Aufsperrdienst {k}, Schlüsseldienst {k} Kosten, Autoöffnung {k}",
+           "seoKeywords": G.keywords(o),
            "codeHead": G.jsonld(o), "noindex": False}
     ops = {"slug": slug, "pageId": page["_id"], "seo": seo, "patches": patches}
     json.dump(ops, open(os.path.join(OUT, f"{slug}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)

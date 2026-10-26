@@ -1,84 +1,78 @@
-# Eschede – SEO-Inhalte für `/eschede`
+# Eschede: SEO-Inhalte für `/eschede`
 
-> **Neue Seite** – existiert noch nicht in OnePage. Seite anlegen (Vorlage: eine bestehende Ortsseite duplizieren), Slug exakt wie oben setzen.
-
-## 1. Seiten-Einstellungen → SEO (OnePage: Seite öffnen → Einstellungen → SEO)
+## 1. SEO-Felder
 
 | Feld | Wert | Länge |
 |---|---|---|
-| URL / Slug | `eschede` | |
-| Seitentitel (Page Title) | Schlüsseldienst Eschede: 24h Notdienst zum Festpreis | 52 |
-| Beschreibung (Description) | Schlüsseldienst Eschede: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 50 Minuten bei Dir. ☎ 05821 4049049 | 130 |
-| Keywords | Schlüsseldienst Eschede, Schlüsselnotdienst Eschede, Türöffnung Eschede, Schlüsseldienst Eschede 24h, Aufsperrdienst Eschede, Schlüsseldienst Eschede Kosten | |
-| Vorschaubild (OG) | Foto Einsatzfahrzeug/Jannes Baumann, 1200×630, Alt-Text: „ProVision Infra Schlüsselnotdienst – Schlüsseldienst in Eschede“ | |
-| Indexierung | **erlaubt** (an) | |
+| URL | `eschede` | |
+| Seitentitel | Schlüsselnotdienst Eschede: Türöffnung zum Festpreis | 52 |
+| Beschreibung | Schlüsseldienst Eschede: Türöffnung für 260 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 50 Minuten bei Dir. ☎ 05821 4049049 | 142 |
+| Keywords | Schlüsseldienst Eschede, Schlüsselnotdienst Eschede, Türöffnung Eschede, Schlüsseldienst Eschede 24h, Aufsperrdienst Eschede, Schlüsseldienst Eschede Kosten, Autoöffnung Eschede | |
+| Preis Türöffnung | 260 € | |
 
-> Hinweis: In **Einstellungen → SEO → Page Title Pattern** muss `{{page_title}}` (ohne Website-Namen) stehen, sonst hängt OnePage „| Schlüsselnotdienst ProVision Infra“ an und der Titel wird zu lang.
-
-## 2. Seitenstruktur & Texte
+## 2. Texte
 
 ### H1
-Schlüsseldienst Eschede: Notdienst rund um die Uhr zum Festpreis
+Schlüsseldienst Eschede: Türöffnung zum Festpreis, Tag und Nacht
 
-**Unterzeile (kein Heading, normaler Text):** Türöffnung in Eschede & Umgebung · fair · transparent · in ca. 50 Min. vor Ort · ☎ 05821 4049049
+### H2
+Dein Schlüsselnotdienst für Eschede und Umgebung
 
-**Button:** „Jetzt anrufen – 05821 4049049“ (Link `tel:+4958214049049`)
+**Hero-Text:** Ausgesperrt in Eschede? Wir kommen. / 260 € Festpreis inklusive Anfahrt, Ankunft in rund 50 Minuten / Öffnung in der Regel ohne Schaden, Preis vorab am Telefon
 
-### Einleitung (direkt unter der H1)
-In Eschede und Umgebung ist der ProVision Infra Schlüsselnotdienst Dein Ansprechpartner für Türöffnungen, Schlosswechsel und Einbruchschutz. Der Betrieb sitzt in Bad Bevensen im Landkreis Uelzen. Der Festpreis steht vor der Anfahrt fest, und nach etwa 50 Minuten stehen wir vor Deiner Tür.
+### Vorteile
 
-### H2: ProVision Infra Schlüsselnotdienst für Eschede – aus der Region, für die Region
-Eschede im Norden des Landkreises Celle liegt auf unserer Route Richtung Celle. Wir planen rund 50 Minuten Anfahrt ein. Wir kommen in alle Stadt- und Ortsteile, darunter Habighorst, Höfer und Scharnhorst. Im Fahrzeug haben wir das komplette Werkzeug und gängige Profilzylinder dabei. Die meisten Aufträge in Eschede erledigen wir deshalb in einem Termin.
+- **Rund um die Uhr erreichbar**: Wochenende, Feiertag oder mitten in der Nacht: Wir gehen ran. Ankunft in Eschede nach rund 50 Minuten. Festpreis vorab.
+- **Feste Preise ohne Überraschungen**: Ein Preis, am Telefon genannt und vor Ort eingehalten. Zuschläge gibt es nur nachts und am Wochenende, und die kennst Du vorher.
+- **Bezahlen, wie es Dir passt**: Karte, PayPal oder bar, ganz wie Du möchtest. Firmen zahlen auf Rechnung. Die Quittung bekommst Du sofort.
 
-### H2: Unsere Leistungen in Eschede
+### Abschnittstitel
+Was Du über den Schlüsseldienst in Eschede wissen solltest
 
-- **H3: Türöffnung** – Wohnungs-, Haus- und Zimmertüren in Eschede, zugefallen oder abgeschlossen. Festpreis inklusive Anfahrt; nachts, am Wochenende und an Feiertagen mit vorher genanntem Zuschlag.
-- **H3: Fensteröffnung** – Gekippte oder zugefallene Fenster und Terrassentüren öffnen wir ohne Beschädigung.
-- **H3: Fahrzeugöffnung** – Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Eschede schonend.
-- **H3: Schließzylinder und Schlösser** – Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Hochwertige Zylinder haben wir vorrätig.
-- **H3: Schließanlagen und Zutrittssysteme** – Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, zum Beispiel von SimonsVoss oder EVVA, für Mehrfamilienhäuser, Praxen und Betriebe.
-- **H3: Einbruchschutz** – Beratung bei Dir vor Ort in Eschede: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
+### Einleitung
+In Eschede und Umgebung öffnet der ProVision Infra Schlüsselnotdienst Türen zum Festpreis von 260 €. Der Betrieb sitzt in Bad Bevensen im Landkreis Uelzen, die Anfahrt dauert etwa 50 Minuten.
 
-### H2: Was kostet der Schlüsseldienst in Eschede?
-Für eine Türöffnung am Tag hält die Verbraucherzentrale Gesamtpreise im unteren dreistelligen Bereich für angemessen. In diesem Rahmen bewegen wir uns in Eschede. Den konkreten Preis erfährst Du vor der Auftragserteilung. Es gibt keine getrennten Anfahrtskosten und keinen Aufschlag für schwierige Öffnungen. Barzahlung ist keine Pflicht, Karte und PayPal gehen genauso. Konkret: Die Türöffnung in Eschede kostet montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Fenster- und Fahrzeugöffnung kosten dasselbe. Der Austausch eines Profilzylinders beginnt bei 60 € zuzüglich Material.
+### Lokal
+Eschede im Norden des Landkreises Celle liegt auf unserer Route Richtung Celle. Wir planen rund 50 Minuten Anfahrt ein. Wir kommen in alle Stadt- und Ortsteile, darunter Habighorst, Höfer und Scharnhorst. Unser Einsatzfahrzeug ist so bestückt, dass wir in Eschede eine Tür öffnen und bei Bedarf gleich einen neuen Zylinder einbauen können.
 
-### H2: So läuft Deine Türöffnung in Eschede ab
+### Was kostet der Schlüsseldienst in Eschede?
+Den Festpreis für Deine Türöffnung in Eschede nennen wir Dir am Telefon, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen gilt ein fester Zuschlag, den Du ebenfalls vorher erfährst. Materialkosten entstehen nur, wenn zum Beispiel ein neuer Zylinder nötig ist. In Zahlen: 260 € für die Türöffnung in Eschede an Werktagen zwischen 8 und 18 Uhr, Anfahrt und Mehrwertsteuer eingerechnet. Außerhalb dieser Zeiten und an Feiertagen sind es 54 € mehr. Der Austausch eines Profilzylinders kostet ab 60 € plus Material.
 
-1. **Anruf:** Du rufst an unter 05821 4049049. Wir fragen nach Türart und Situation und nennen Dir Festpreis und Ankunftszeit.
-2. **Anfahrt:** Wir fahren sofort los. Nach etwa 50 Minuten sind wir in Eschede.
-3. **Berechtigung:** Vor Ort zeigst Du uns Deinen Ausweis oder einen anderen Nachweis, dass Du hier wohnst.
-4. **Öffnung:** Mit Spezialwerkzeug öffnen wir die Tür, in über 90 Prozent der Fälle ohne Schaden. Falls ein Zylinder getauscht werden muss, haben wir Ersatz dabei.
-5. **Bezahlung:** Du zahlst den vorher genannten Preis, bar, mit Karte oder per PayPal, und bekommst eine Quittung oder Rechnung.
+### So läuft der Einsatz in Eschede ab
 
-### H2: Deine Vorteile auf einen Blick
+1. **Du rufst an:** 05821 4049049, Tag und Nacht.
+2. **Wir fahren los:** von Bad Bevensen nach Eschede, etwa 50 Minuten.
+3. **Wir prüfen die Berechtigung:** Ausweis, Mietvertrag oder ein anderer Nachweis.
+4. **Wir öffnen:** mit Spezialwerkzeug, in über 90 Prozent der Fälle ohne Schaden.
+5. **Du zahlst den genannten Preis:** bar, mit Karte oder per PayPal.
 
-- Festpreis vorab am Telefon – keine versteckten Kosten
-- Keine separaten An- und Abfahrtskosten
-- 24/7 erreichbar: nachts, am Wochenende, an Feiertagen
-- In über 90 % der Fälle zerstörungsfreie Öffnung
-- Regionaler Betrieb aus Bad Bevensen mit Festnetznummer und Impressum
-- Bar, EC-/Kreditkarte oder PayPal
+### Leistungen vor Ort in Eschede
 
-### H2: Häufige Fragen zum Schlüsseldienst in Eschede
+- **Türöffnung**: Zugefallene oder abgeschlossene Türen in Eschede öffnen wir zum Festpreis, in der Regel ohne Schaden am Schloss.
+- **Fensteröffnung**: Fenster und Balkontüren, die zugefallen sind oder gekippt stehen, öffnen wir schonend.
+- **Fahrzeugöffnung**: Autoschlüssel eingeschlossen? Wir öffnen abgeschlossene Fahrzeuge in Eschede schonend.
+- **Schließzylinder und Schlösser**: Austausch und Reparatur von Profilzylindern, Einbau von Sicherheitszylindern mit Sicherungskarte. Gängige Zylinder haben wir vorrätig.
+- **Schließanlagen und Zutrittssysteme**: Planung und Montage von Schließanlagen und digitalen Zutrittslösungen, etwa von SimonsVoss oder EVVA, für Mehrfamilienhäuser und Betriebe.
+- **Einbruchschutz**: Beratung bei Dir vor Ort in Eschede: Beschläge, Zusatzschlösser, Panzerriegel und ein Blick auf Fenster und Nebeneingänge.
 
-**H3: Wie schnell ist der Schlüsseldienst in Eschede vor Ort?**  
-Von Bad Bevensen nach Eschede brauchen wir in der Regel etwa 50 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon.
+### Häufige Fragen aus Eschede
 
-**H3: Was kostet eine Türöffnung in Eschede?**  
-Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon.
+**Wie schnell ist der Schlüsseldienst in Eschede vor Ort?**  
+Meist sind wir nach rund 50 Minuten in Eschede. Nachts geht es oft schneller, weil die Straßen frei sind.
 
-**H3: Woran erkenne ich einen seriösen Schlüsseldienst in Eschede?**  
-An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region.
+**Was kostet eine Türöffnung in Eschede?**  
+Montags bis freitags von 8 bis 18 Uhr 260 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag.
 
-**H3: Wird meine Tür beim Öffnen beschädigt?**  
-In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss.
+**Kann ich mit Karte oder PayPal bezahlen?**  
+Ja. Neben Bargeld nehmen wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden zahlen auf Wunsch per Rechnung.
 
-### H2: Kundenbewertungen
-(bestehenden Bewertungs-Block beibehalten – jede Bewertung nur **einmal**, aktuell sind alle sechs doppelt eingebaut)
+**Was passiert, wenn der Zylinder getauscht werden muss?**  
+Dann besprechen wir das vorher mit Dir. Gängige Zylinder haben wir im Fahrzeug, der Einbau erfolgt direkt im selben Termin.
 
-### H2: Schlüsseldienst in der Nähe von Eschede
+**Ist der Schlüsselnotdienst in Eschede auch nachts und am Wochenende erreichbar?**  
+Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049.
 
-Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Link**):
+### Nachbarorte von Eschede
 
 - [Schlüsseldienst Celle](https://schluesselnotdienst-baumann.de/celle)
 - [Schlüsseldienst Faßberg](https://schluesselnotdienst-baumann.de/fassberg)
@@ -86,19 +80,11 @@ Wir sind auch in diesen Orten für Dich im Einsatz (jeder Ort als **interner Lin
 - [Schlüsseldienst Bad Bodenteich](https://schluesselnotdienst-baumann.de/bad-bodenteich)
 - [Schlüsseldienst Uelzen](https://schluesselnotdienst-baumann.de/uelzen)
 - [Schlüsseldienst Munster](https://schluesselnotdienst-baumann.de/munster)
-- [Alle Einsatzorte & Preise](https://schluesselnotdienst-baumann.de/#einsatzgebiet) · [Infos zur Türöffnung](https://schluesselnotdienst-baumann.de/turoffnung)
 
-### Kontaktblock (Footer-Bereich der Seite)
+### Unser Einsatzgebiet
+Unser Standort ist Bad Bevensen. Von dort bedienen wir den Landkreis Uelzen, den Landkreis Lüneburg und den Landkreis Lüchow-Dannenberg sowie Teile des Heidekreises und des Landkreises Celle. Hier findest Du alle Orte mit Anfahrtszeit und Preis:
 
-ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Baumann) · Klein Hesebecker Straße 11, 29549 Bad Bevensen · ☎ 05821 4049049 · 24 Stunden erreichbar, 7 Tage die Woche
-
-## 3. Bilder (Alt-Texte)
-
-- Hero-Bild: „ProVision Infra Schlüsseldienst öffnet eine Haustür in Eschede“
-- Logo: „ProVision Infra Schlüsselnotdienst – Logo“
-- Fahrzeug/Team: „Mobiler ProVision Infra Schlüsselnotdienst im Einsatz in Eschede“
-
-## 4. Page Code → `<head>` (OnePage: Code-Symbol links → Spalte „Page Code“ → Bereich `<head>`)
+## 3. Strukturierte Daten
 
 ```html
 <script type="application/ld+json">
@@ -106,10 +92,10 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "@context": "https://schema.org",
   "@type": "Service",
   "@id": "https://schluesselnotdienst-baumann.de/eschede#service",
-  "name": "Schlüsseldienst Eschede – Türöffnung & Schlüsselnotdienst",
-  "serviceType": "Schlüsselnotdienst / Türöffnung",
+  "name": "Schlüsseldienst Eschede: Türöffnung und Schlüsselnotdienst",
+  "serviceType": "Schlüsselnotdienst, Türöffnung",
   "url": "https://schluesselnotdienst-baumann.de/eschede",
-  "description": "Schlüsseldienst Eschede: Türöffnung für 135 € inkl. Anfahrt, Tag und Nacht erreichbar, in etwa 50 Minuten bei Dir. ☎ 05821 4049049",
+  "description": "Schlüsseldienst Eschede: Türöffnung für 260 € inkl. Anfahrt und MwSt., rund um die Uhr erreichbar, in etwa 50 Minuten bei Dir. ☎ 05821 4049049",
   "provider": {
     "@id": "https://schluesselnotdienst-baumann.de/#locksmith"
   },
@@ -150,9 +136,9 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
   "offers": {
     "@type": "Offer",
     "name": "Türöffnung Eschede zum Festpreis",
-    "price": "135",
+    "price": "260",
     "priceCurrency": "EUR",
-    "description": "Festpreis inkl. Anfahrt und MwSt. (Mo–Fr 08:00–18:00 Uhr); nachts, am Wochenende und an Feiertagen + 54 €",
+    "description": "Festpreis inkl. Anfahrt und MwSt. (Montag bis Freitag, 8 bis 18 Uhr); nachts, am Wochenende und an Feiertagen plus 54 €",
     "availability": "https://schema.org/InStock",
     "areaServed": "Eschede"
   }
@@ -188,7 +174,7 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Wie schnell ist der Schlüsseldienst in Eschede vor Ort?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Von Bad Bevensen nach Eschede brauchen wir in der Regel etwa 50 Minuten. Die genaue Ankunftszeit nennen wir Dir am Telefon."
+        "text": "Meist sind wir nach rund 50 Minuten in Eschede. Nachts geht es oft schneller, weil die Straßen frei sind."
       }
     },
     {
@@ -196,23 +182,31 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
       "name": "Was kostet eine Türöffnung in Eschede?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Montags bis freitags von 8 bis 18 Uhr 135 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag am Telefon."
+        "text": "Montags bis freitags von 8 bis 18 Uhr 260 €, inklusive Anfahrt und Mehrwertsteuer. Nachts, am Wochenende und an Feiertagen kommen 54 € dazu. Den Preis bestätigen wir Dir vor dem Auftrag."
       }
     },
     {
       "@type": "Question",
-      "name": "Woran erkenne ich einen seriösen Schlüsseldienst in Eschede?",
+      "name": "Kann ich mit Karte oder PayPal bezahlen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An einem festen Gesamtpreis vor dem Auftrag, einer Adresse in der Region, einer Festnetznummer und daran, dass niemand Barzahlung erzwingt. Wir sitzen in Bad Bevensen und arbeiten seit Jahren in der Region."
+        "text": "Ja. Neben Bargeld nehmen wir EC- und Kreditkarte sowie PayPal direkt vor Ort. Geschäftskunden zahlen auf Wunsch per Rechnung."
       }
     },
     {
       "@type": "Question",
-      "name": "Wird meine Tür beim Öffnen beschädigt?",
+      "name": "Was passiert, wenn der Zylinder getauscht werden muss?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In über 90 Prozent der Fälle öffnen wir ohne Schaden. Bei zugefallenen Türen gelingt das fast immer. Ist die Tür abgeschlossen, sagen wir Dir vorher, falls ein Zylinder getauscht werden muss."
+        "text": "Dann besprechen wir das vorher mit Dir. Gängige Zylinder haben wir im Fahrzeug, der Einbau erfolgt direkt im selben Termin."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ist der Schlüsselnotdienst in Eschede auch nachts und am Wochenende erreichbar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, an jedem Tag und zu jeder Uhrzeit, auch an Feiertagen. Ruf einfach an: 05821 4049049."
       }
     }
   ]
@@ -220,8 +214,8 @@ ProVision Infra Schlüsselnotdienst (ProVision Infra GmbH, Inh. Jannes Heino Bau
 </script>
 ```
 
-## 5. Prüfen nach dem Veröffentlichen
+## 4. Prüfen
 
-1. `https://schluesselnotdienst-baumann.de/eschede` im Browser öffnen, Titel/Description im Quelltext prüfen.
-2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/eschede → keine Fehler.
-3. Google Search Console → URL-Prüfung → **Indexierung beantragen**.
+1. `https://schluesselnotdienst-baumann.de/eschede` öffnen und Titel sowie Description im Quelltext prüfen.
+2. https://search.google.com/test/rich-results?url=https://schluesselnotdienst-baumann.de/eschede
+3. Search Console: URL prüfen und Indexierung beantragen.
