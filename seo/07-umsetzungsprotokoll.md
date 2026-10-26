@@ -94,3 +94,9 @@ Vor jeder Änderung wurde eine Versionssicherung angelegt (OnePage → Seite →
 - Bewertungstitel in normaler Schreibweise, Alt-Text des Hero-Fotos ohne Gedankenstrich, JSON-LD (Service-Name, Angebotsbeschreibung) ohne Gedankenstriche, Postleitzahlen von Lüneburg und Celle als Einzelwert.
 - Mobil: Hero-Überschrift ohne Silbentrennung und größer als die Unterzeile, Partnerlogos proportional statt zugeschnitten, helles Burger-Menü mit Navy-Logo (`media/ae66b2c7-b5d6-4095-aabf-40c090d6a9d4`). Hinweis: Site-CSS wird erst mit dem nächsten Veröffentlichen einer Seite ausgeliefert.
 - Google Search Console: OnePage bringt eine Integration mit (`googleSearchConsole.addWebsite`, `submitSitemap`, `submitIndexingRequest`). Der Aufruf meldet „Google account connection expired“, die Google-Autorisierung muss im OnePage-Konto erneuert werden (Einstellungen → SEO → Google Search Console → mit Google verbinden). Danach lassen sich Sitemap und Indexierungsanfragen aus dieser Umgebung heraus auslösen.
+
+## Runde 6 (26.10.2026): Google Search Console verbunden
+- Der Kontoinhaber hat die Google-Autorisierung in OnePage erneuert. Die Site ist in der Search Console verifiziert (Meta-Tag `google-site-verification` wird von OnePage auf allen Seiten ausgegeben).
+- Über die OnePage-Schnittstelle wurden die Sitemap (`/sitemap.xml`, 30 indexierbare URLs) eingereicht und eine Indexierungsanfrage für die Site ausgelöst (`googleSearchConsole.submitSitemap`, `submitIndexingRequest`, beide `ok`).
+- Die internen Rechtsseiten waren durch den Neuaufbau der Sonderseiten kurz wieder indexierbar; `build_legal` setzt jetzt dauerhaft `noindex`, die Seiten wurden erneut veröffentlicht.
+- Kontrolle: Search Console → „Seiten“ zeigt in den nächsten Tagen den Indexierungsstand; einzelne URLs lassen sich dort mit der URL-Prüfung nachfordern.

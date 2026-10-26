@@ -246,7 +246,8 @@ def build_legal(slug, seo_title, seo_desc, phone_fix=False):
                 if cur in repl:
                     val, snap = single_text(a, repl[cur]); o.add(a, val, snap, f"kontakt: {cur[:20]}")
     o.common_header_footer()
-    o.seo = {"seoTitle": seo_title, "seoDescription": seo_desc, "noindex": False}
+    # Rechtstexte liegen bei provision-infra.de; die internen Seiten bleiben erreichbar, aber ohne Indexierung
+    o.seo = {"seoTitle": seo_title, "seoDescription": seo_desc, "noindex": True}
     o.dump()
 
 build_startseite()
