@@ -97,3 +97,6 @@ img{max-width:100%;height:auto}
 .con-kit-section.unsere-partner .con-kit-component-marquee-gallery-item .con-kit-component-image__background{position:static!important;width:auto!important;height:var(--one-kit-image-height,52px)!important;max-width:none!important;object-fit:contain!important}
 .con-kit-section.unsere-partner .con-kit-component-marquee-gallery-item .con-kit-fade-box > *:not(.con-kit-component-image__background){display:none!important}
 @media (max-width:700px){.con-kit-section.unsere-partner .con-kit-component-marquee-gallery{--one-kit-image-height:44px!important}}
+
+/* Hero mobil: Abstand zur schwebenden Kopfleiste unabhängig vom Section-Padding sichern */
+@media (max-width:768px){.con-kit-section.hero .con-kit-frame{padding-top:max(130px,var(--section-padding-top,120px)/2)!important}}

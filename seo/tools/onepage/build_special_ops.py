@@ -61,7 +61,7 @@ def build_startseite():
         mobile = hero.get("styles", {}).get("visibility_breakpoints") == "mobile"
         st = hero.get("styles", {})
         want = {"bg_image_src": HERO_PHOTO, "overlay_type": "solid", "overlay_solid_color": "black", "overlay_solid_opacity": 64,
-                "align_horizontal": "left", "padding_top": 120 if mobile else 180, "padding_bottom": 80 if mobile else 120}
+                "align_horizontal": "left", "padding_top": 260 if mobile else 180, "padding_bottom": 90 if mobile else 120}  # mobil halbiert OnePage den Wert; 130 px Abstand zur schwebenden Kopfleiste
         cur = {k: st.get(k) for k in want}
         if cur != want:
             o.patches.append({"target": "organism", "organismId": hero["_id"], "value": {"styles": want}, "snapshot": {"styles": {k: (st.get(k) if k in st else None) for k in want}}, "note": "hero section"})
