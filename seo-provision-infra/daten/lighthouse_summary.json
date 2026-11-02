@@ -1,0 +1,300 @@
+{
+ "home_desktop.json": {
+  "scores": {
+   "performance": 45
+  },
+  "metrics": {
+   "first-contentful-paint": "1.7 s",
+   "largest-contentful-paint": "8.3 s",
+   "total-blocking-time": "370 ms",
+   "cumulative-layout-shift": "0.004",
+   "speed-index": "3.9 s",
+   "interactive": "8.5 s",
+   "server-response-time": "Root document took 220 ms"
+  },
+  "opportunities": [
+   [
+    "Reduce unused JavaScript",
+    0.4,
+    "Potential savings of 318 KiB"
+   ],
+   [
+    "Initial server response time was short",
+    0.2,
+    "Root document took 220 ms"
+   ],
+   [
+    "Preconnect to required origins",
+    0.2,
+    "Potential savings of 160 ms"
+   ],
+   [
+    "Reduce unused CSS",
+    0.2,
+    "Potential savings of 51 KiB"
+   ]
+  ],
+  "diagnostics": {
+   "total-byte-weight": "Total size was 8,726 KiB",
+   "dom-size": "2,147 elements",
+   "unused-javascript": "Potential savings of 318 KiB",
+   "unused-css-rules": "Potential savings of 51 KiB",
+   "render-blocking-resources": null,
+   "modern-image-formats": "Potential savings of 960 KiB",
+   "uses-optimized-images": "",
+   "uses-responsive-images": "Potential savings of 17 KiB",
+   "third-party-summary": "Third-party code blocked the main thread for 310 ms",
+   "mainthread-work-breakdown": "3.2 s",
+   "bootup-time": "1.4 s",
+   "font-display": null,
+   "uses-long-cache-ttl": "95 resources found",
+   "largest-contentful-paint-element": null
+  },
+  "seo_fails": [],
+  "a11y_fails": [],
+  "lcp_element": ""
+ },
+ "home_mobile.json": {
+  "scores": {
+   "performance": 43,
+   "accessibility": 98,
+   "best-practices": 75,
+   "seo": 100
+  },
+  "metrics": {
+   "first-contentful-paint": "3.6 s",
+   "largest-contentful-paint": "4.3 s",
+   "total-blocking-time": "3,390 ms",
+   "cumulative-layout-shift": "0.002",
+   "speed-index": "6.6 s",
+   "interactive": "18.2 s",
+   "server-response-time": "Root document took 210 ms"
+  },
+  "opportunities": [
+   [
+    "Reduce unused CSS",
+    0.3,
+    "Potential savings of 40 KiB"
+   ],
+   [
+    "Initial server response time was short",
+    0.2,
+    "Root document took 210 ms"
+   ]
+  ],
+  "diagnostics": {
+   "total-byte-weight": "Total size was 4,104 KiB",
+   "dom-size": "1,557 elements",
+   "unused-javascript": "Potential savings of 334 KiB",
+   "unused-css-rules": "Potential savings of 40 KiB",
+   "render-blocking-resources": null,
+   "modern-image-formats": "Potential savings of 960 KiB",
+   "uses-optimized-images": "",
+   "uses-responsive-images": "Potential savings of 9 KiB",
+   "third-party-summary": "Third-party code blocked the main thread for 2,490 ms",
+   "mainthread-work-breakdown": "13.3 s",
+   "bootup-time": "6.0 s",
+   "font-display": null,
+   "uses-long-cache-ttl": "95 resources found",
+   "largest-contentful-paint-element": null
+  },
+  "seo_fails": [],
+  "a11y_fails": [
+   "Max Potential First Input Delay",
+   "Browser errors were logged to the console",
+   "Uses third-party cookies",
+   "Minimize main-thread work",
+   "Reduce JavaScript execution time",
+   "Reduce the impact of third-party code",
+   "Uses ARIA roles on incompatible elements",
+   "Heading elements are not in a sequentially-descending order"
+  ],
+  "lcp_element": ""
+ },
+ "kamerasysteme_mobile.json": {
+  "scores": {
+   "performance": 40,
+   "accessibility": 99,
+   "best-practices": 75,
+   "seo": 100
+  },
+  "metrics": {
+   "first-contentful-paint": "3.0 s",
+   "largest-contentful-paint": "7.9 s",
+   "total-blocking-time": "1,560 ms",
+   "cumulative-layout-shift": "0.046",
+   "speed-index": "5.3 s",
+   "interactive": "15.9 s",
+   "server-response-time": "Root document took 220 ms"
+  },
+  "opportunities": [
+   [
+    "Reduce unused JavaScript",
+    0.6,
+    "Potential savings of 319 KiB"
+   ],
+   [
+    "Reduce unused CSS",
+    0.3,
+    "Potential savings of 36 KiB"
+   ],
+   [
+    "Initial server response time was short",
+    0.2,
+    "Root document took 220 ms"
+   ],
+   [
+    "Preconnect to required origins",
+    0.2,
+    "Potential savings of 230 ms"
+   ]
+  ],
+  "diagnostics": {
+   "total-byte-weight": "Total size was 3,117 KiB",
+   "dom-size": "1,443 elements",
+   "unused-javascript": "Potential savings of 319 KiB",
+   "unused-css-rules": "Potential savings of 36 KiB",
+   "render-blocking-resources": null,
+   "modern-image-formats": "Potential savings of 385 KiB",
+   "uses-optimized-images": "",
+   "uses-responsive-images": "Potential savings of 19 KiB",
+   "third-party-summary": "Third-party code blocked the main thread for 1,380 ms",
+   "mainthread-work-breakdown": "9.5 s",
+   "bootup-time": "4.0 s",
+   "font-display": null,
+   "uses-long-cache-ttl": "94 resources found",
+   "largest-contentful-paint-element": null
+  },
+  "seo_fails": [],
+  "a11y_fails": [
+   "Browser errors were logged to the console",
+   "Uses third-party cookies",
+   "Minimize main-thread work",
+   "Reduce JavaScript execution time",
+   "Preconnect to required origins",
+   "Reduce the impact of third-party code",
+   "Uses ARIA roles on incompatible elements",
+   "Reduce unused CSS"
+  ],
+  "lcp_element": ""
+ },
+ "lueneburg_mobile.json": {
+  "scores": {
+   "performance": 52,
+   "accessibility": 99,
+   "best-practices": 75,
+   "seo": 100
+  },
+  "metrics": {
+   "first-contentful-paint": "3.0 s",
+   "largest-contentful-paint": "3.6 s",
+   "total-blocking-time": "1,880 ms",
+   "cumulative-layout-shift": "0.033",
+   "speed-index": "6.1 s",
+   "interactive": "17.5 s",
+   "server-response-time": "Root document took 210 ms"
+  },
+  "opportunities": [
+   [
+    "Initial server response time was short",
+    0.2,
+    "Root document took 210 ms"
+   ]
+  ],
+  "diagnostics": {
+   "total-byte-weight": "Total size was 3,902 KiB",
+   "dom-size": "1,417 elements",
+   "unused-javascript": "Potential savings of 319 KiB",
+   "unused-css-rules": "Potential savings of 35 KiB",
+   "render-blocking-resources": null,
+   "modern-image-formats": "Potential savings of 930 KiB",
+   "uses-optimized-images": "",
+   "uses-responsive-images": "Potential savings of 9 KiB",
+   "third-party-summary": "Third-party code blocked the main thread for 1,440 ms",
+   "mainthread-work-breakdown": "9.6 s",
+   "bootup-time": "3.9 s",
+   "font-display": null,
+   "uses-long-cache-ttl": "96 resources found",
+   "largest-contentful-paint-element": null
+  },
+  "seo_fails": [],
+  "a11y_fails": [
+   "Browser errors were logged to the console",
+   "Uses third-party cookies",
+   "Minimize main-thread work",
+   "Reduce JavaScript execution time",
+   "Reduce the impact of third-party code",
+   "Uses ARIA roles on incompatible elements",
+   "Avoid an excessive DOM size",
+   "Issues were logged in the `Issues` panel in Chrome Devtools"
+  ],
+  "lcp_element": ""
+ },
+ "zutrittssystem_mobile.json": {
+  "scores": {
+   "performance": 26,
+   "accessibility": 98,
+   "best-practices": 75,
+   "seo": 100
+  },
+  "metrics": {
+   "first-contentful-paint": "3.1 s",
+   "largest-contentful-paint": "14.3 s",
+   "total-blocking-time": "4,270 ms",
+   "cumulative-layout-shift": "0.214",
+   "speed-index": "4.8 s",
+   "interactive": "19.1 s",
+   "server-response-time": "Root document took 210 ms"
+  },
+  "opportunities": [
+   [
+    "Reduce unused JavaScript",
+    1.1,
+    "Potential savings of 298 KiB"
+   ],
+   [
+    "Reduce unused CSS",
+    0.7,
+    "Potential savings of 37 KiB"
+   ],
+   [
+    "Preconnect to required origins",
+    0.4,
+    "Potential savings of 380 ms"
+   ],
+   [
+    "Initial server response time was short",
+    0.2,
+    "Root document took 210 ms"
+   ]
+  ],
+  "diagnostics": {
+   "total-byte-weight": "Total size was 13,052 KiB",
+   "dom-size": "1,263 elements",
+   "unused-javascript": "Potential savings of 298 KiB",
+   "unused-css-rules": "Potential savings of 37 KiB",
+   "render-blocking-resources": null,
+   "modern-image-formats": "Potential savings of 454 KiB",
+   "uses-optimized-images": "",
+   "uses-responsive-images": "Potential savings of 9 KiB",
+   "third-party-summary": "Third-party code blocked the main thread for 2,350 ms",
+   "mainthread-work-breakdown": "10.5 s",
+   "bootup-time": "5.0 s",
+   "font-display": null,
+   "uses-long-cache-ttl": "82 resources found",
+   "largest-contentful-paint-element": null
+  },
+  "seo_fails": [],
+  "a11y_fails": [
+   "Largest Contentful Paint",
+   "Max Potential First Input Delay",
+   "Browser errors were logged to the console",
+   "Uses third-party cookies",
+   "Minimize main-thread work",
+   "Reduce JavaScript execution time",
+   "Preconnect to required origins",
+   "Reduce the impact of third-party code"
+  ],
+  "lcp_element": ""
+ }
+}

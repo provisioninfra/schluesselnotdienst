@@ -1,0 +1,1284 @@
+{
+ "pages_total": 36,
+ "indexable": [
+  "https://provision-infra.de/",
+  "https://provision-infra.de/bad-bevensen/",
+  "https://provision-infra.de/bad-bodenteich/",
+  "https://provision-infra.de/bienenbuettel/",
+  "https://provision-infra.de/bleckede/",
+  "https://provision-infra.de/celle/",
+  "https://provision-infra.de/dannenberg/",
+  "https://provision-infra.de/ebstorf/",
+  "https://provision-infra.de/gifhorn/",
+  "https://provision-infra.de/hitzacker/",
+  "https://provision-infra.de/kamerasysteme/",
+  "https://provision-infra.de/karriere/",
+  "https://provision-infra.de/luechow/",
+  "https://provision-infra.de/lueneburg/",
+  "https://provision-infra.de/uelzen/",
+  "https://provision-infra.de/wieren/",
+  "https://provision-infra.de/winsen-luhe/",
+  "https://provision-infra.de/wittingen/",
+  "https://provision-infra.de/zutrittssystem/"
+ ],
+ "noindex": [
+  "https://provision-infra.de/agb/",
+  "https://provision-infra.de/anfrage-auswahl/",
+  "https://provision-infra.de/danke-seite/",
+  "https://provision-infra.de/danke/",
+  "https://provision-infra.de/datenschutz/",
+  "https://provision-infra.de/elementor-3524/",
+  "https://provision-infra.de/impressum/",
+  "https://provision-infra.de/kontakt-kamerasysteme/",
+  "https://provision-infra.de/kontakt-kombiniert/",
+  "https://provision-infra.de/kontakt-test/",
+  "https://provision-infra.de/kontakt/",
+  "https://provision-infra.de/opt-2/",
+  "https://provision-infra.de/termin-gebucht-kamerasysteme/",
+  "https://provision-infra.de/termin-gebucht/",
+  "https://provision-infra.de/termin-kamerasysteme/",
+  "https://provision-infra.de/termin/",
+  "https://provision-infra.de/wartung/"
+ ],
+ "local_pages": {
+  "bad-bevensen": {
+   "words": 2220,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Bad Bevense"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "bad-bodenteich": {
+   "words": 2229,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Bad Bodente"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "bienenbuettel": {
+   "words": 2180,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Bienenbütte"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "bleckede": {
+   "words": 2171,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Bleckede"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "celle": {
+   "words": 2236,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Celle"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "dannenberg": {
+   "words": 2175,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Dannenberg "
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "ebstorf": {
+   "words": 2170,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Ebstorf"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "gifhorn": {
+   "words": 2165,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Gifhorn"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "hitzacker": {
+   "words": 2135,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Hitzacker ("
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "luechow": {
+   "words": 2204,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Lüchow (Wen"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "lueneburg": {
+   "words": 1965,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Lüneburg"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "uelzen": {
+   "words": 2258,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Uelzen"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "wieren": {
+   "words": 2196,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Wieren"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "winsen-luhe": {
+   "words": 2260,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Winsen (Luh"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  },
+  "wittingen": {
+   "words": 2196,
+   "h1": [
+    "Mechanische & elektronische Schließanlagen sowie Videoüberwachung in Wittingen"
+   ],
+   "h2_count": 18,
+   "tel": 1,
+   "forms": 0
+  }
+ },
+ "local_similarity": {
+  "pairs": 105,
+  "mean": 0.725,
+  "max": [
+   0.811,
+   "bad-bodenteich",
+   "wieren"
+  ],
+  "min": [
+   0.642,
+   "bienenbuettel",
+   "lueneburg"
+  ],
+  "top5": [
+   [
+    0.811,
+    "bad-bodenteich",
+    "wieren"
+   ],
+   [
+    0.802,
+    "dannenberg",
+    "ebstorf"
+   ],
+   [
+    0.794,
+    "bleckede",
+    "wittingen"
+   ],
+   [
+    0.792,
+    "hitzacker",
+    "wittingen"
+   ],
+   [
+    0.79,
+    "gifhorn",
+    "wittingen"
+   ]
+  ]
+ },
+ "local_unique_word_share": {
+  "bad-bevensen": 0.224,
+  "bad-bodenteich": 0.219,
+  "bienenbuettel": 0.219,
+  "bleckede": 0.218,
+  "celle": 0.218,
+  "dannenberg": 0.208,
+  "ebstorf": 0.21,
+  "gifhorn": 0.221,
+  "hitzacker": 0.214,
+  "luechow": 0.206,
+  "lueneburg": 0.185,
+  "uelzen": 0.224,
+  "wieren": 0.231,
+  "winsen-luhe": 0.222,
+  "wittingen": 0.218
+ },
+ "key_pages": {
+  "https://provision-infra.de/": {
+   "words": 2445,
+   "h1": [
+    "Wir installieren in deinem Unternehmen ein digitales Schließsystem"
+   ],
+   "h2": [
+    "Kundenstimmen und Testimonials",
+    "Mit digitalen Schließsystemen von ProVision Infra zusätzliche Kosten verhindern",
+    "Erstgespräch",
+    "Termin vor Ort",
+    "Planung deines Systems",
+    "Umsetzung",
+    "Übergabe & Betreuung",
+    "Videoüberwachung aus einer Hand",
+    "Der Gründer von ProVision Infra",
+    "Der Gründer von ProVision Infra",
+    "Digitale Schließanlagen zwischen Hamburg und Hannover",
+    "Häufige Fragen zu digitalen Schließanlagen mit ProVision Infra",
+    "Häufige Fragen zu digitalen Schließanlagen mit ProVision Infra"
+   ],
+   "imgs": 47,
+   "imgs_noalt": 10,
+   "tel": 0,
+   "forms": 0,
+   "internal_links": 9
+  },
+  "https://provision-infra.de/zutrittssystem/": {
+   "words": 937,
+   "h1": [
+    "Wir betreuen deine elektronische Schließanlage und das Thema ist für dich dauerh"
+   ],
+   "h2": [
+    "Besser einfach auf einen erfahrenen Anbieter wie ProVision Infra setzen und das ",
+    "Zusätzlich bekommst du:",
+    "Du gibst dein Zutrittsmanagement einmal ab – wir erledigen den Rest.",
+    "Du gibst dein Zutrittsmanagement einmal ab – wir erledigen den Rest.",
+    "Du kannst aus 3 Paketen auswählen:",
+    "Essential",
+    "Professional",
+    "Enterprise",
+    "Essential",
+    "Enterprise",
+    "Professional",
+    "Elektronische Schließanlagen zwischen Hamburg und Hannover",
+    "Häufige Fragen zur elektronischen Schließanlage mit ProVision Infra",
+    "Häufige Fragen zur elektronischen Schließanlage mit ProVision Infra"
+   ],
+   "imgs": 29,
+   "imgs_noalt": 16,
+   "tel": 0,
+   "forms": 0,
+   "internal_links": 8
+  },
+  "https://provision-infra.de/kamerasysteme/": {
+   "words": 1907,
+   "h1": [
+    "Wir schützen dein Unternehmen mit Kamera- & Videoüberwachung"
+   ],
+   "h2": [
+    "Solange nichts passiert, denkt kaum jemand an Kameras.",
+    "Was ohne Kameras auf deinem Gelände passiert?",
+    "Kundenstimmen und Testimonials",
+    "Stell dir mal vor …",
+    "Mit Kamera- und Videoüberwachung von ProVision Infra teure Schäden verhindern",
+    "So arbeiten wir",
+    "Ablauf der Zusammenarbeit",
+    "Erstgespräch",
+    "Termin vor Ort",
+    "Planung deines Kamerasystems",
+    "Umsetzung",
+    "Übergabe & Betreuung",
+    "Der Gründer von ProVision Infra",
+    "Der Gründer von ProVision Infra",
+    "Technik, die wir verbauen",
+    "Videoüberwachung in Hamburg, Hannover und Niedersachsen",
+    "Häufige Fragen zur Videoüberwachung für Unternehmen",
+    "Häufige Fragen zur Videoüberwachung für Unternehmen",
+    "Unsere Partner"
+   ],
+   "imgs": 27,
+   "imgs_noalt": 7,
+   "tel": 0,
+   "forms": 0,
+   "internal_links": 9
+  },
+  "https://provision-infra.de/karriere/": {
+   "words": 1691,
+   "h1": [
+    "Komm ins Team von ProVision Infra und mach aus Schlüsselbunden Vergangenheit."
+   ],
+   "h2": [
+    "In deinem nächsten Job willst du …",
+    "Über 100 Unternehmen vertrauen uns. Jetzt brauchen wir mehr Leute.",
+    "So arbeiten wir bei ProVision Infra",
+    "Passen wir zusammen?",
+    "Aktuelle Jobs und offene Stellen",
+    "So läuft deine Bewerbung ab",
+    "Dein Start bei ProVision Infra",
+    "Benefits bei ProVision Infra",
+    "Fragen zur Bewerbung",
+    "Worauf wartest du? Bewirb dich."
+   ],
+   "imgs": 7,
+   "imgs_noalt": 0,
+   "tel": 2,
+   "forms": 0,
+   "internal_links": 12
+  }
+ },
+ "content_inlinks": {
+  "https://provision-infra.de/": 41,
+  "https://provision-infra.de/bad-bevensen/": 12,
+  "https://provision-infra.de/bad-bodenteich/": 12,
+  "https://provision-infra.de/bienenbuettel/": 12,
+  "https://provision-infra.de/bleckede/": 12,
+  "https://provision-infra.de/celle/": 12,
+  "https://provision-infra.de/dannenberg/": 12,
+  "https://provision-infra.de/ebstorf/": 12,
+  "https://provision-infra.de/gifhorn/": 12,
+  "https://provision-infra.de/hitzacker/": 12,
+  "https://provision-infra.de/kamerasysteme/": 18,
+  "https://provision-infra.de/karriere/": 3,
+  "https://provision-infra.de/luechow/": 12,
+  "https://provision-infra.de/lueneburg/": 14,
+  "https://provision-infra.de/uelzen/": 14,
+  "https://provision-infra.de/wieren/": 12,
+  "https://provision-infra.de/winsen-luhe/": 12,
+  "https://provision-infra.de/wittingen/": 12,
+  "https://provision-infra.de/zutrittssystem/": 18
+ },
+ "crawl": {
+  "urls": 27,
+  "status": {
+   "200": 27
+  },
+  "redirects": [
+   [
+    "https://provision-infra.de/kontakt",
+    [
+     [
+      301,
+      "https://provision-infra.de/kontakt/"
+     ]
+    ]
+   ],
+   [
+    "https://provision-infra.de/agb",
+    [
+     [
+      301,
+      "https://provision-infra.de/agb/"
+     ]
+    ]
+   ]
+  ],
+  "non200": [],
+  "nav_inlinks": {
+   "/": 128,
+   "/karriere/": 56,
+   "/zutrittssystem/": 55,
+   "/uelzen/": 69,
+   "/lueneburg/": 69,
+   "/kamerasysteme/": 87,
+   "/bad-bevensen/": 67,
+   "/bad-bodenteich/": 67,
+   "/bienenbuettel/": 67,
+   "/bleckede/": 67,
+   "/celle/": 67,
+   "/dannenberg/": 67,
+   "/ebstorf/": 67,
+   "/gifhorn/": 67,
+   "/hitzacker/": 67,
+   "/luechow/": 67,
+   "/wieren/": 67,
+   "/winsen-luhe/": 67,
+   "/wittingen/": 67,
+   "/kontakt": 14,
+   "/datenschutz/": 45,
+   "/impressum/": 45,
+   "/agb": 23,
+   "/anfrage-auswahl/": 67,
+   "/kontakt-kamerasysteme/": 25,
+   "/kontakt/": 44,
+   "/agb/": 44
+  },
+  "titles": {
+   "/": [
+    "Digitale Schließanlage für Unternehmen | ProVision Infra",
+    56
+   ],
+   "/karriere/": [
+    "Karriere bei ProVision Infra: Jobs in Bad Bevensen",
+    50
+   ],
+   "/zutrittssystem/": [
+    "Elektronische Schließanlage mit Service | ProVision Infra",
+    57
+   ],
+   "/uelzen/": [
+    "Schließanlagen & Videoüberwachung Uelzen | ProVision Infra",
+    58
+   ],
+   "/lueneburg/": [
+    "Schließanlagen & Videoüberwachung Lüneburg | ProVision Infra",
+    60
+   ],
+   "/kamerasysteme/": [
+    "Kamera- & Videoüberwachung für Unternehmen | ProVision Infra",
+    60
+   ],
+   "/bad-bevensen/": [
+    "Schließanlagen & Videoüberwachung Bad Bevensen | ProVision",
+    58
+   ],
+   "/bad-bodenteich/": [
+    "Schließanlagen & Videoüberwachung Bad Bodenteich | ProVision",
+    60
+   ],
+   "/bienenbuettel/": [
+    "Schließanlagen & Videoüberwachung Bienenbüttel | ProVision",
+    58
+   ],
+   "/bleckede/": [
+    "Schließanlagen & Videoüberwachung Bleckede | ProVision Infra",
+    60
+   ],
+   "/celle/": [
+    "Schließanlagen & Videoüberwachung Celle | ProVision Infra",
+    57
+   ],
+   "/dannenberg/": [
+    "Schließanlagen & Videoüberwachung Dannenberg | ProVision",
+    56
+   ],
+   "/ebstorf/": [
+    "Schließanlagen & Videoüberwachung Ebstorf | ProVision Infra",
+    59
+   ],
+   "/gifhorn/": [
+    "Schließanlagen & Videoüberwachung Gifhorn | ProVision Infra",
+    59
+   ],
+   "/hitzacker/": [
+    "Schließanlagen & Videoüberwachung Hitzacker | ProVision",
+    55
+   ],
+   "/luechow/": [
+    "Schließanlagen & Videoüberwachung Lüchow | ProVision Infra",
+    58
+   ],
+   "/wieren/": [
+    "Schließanlagen & Videoüberwachung Wieren | ProVision Infra",
+    58
+   ],
+   "/winsen-luhe/": [
+    "Schließanlagen & Videoüberwachung Winsen (Luhe) | ProVision",
+    59
+   ],
+   "/wittingen/": [
+    "Schließanlagen & Videoüberwachung Wittingen | ProVision",
+    55
+   ],
+   "/kontakt": [
+    "Kontakt - ProVision Infra",
+    25
+   ],
+   "/datenschutz/": [
+    "Datenschutz - ProVision Infra",
+    29
+   ],
+   "/impressum/": [
+    "Impressum - ProVision Infra",
+    27
+   ],
+   "/agb": [
+    "AGB - ProVision Infra",
+    21
+   ],
+   "/anfrage-auswahl/": [
+    "Anfrage – ProVision Infra",
+    25
+   ],
+   "/kontakt-kamerasysteme/": [
+    "Kontakt Kamerasysteme - ProVision Infra",
+    39
+   ],
+   "/kontakt/": [
+    "Kontakt - ProVision Infra",
+    25
+   ],
+   "/agb/": [
+    "AGB - ProVision Infra",
+    21
+   ]
+  },
+  "missing_desc": [],
+  "html_kb": {
+   "/": 611,
+   "/karriere/": 284,
+   "/zutrittssystem/": 440,
+   "/uelzen/": 521,
+   "/lueneburg/": 516,
+   "/kamerasysteme/": 500,
+   "/bad-bevensen/": 519,
+   "/bad-bodenteich/": 519,
+   "/bienenbuettel/": 519,
+   "/bleckede/": 519,
+   "/celle/": 519,
+   "/dannenberg/": 519,
+   "/ebstorf/": 519,
+   "/gifhorn/": 519,
+   "/hitzacker/": 518,
+   "/luechow/": 519,
+   "/wieren/": 519,
+   "/winsen-luhe/": 519,
+   "/wittingen/": 519,
+   "/kontakt": 190,
+   "/datenschutz/": 181,
+   "/impressum/": 146,
+   "/agb": 152,
+   "/anfrage-auswahl/": 179,
+   "/kontakt-kamerasysteme/": 185,
+   "/kontakt/": 190,
+   "/agb/": 152
+  },
+  "ld_types": {
+   "/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "FAQPage"
+   ],
+   "/karriere/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "WebSite",
+    "WebPage",
+    "BreadcrumbList",
+    "JobPosting",
+    "JobPosting",
+    "JobPosting",
+    "JobPosting",
+    "FAQPage"
+   ],
+   "/zutrittssystem/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "FAQPage"
+   ],
+   "/uelzen/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/lueneburg/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/kamerasysteme/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    "LocalBusiness",
+    "Service",
+    "FAQPage"
+   ],
+   "/bad-bevensen/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/bad-bodenteich/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/bienenbuettel/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/bleckede/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/celle/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/dannenberg/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/ebstorf/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/gifhorn/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/hitzacker/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/luechow/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/wieren/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/winsen-luhe/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/wittingen/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Product",
+    [
+     "LocalBusiness",
+     "Locksmith"
+    ],
+    "Service",
+    "Service",
+    "FAQPage"
+   ],
+   "/kontakt": [
+    "WebPage",
+    "BreadcrumbList",
+    "WebSite"
+   ],
+   "/datenschutz/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite"
+   ],
+   "/impressum/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite"
+   ],
+   "/agb": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite"
+   ],
+   "/anfrage-auswahl/": [
+    "WebPage",
+    "BreadcrumbList",
+    "WebSite"
+   ],
+   "/kontakt-kamerasysteme/": [
+    "WebPage",
+    "BreadcrumbList",
+    "WebSite"
+   ],
+   "/kontakt/": [
+    "WebPage",
+    "BreadcrumbList",
+    "WebSite"
+   ],
+   "/agb/": [
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite"
+   ]
+  },
+  "noalt": {
+   "/": [
+    94,
+    20
+   ],
+   "/karriere/": [
+    9,
+    0
+   ],
+   "/zutrittssystem/": [
+    58,
+    32
+   ],
+   "/uelzen/": [
+    52,
+    14
+   ],
+   "/lueneburg/": [
+    52,
+    14
+   ],
+   "/kamerasysteme/": [
+    54,
+    14
+   ],
+   "/bad-bevensen/": [
+    52,
+    14
+   ],
+   "/bad-bodenteich/": [
+    52,
+    14
+   ],
+   "/bienenbuettel/": [
+    52,
+    14
+   ],
+   "/bleckede/": [
+    52,
+    14
+   ],
+   "/celle/": [
+    52,
+    14
+   ],
+   "/dannenberg/": [
+    52,
+    14
+   ],
+   "/ebstorf/": [
+    52,
+    14
+   ],
+   "/gifhorn/": [
+    52,
+    14
+   ],
+   "/hitzacker/": [
+    52,
+    14
+   ],
+   "/luechow/": [
+    52,
+    14
+   ],
+   "/wieren/": [
+    52,
+    14
+   ],
+   "/winsen-luhe/": [
+    52,
+    14
+   ],
+   "/wittingen/": [
+    52,
+    14
+   ],
+   "/kontakt": [
+    0,
+    0
+   ],
+   "/datenschutz/": [
+    3,
+    0
+   ],
+   "/impressum/": [
+    3,
+    0
+   ],
+   "/agb": [
+    3,
+    0
+   ],
+   "/anfrage-auswahl/": [
+    0,
+    0
+   ],
+   "/kontakt-kamerasysteme/": [
+    0,
+    0
+   ],
+   "/kontakt/": [
+    0,
+    0
+   ],
+   "/agb/": [
+    3,
+    0
+   ]
+  },
+  "external_domains": [],
+  "orphans": []
+ },
+ "lighthouse": {
+  "home_desktop.json": {
+   "scores": {
+    "performance": 45
+   },
+   "metrics": {
+    "first-contentful-paint": "1.7 s",
+    "largest-contentful-paint": "8.3 s",
+    "total-blocking-time": "370 ms",
+    "cumulative-layout-shift": "0.004",
+    "speed-index": "3.9 s",
+    "interactive": "8.5 s",
+    "server-response-time": "Root document took 220 ms"
+   },
+   "opportunities": [
+    [
+     "Reduce unused JavaScript",
+     0.4,
+     "Potential savings of 318 KiB"
+    ],
+    [
+     "Initial server response time was short",
+     0.2,
+     "Root document took 220 ms"
+    ],
+    [
+     "Preconnect to required origins",
+     0.2,
+     "Potential savings of 160 ms"
+    ],
+    [
+     "Reduce unused CSS",
+     0.2,
+     "Potential savings of 51 KiB"
+    ]
+   ],
+   "diagnostics": {
+    "total-byte-weight": "Total size was 8,726 KiB",
+    "dom-size": "2,147 elements",
+    "unused-javascript": "Potential savings of 318 KiB",
+    "unused-css-rules": "Potential savings of 51 KiB",
+    "render-blocking-resources": null,
+    "modern-image-formats": "Potential savings of 960 KiB",
+    "uses-optimized-images": "",
+    "uses-responsive-images": "Potential savings of 17 KiB",
+    "third-party-summary": "Third-party code blocked the main thread for 310 ms",
+    "mainthread-work-breakdown": "3.2 s",
+    "bootup-time": "1.4 s",
+    "font-display": null,
+    "uses-long-cache-ttl": "95 resources found",
+    "largest-contentful-paint-element": null
+   },
+   "seo_fails": [],
+   "a11y_fails": [],
+   "lcp_element": ""
+  },
+  "home_mobile.json": {
+   "scores": {
+    "performance": 43,
+    "accessibility": 98,
+    "best-practices": 75,
+    "seo": 100
+   },
+   "metrics": {
+    "first-contentful-paint": "3.6 s",
+    "largest-contentful-paint": "4.3 s",
+    "total-blocking-time": "3,390 ms",
+    "cumulative-layout-shift": "0.002",
+    "speed-index": "6.6 s",
+    "interactive": "18.2 s",
+    "server-response-time": "Root document took 210 ms"
+   },
+   "opportunities": [
+    [
+     "Reduce unused CSS",
+     0.3,
+     "Potential savings of 40 KiB"
+    ],
+    [
+     "Initial server response time was short",
+     0.2,
+     "Root document took 210 ms"
+    ]
+   ],
+   "diagnostics": {
+    "total-byte-weight": "Total size was 4,104 KiB",
+    "dom-size": "1,557 elements",
+    "unused-javascript": "Potential savings of 334 KiB",
+    "unused-css-rules": "Potential savings of 40 KiB",
+    "render-blocking-resources": null,
+    "modern-image-formats": "Potential savings of 960 KiB",
+    "uses-optimized-images": "",
+    "uses-responsive-images": "Potential savings of 9 KiB",
+    "third-party-summary": "Third-party code blocked the main thread for 2,490 ms",
+    "mainthread-work-breakdown": "13.3 s",
+    "bootup-time": "6.0 s",
+    "font-display": null,
+    "uses-long-cache-ttl": "95 resources found",
+    "largest-contentful-paint-element": null
+   },
+   "seo_fails": [],
+   "a11y_fails": [
+    "Max Potential First Input Delay",
+    "Browser errors were logged to the console",
+    "Uses third-party cookies",
+    "Minimize main-thread work",
+    "Reduce JavaScript execution time",
+    "Reduce the impact of third-party code",
+    "Uses ARIA roles on incompatible elements",
+    "Heading elements are not in a sequentially-descending order"
+   ],
+   "lcp_element": ""
+  },
+  "kamerasysteme_mobile.json": {
+   "scores": {
+    "performance": 40,
+    "accessibility": 99,
+    "best-practices": 75,
+    "seo": 100
+   },
+   "metrics": {
+    "first-contentful-paint": "3.0 s",
+    "largest-contentful-paint": "7.9 s",
+    "total-blocking-time": "1,560 ms",
+    "cumulative-layout-shift": "0.046",
+    "speed-index": "5.3 s",
+    "interactive": "15.9 s",
+    "server-response-time": "Root document took 220 ms"
+   },
+   "opportunities": [
+    [
+     "Reduce unused JavaScript",
+     0.6,
+     "Potential savings of 319 KiB"
+    ],
+    [
+     "Reduce unused CSS",
+     0.3,
+     "Potential savings of 36 KiB"
+    ],
+    [
+     "Initial server response time was short",
+     0.2,
+     "Root document took 220 ms"
+    ],
+    [
+     "Preconnect to required origins",
+     0.2,
+     "Potential savings of 230 ms"
+    ]
+   ],
+   "diagnostics": {
+    "total-byte-weight": "Total size was 3,117 KiB",
+    "dom-size": "1,443 elements",
+    "unused-javascript": "Potential savings of 319 KiB",
+    "unused-css-rules": "Potential savings of 36 KiB",
+    "render-blocking-resources": null,
+    "modern-image-formats": "Potential savings of 385 KiB",
+    "uses-optimized-images": "",
+    "uses-responsive-images": "Potential savings of 19 KiB",
+    "third-party-summary": "Third-party code blocked the main thread for 1,380 ms",
+    "mainthread-work-breakdown": "9.5 s",
+    "bootup-time": "4.0 s",
+    "font-display": null,
+    "uses-long-cache-ttl": "94 resources found",
+    "largest-contentful-paint-element": null
+   },
+   "seo_fails": [],
+   "a11y_fails": [
+    "Browser errors were logged to the console",
+    "Uses third-party cookies",
+    "Minimize main-thread work",
+    "Reduce JavaScript execution time",
+    "Preconnect to required origins",
+    "Reduce the impact of third-party code",
+    "Uses ARIA roles on incompatible elements",
+    "Reduce unused CSS"
+   ],
+   "lcp_element": ""
+  },
+  "lueneburg_mobile.json": {
+   "scores": {
+    "performance": 52,
+    "accessibility": 99,
+    "best-practices": 75,
+    "seo": 100
+   },
+   "metrics": {
+    "first-contentful-paint": "3.0 s",
+    "largest-contentful-paint": "3.6 s",
+    "total-blocking-time": "1,880 ms",
+    "cumulative-layout-shift": "0.033",
+    "speed-index": "6.1 s",
+    "interactive": "17.5 s",
+    "server-response-time": "Root document took 210 ms"
+   },
+   "opportunities": [
+    [
+     "Initial server response time was short",
+     0.2,
+     "Root document took 210 ms"
+    ]
+   ],
+   "diagnostics": {
+    "total-byte-weight": "Total size was 3,902 KiB",
+    "dom-size": "1,417 elements",
+    "unused-javascript": "Potential savings of 319 KiB",
+    "unused-css-rules": "Potential savings of 35 KiB",
+    "render-blocking-resources": null,
+    "modern-image-formats": "Potential savings of 930 KiB",
+    "uses-optimized-images": "",
+    "uses-responsive-images": "Potential savings of 9 KiB",
+    "third-party-summary": "Third-party code blocked the main thread for 1,440 ms",
+    "mainthread-work-breakdown": "9.6 s",
+    "bootup-time": "3.9 s",
+    "font-display": null,
+    "uses-long-cache-ttl": "96 resources found",
+    "largest-contentful-paint-element": null
+   },
+   "seo_fails": [],
+   "a11y_fails": [
+    "Browser errors were logged to the console",
+    "Uses third-party cookies",
+    "Minimize main-thread work",
+    "Reduce JavaScript execution time",
+    "Reduce the impact of third-party code",
+    "Uses ARIA roles on incompatible elements",
+    "Avoid an excessive DOM size",
+    "Issues were logged in the `Issues` panel in Chrome Devtools"
+   ],
+   "lcp_element": ""
+  },
+  "zutrittssystem_mobile.json": {
+   "scores": {
+    "performance": 26,
+    "accessibility": 98,
+    "best-practices": 75,
+    "seo": 100
+   },
+   "metrics": {
+    "first-contentful-paint": "3.1 s",
+    "largest-contentful-paint": "14.3 s",
+    "total-blocking-time": "4,270 ms",
+    "cumulative-layout-shift": "0.214",
+    "speed-index": "4.8 s",
+    "interactive": "19.1 s",
+    "server-response-time": "Root document took 210 ms"
+   },
+   "opportunities": [
+    [
+     "Reduce unused JavaScript",
+     1.1,
+     "Potential savings of 298 KiB"
+    ],
+    [
+     "Reduce unused CSS",
+     0.7,
+     "Potential savings of 37 KiB"
+    ],
+    [
+     "Preconnect to required origins",
+     0.4,
+     "Potential savings of 380 ms"
+    ],
+    [
+     "Initial server response time was short",
+     0.2,
+     "Root document took 210 ms"
+    ]
+   ],
+   "diagnostics": {
+    "total-byte-weight": "Total size was 13,052 KiB",
+    "dom-size": "1,263 elements",
+    "unused-javascript": "Potential savings of 298 KiB",
+    "unused-css-rules": "Potential savings of 37 KiB",
+    "render-blocking-resources": null,
+    "modern-image-formats": "Potential savings of 454 KiB",
+    "uses-optimized-images": "",
+    "uses-responsive-images": "Potential savings of 9 KiB",
+    "third-party-summary": "Third-party code blocked the main thread for 2,350 ms",
+    "mainthread-work-breakdown": "10.5 s",
+    "bootup-time": "5.0 s",
+    "font-display": null,
+    "uses-long-cache-ttl": "82 resources found",
+    "largest-contentful-paint-element": null
+   },
+   "seo_fails": [],
+   "a11y_fails": [
+    "Largest Contentful Paint",
+    "Max Potential First Input Delay",
+    "Browser errors were logged to the console",
+    "Uses third-party cookies",
+    "Minimize main-thread work",
+    "Reduce JavaScript execution time",
+    "Preconnect to required origins",
+    "Reduce the impact of third-party code"
+   ],
+   "lcp_element": ""
+  }
+ }
+}
